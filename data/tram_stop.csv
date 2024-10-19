@@ -1,0 +1,2336 @@
+﻿stop_id,latitude,stop_name,longitude,ticketzone,routeussp
+18730,-37.744359,134-Merribell Ave/Nicholson St (Coburg),144.977728,1,1
+18726,-37.753566,130-The Avenue/Nicholson St (Coburg),144.975945,1,1
+18727,-37.75134,131-Rennie St/Nicholson St (Coburg),144.976505,1,1
+18728,-37.749418,132-Crozier St/Nicholson St (Coburg),144.976841,1,1
+18729,-37.746371,133-Harding St/Nicholson St (Coburg),144.97731,1,1
+19357,-37.756541,129-Moreland Rd/Nicholson St (Coburg),144.974979,1,1
+19363,-37.753372,130-The Avenue/Nicholson St (Coburg),144.976189,1,1
+19364,-37.751217,131-Rennie St/Nicholson St (Coburg),144.976679,1,1
+19365,-37.749393,132-Crozier St/Nicholson St (Coburg),144.97699,1,1
+19366,-37.746059,133-Harding St/Nicholson St (Coburg),144.977523,1,1
+19367,-37.744371,134-Merribell Ave/Nicholson St (Coburg),144.977887,1,1
+19368,-37.742861,135-Bell St/Nicholson St (Coburg),144.978132,1,1
+18227,-37.823816,17-Arts Precinct/Sturt St (Southbank),144.967256,1,1
+18229,-37.824094,17-Arts Precinct/Sturt St (Southbank),144.96718,1,1
+18573,-37.836632,26-Ferrars St/Park St (South Melbourne),144.956405,1,1
+18658,-37.837522,27-Park St/Montague St (South Melbourne),144.954176,1,1
+18659,-37.840679,28-Montague St/Bridport St (Albert Park),144.955384,1,1
+18660,-37.841563,29-Bridport St/Victoria Ave (Albert Park),144.953337,1,1
+18661,-37.843942,30-Richardson St/Victoria Ave (Albert Park),144.951283,1,1
+18662,-37.845674,31-Graham St/Victoria Ave (Albert Park),144.949826,1,1
+18663,-37.847124,32-Beaconsfield Pde/Victoria Ave (Albert Park),144.948729,1,1
+18224,-37.830091,20-Kings Way/Sturt St (Southbank),144.965334,1,1
+18225,-37.828431,19-Miles St/Sturt St (Southbank),144.965755,1,1
+18226,-37.825779,18-Grant St/Sturt St (Southbank),144.966634,1,1
+18230,-37.825924,18-Grant St/Sturt St (Southbank),144.966664,1,1
+18231,-37.828184,19-Miles St/Sturt St (Southbank),144.966057,1,1
+18232,-37.830119,20-Kings Way/Sturt St (Southbank),144.96539,1,1
+18481,-37.83223,22-Dorcas St/Eastern Rd (South Melbourne),144.964957,1,1
+18482,-37.834472,23-Moray St/Park St (South Melbourne),144.96385,1,1
+18483,-37.835203,24-Clarendon St/Park St (South Melbourne),144.961308,1,1
+18484,-37.835946,25-Cecil St/Park St (South Melbourne),144.958912,1,1
+19305,-37.832171,22-Dorcas St/Eastern Rd (South Melbourne),144.965186,1,1
+19306,-37.834508,23-Moray St/Park St (South Melbourne),144.964349,1,1
+19307,-37.835223,24-Clarendon St/Park St (South Melbourne),144.961944,1,1
+19308,-37.836138,25-Cecil St/Park St (South Melbourne),144.958566,1,1
+19309,-37.836642,26-Ferrars St/Park St (South Melbourne),144.956973,1,1
+19310,-37.837329,27-Montague St/Park St (South Melbourne),144.954466,1,1
+19311,-37.840423,28-Bridport St/Montague St (Albert Park),144.955721,1,1
+19312,-37.841725,29-Bridport St/Victoria Ave (Albert Park),144.953367,1,1
+19313,-37.843787,30-Richardson St/Victoria Ave (Albert Park),144.951685,1,1
+19314,-37.845767,31-Graham St/Victoria Ave (Albert Park),144.950016,1,1
+10311,-37.862455,45-Glenferrie Rd/Wattletree Rd (Malvern),145.028508,1,5
+10371,-37.862069,44-Duncraig Ave/Wattletree Rd (Armadale),145.025382,1,5
+11285,-37.86171,43-Egerton Rd/Wattletree Rd (Armadale),145.022754,1,5
+12599,-37.861346,42-Kooyong Rd/Wattletree Rd (Armadale),145.019899,1,5
+398,-37.860942,41-Armadale St/Wattletree Rd (Armadale),145.017796,1,5
+409,-37.861189,42-Kooyong Rd/Wattletree Rd (Armadale),145.019619,1,5
+8345,-37.863148,47-Cabrini Hospital/Wattletree Rd (Malvern),145.033855,1,5
+9156,-37.862828,46-Soudan St/Wattletree Rd (Malvern),145.031386,1,5
+940,-37.861592,43-Egerton Rd/Wattletree Rd (Armadale),145.0227,1,5
+946,-37.861893,44-Duncraig Ave/Wattletree Rd (Armadale),145.025091,1,5
+947,-37.862278,45-Glenferrie Rd/Wattletree Rd (Malvern),145.028127,1,5
+950,-37.862658,46-Nicholls St/Wattletree Rd (Malvern),145.030958,1,5
+955,-37.86296,47-Cabrini Hospital/Wattletree Rd (Malvern),145.033394,1,5
+1185,-37.864226,50-Vincent St/Wattletree Rd (Malvern East),145.043375,1,5
+1291,-37.864613,51-Erica Ave/Wattletree Rd (Malvern East),145.046571,1,5
+1575,-37.865076,52-Burke Rd/Wattletree Rd (Malvern East),145.050071,1,5
+1696,-37.864782,51-Nott St/Wattletree Rd (Malvern East),145.046998,1,5
+1789,-37.864385,50-Anderson St/Wattletree Rd (Malvern East),145.043712,1,5
+2232,-37.863985,49-Tooronga Rd/Wattletree Rd (Malvern East),145.040278,1,5
+7354,-37.863572,48-Dixon St/Wattletree Rd (Malvern),145.037084,1,5
+968,-37.863393,48-Dixon St/Wattletree Rd (Malvern),145.036634,1,5
+980,-37.863827,49-Tooronga Rd/Wattletree Rd (Malvern East),145.039987,1,5
+19360,-37.755663,131-De Carle St/Moreland Rd (Coburg),144.966354,1,6
+19362,-37.755292,133-Moreland Station/Cameron St (Coburg),144.962119,1,6
+16743,-37.855119,40-Armadale Station/High St (Armadale),145.018247,1,6
+16744,-37.855419,41-Kooyong Rd/High St (Armadale),145.020581,1,6
+16745,-37.855832,42-Huntingtower Rd/High St (Armadale),145.023673,1,6
+16746,-37.856122,43-Mercer Rd/High St (Armadale),145.025938,1,6
+16747,-37.856536,44-Glenferrie Rd/High St (Malvern),145.029166,1,6
+16748,-37.856942,45-De La Salle College/High St (Malvern),145.032383,1,6
+16766,-37.857157,45-De La Salle College/High St (Malvern),145.032889,1,6
+16767,-37.856704,44-Glenferrie Rd/High St (Malvern),145.029503,1,6
+16768,-37.856289,43-Mercer Rd/High St (Armadale),145.026229,1,6
+16769,-37.855996,42-Huntingtower Rd/High St (Armadale),145.023827,1,6
+16770,-37.855585,41-Kooyong Rd/High St (Armadale),145.020804,1,6
+16771,-37.855274,40-Armadale Station/High St (Armadale),145.018402,1,6
+18722,-37.756206,130-Barrow St/Moreland Rd (Coburg),144.970153,1,6
+18723,-37.75581,131-De Carle St/Moreland Rd (Coburg),144.96652,1,6
+18724,-37.755564,132-Sydney Rd/Moreland Rd (Coburg),144.964279,1,6
+18725,-37.75526,133-Moreland Station/Moreland Rd (Coburg),144.962381,1,6
+19358,-37.756571,129-Moreland Rd/Holmes St (Brunswick),144.974626,1,6
+19359,-37.756058,130-Barrow St/Moreland Rd (Coburg),144.969975,1,6
+19361,-37.75534,132-Sydney Rd/Moreland Rd (Coburg),144.963854,1,6
+13401,-37.850564,28-Punt Rd/High St (Prahran),144.984047,1,6
+14033,-37.85105,29-Perth St/High St (Prahran),144.987727,1,6
+14614,-37.851319,30-Prahran Station/High St (Prahran),144.989731,1,6
+14728,-37.851756,31-Chapel St/High St (Prahran),144.993209,1,6
+15699,-37.852199,32-Hornby St/High St (Prahran),144.996436,1,6
+16610,-37.852434,33-The Avenue/High St (Prahran),144.998089,1,6
+16718,-37.852651,34-Lewisham Rd/High St (Prahran),144.999685,1,6
+16738,-37.853011,35-Williams Rd/High St (Prahran),145.002324,1,6
+16739,-37.853556,36-Chatsworth Rd/High St (Prahran),145.006276,1,6
+16740,-37.853866,37-Airlie Ave/High St (Prahran),145.008654,1,6
+16741,-37.85422,38-Orrong Rd/High St (Prahran),145.011452,1,6
+16742,-37.854685,39-Auburn Gr/High St (Armadale),145.014974,1,6
+16772,-37.854872,39-Auburn Gr/High St (Armadale),145.015356,1,6
+16773,-37.854386,38-Orrong Rd/High St (Armadale),145.011709,1,6
+16774,-37.853993,37-Airlie Ave/High St (Prahran),145.008685,1,6
+16775,-37.853764,36-Chatsworth Rd/High St (Prahran),145.006873,1,6
+16776,-37.853169,35-Williams Rd/High St (Prahran),145.002615,1,6
+16777,-37.852829,34-Lewisham Rd/High St (Prahran),145.000113,1,6
+16778,-37.852623,33-The Avenue/High St (Prahran),144.998607,1,6
+17602,-37.852354,32-Hornby St/High St (Prahran),144.996534,1,6
+17603,-37.851951,31-Chapel St/High St (Prahran),144.993533,1,6
+17604,-37.851392,30-Prahran Station/High St (Windsor),144.989298,1,6
+17605,-37.851207,29-Perth St/High St (Windsor),144.987927,1,6
+17606,-37.850758,28-Punt Rd/High St (Windsor),144.984371,1,6
+16749,-37.857383,46-Fraser St/High St (Malvern),145.035611,1,6
+16750,-37.857694,47-Dixon St/High St (Malvern),145.038013,1,6
+16751,-37.858078,48-Tooronga Rd/High St (Glen Iris),145.041049,1,6
+16752,-37.858454,49-Harold Holt Swim Centre/High St (Glen Iris),145.044198,1,6
+16753,-37.858945,50-Belmont Ave/High St (Glen Iris),145.048255,1,6
+16754,-37.85931,51-Burke Rd/High St (Glen Iris),145.051212,1,6
+16755,-37.859614,52-Boyanda Rd/High St (Glen Iris),145.053795,1,6
+16757,-37.859998,53-Malvern Rd/High St (Glen Iris),145.056331,1,6
+16758,-37.859782,52-Boyanda Rd/High St (Glen Iris),145.054189,1,6
+16759,-37.859486,51-Burke Rd/High St (Glen Iris),145.051503,1,6
+16760,-37.85911,50-Belmont Ave/High St (Glen Iris),145.048409,1,6
+16761,-37.85867,49-Harold Holt Swim Centre/High St (Glen Iris),145.044704,1,6
+16762,-37.858272,48-Tooronga Rd/High St (Glen Iris),145.041362,1,6
+16764,-37.85782,47-Dixon St/High St (Malvern),145.038009,1,6
+16765,-37.857558,46-Fraser St/High St (Malvern),145.0358,1,6
+4161,-37.755414,33-Hutton St/St Georges Rd (Thornbury),144.993931,1,11
+4162,-37.752033,34-Miller St/St Georges Rd (Preston),144.994885,1,11
+4163,-37.751441,36-Bracken Ave/Miller St (Thornbury),144.991314,1,11
+4164,-37.750312,37-Miller St/Gilbert Rd (Preston),144.988042,1,11
+4165,-37.748083,38-Oakover Rd/Gilbert Rd (Preston),144.988375,1,11
+4166,-37.745639,39-Latona Ave/Gilbert Rd (Preston),144.988804,1,11
+4167,-37.744075,40-Bell St/Gilbert Rd (Preston),144.989028,1,11
+4168,-37.741316,41-Bruce St/Gilbert Rd (Preston),144.9895,1,11
+4169,-37.739096,42-Cramer St/Gilbert Rd (Preston),144.989832,1,11
+4170,-37.736715,43-Murray Rd/Gilbert Rd (Preston),144.990214,1,11
+4171,-37.73454,44-Cooper St/Gilbert Rd (Preston),144.990591,1,11
+4172,-37.732994,45-Jacka St/Gilbert Rd (Preston),144.990848,1,11
+4173,-37.730056,46-McNamara St/Gilbert Rd (Preston),144.991359,1,11
+4471,-37.755121,33-Hutton St/St Georges Rd (Thornbury),144.994188,1,11
+4472,-37.752268,34-Miller St/St Georges Rd (Preston),144.994924,1,11
+4473,-37.751263,36-Devon St/Miller St (Preston),144.990944,1,11
+4474,-37.751644,35-St Georges Rd/Miller St (Preston),144.994793,1,11
+4475,-37.750602,37-Miller St/Gilbert Rd (Preston),144.988125,1,11
+4476,-37.74823,38-Oakover Rd/Gilbert Rd (Preston),144.988541,1,11
+4477,-37.745624,39-Latona Ave/Gilbert Rd (Preston),144.988963,1,11
+4478,-37.743538,40-Bell St/Gilbert Rd (Preston),144.989247,1,11
+4479,-37.74096,41-Bruce St/Gilbert Rd (Preston),144.989714,1,11
+4480,-37.73891,42-Cramer St/Gilbert Rd (Preston),144.99003,1,11
+4481,-37.736466,43-Murray Rd/Gilbert Rd (Preston),144.990414,1,11
+4482,-37.734606,44-Cooper St/Gilbert Rd (Preston),144.990737,1,11
+4483,-37.732764,45-Jacka St/Gilbert Rd (Preston),144.991059,1,11
+4484,-37.729186,47-West Preston/Gilbert Rd (Preston),144.991587,1,11
+22559,-37.783218,22-Scotchmer St/St Georges Rd (Fitzroy North),144.984027,1,11
+4141,-37.805855,13-Gertrude St/Brunswick St (Fitzroy),144.977119,1,11
+4142,-37.802835,14-Hanover St/Brunswick St (Fitzroy),144.977611,1,11
+4143,-37.800445,15-Bell St/Brunswick St (Fitzroy),144.978039,1,11
+4144,-37.798531,16-Johnston St/Brunswick St (Fitzroy),144.978364,1,11
+4145,-37.795629,17-Leicester St/Brunswick St (Fitzroy),144.978852,1,11
+4146,-37.793625,18-Alexandra Pde/Brunswick St (Fitzroy),144.97919,1,11
+4147,-37.790803,19-Newry St/Brunswick St (Fitzroy North),144.979665,1,11
+4148,-37.788297,20-Fitzroy Bowls Club/Brunswick St (Fitzroy North),144.980096,1,11
+4149,-37.785426,21-Alfred Cres/St Georges Rd (Fitzroy North),144.981912,1,11
+4150,-37.78341,22-Scotchmer St/St Georges Rd (Fitzroy North),144.983647,1,11
+4151,-37.781509,23-Park St/St Georges Rd (Fitzroy North),144.985277,1,11
+4152,-37.780071,24-Holden St/St Georges Rd (Fitzroy North),144.98652,1,11
+4153,-37.778019,25-Miller St/St Georges Rd (Fitzroy North),144.988301,1,11
+4154,-37.775926,26-Clarke St/St Georges Rd (Northcote),144.989755,1,11
+4155,-37.773815,27-Westbourne Gr/St Georges Rd (Northcote),144.990152,1,11
+4156,-37.771571,28-Sumner Ave/St Georges Rd (Northcote),144.990633,1,11
+4157,-37.768553,29-Arthurton Rd/St Georges Rd (Northcote),144.991237,1,11
+4158,-37.765294,30-Gladstone Ave/St Georges Rd (Northcote),144.99195,1,11
+4159,-37.762448,31-Bird Ave/St Georges Rd (Northcote),144.992594,1,11
+4160,-37.758954,32-Normanby Ave/St Georges Rd (Thornbury),144.993256,1,11
+4450,-37.805597,13-Gertrude St/Brunswick St (Fitzroy),144.977319,1,11
+4451,-37.802703,14-King William St/Brunswick St (Fitzroy),144.977807,1,11
+4452,-37.800538,15-St David St/Brunswick St (Fitzroy),144.978184,1,11
+4453,-37.798166,16-Johnston St/Brunswick St (Fitzroy),144.97859,1,11
+4454,-37.795461,17-Leicester St/Brunswick St (Fitzroy),144.979038,1,11
+4455,-37.792927,18-Alexandra Pde/Brunswick St (Fitzroy North),144.979459,1,11
+4456,-37.790537,19-Newry St/Brunswick St (Fitzroy North),144.979888,1,11
+4457,-37.788174,20-Fitzroy Bowls Club/Brunswick St (Fitzroy North),144.980293,1,11
+4458,-37.785385,21-Alfred Cres/St Georges Rd (Fitzroy North),144.982152,1,11
+4460,-37.781735,23-Park St/St Georges Rd (Fitzroy North),144.985294,1,11
+4461,-37.779879,24-Holden St/St Georges Rd (Fitzroy North),144.986888,1,11
+4462,-37.777952,25-Miller St/St Georges Rd (Fitzroy North),144.988553,1,11
+4463,-37.775739,26-Clarke St/St Georges Rd (Northcote),144.989862,1,11
+4464,-37.773665,27-Westbourne Gr/St Georges Rd (Northcote),144.990293,1,11
+4465,-37.771473,28-Sumner Ave/St Georges Rd (Northcote),144.990727,1,11
+4466,-37.768145,29-Arthurton Rd/St Georges Rd (Northcote),144.9916,1,11
+4468,-37.765198,30-Gladstone Ave/St Georges Rd (Northcote),144.992157,1,11
+4469,-37.762628,31-Gadd St/St Georges Rd (Northcote),144.992567,1,11
+4470,-37.758462,32-Normanby Ave/St Georges Rd (Thornbury),144.993508,1,11
+4135,-37.860988,143-Fitzroy St/Park St (St Kilda),144.974453,1,12
+4136,-37.859794,142-Mary St/Park St (St Kilda West),144.97319,1,12
+4137,-37.857491,141-Deakin St/Park St (St Kilda West),144.970787,1,12
+4445,-37.859477,142-Mary St/Park St (St Kilda West),144.973074,1,12
+4446,-37.85718,141-Cowderoy St/Park St (St Kilda West),144.9705,1,12
+4124,-37.830982,127-York St/Clarendon St (South Melbourne),144.959526,1,12
+4125,-37.827223,126-City Rd/Clarendon St (South Melbourne),144.957869,1,12
+4126,-37.837614,130a-Raglan St/Clarendon St (South Melbourne),144.962582,1,12
+4127,-37.83952,130-Clarendon St/Albert Rd (South Melbourne),144.962871,1,12
+4128,-37.840688,131-Melbourne Sports & Aquatic Centre/Albert Rd (Albert Park),144.961111,1,12
+4129,-37.842451,132-Kerferd Rd/Canterbury Rd (Albert Park),144.959347,1,12
+4130,-37.844069,133-Canterbury Rd/Mills St (Middle Park),144.960132,1,12
+4131,-37.845597,134-Carter St/Mills St (Middle Park),144.958874,1,12
+4132,-37.84741,135-Richardson St/Mills St (Middle Park),144.957403,1,12
+4133,-37.849739,136-Mills St/Danks St (Middle Park),144.956077,1,12
+4134,-37.851361,137-Harold St/Danks St (Middle Park),144.959181,1,12
+4039,-37.833153,128-Dorcas St/Clarendon St (South Melbourne),144.960535,1,12
+4084,-37.835434,129-Park St/Clarendon St (South Melbourne),144.961585,1,12
+4138,-37.855757,140-Fraser St/Park St (St Kilda West),144.967425,1,12
+4139,-37.854788,139-Langridge St/Patterson St (Middle Park),144.965587,1,12
+4140,-37.853075,138-Armstrong St/Danks St (Middle Park),144.962452,1,12
+4323,-37.830605,127-York St/Clarendon St (South Melbourne),144.959594,1,12
+4324,-37.82806,126-City Rd/Clarendon St (South Melbourne),144.958346,1,12
+4331,-37.832794,128-Dorcas St/Clarendon St (South Melbourne),144.960613,1,12
+4332,-37.835029,129-Park St/Clarendon St (South Melbourne),144.961665,1,12
+4333,-37.838943,130-Albert Rd/Clarendon St (South Melbourne),144.963364,1,12
+4334,-37.840577,131-Melbourne Sports & Aquatic Centre/Albert Rd (Albert Park),144.961455,1,12
+4384,-37.842283,132-Canterbury Rd/Albert Rd (Albert Park),144.959522,1,12
+4440,-37.8445,133-Canterbury Rd/Mills St (Middle Park),144.960063,1,12
+4441,-37.845664,134-Carter St/Mills St (Middle Park),144.959099,1,12
+4442,-37.847227,135-Richardson St/Mills St (Middle Park),144.957806,1,12
+4443,-37.849324,136-Danks St/Mills St (Middle Park),144.956077,1,12
+4444,-37.851013,137-Harold St/Danks St (Middle Park),144.958872,1,12
+4447,-37.855427,140-Fraser St/Patterson St (Middle Park),144.967127,1,12
+4448,-37.854468,139-Langridge St/Patterson St (Middle Park),144.965301,1,12
+4449,-37.852701,138-Armstrong St/Danks St (Middle Park),144.962167,1,12
+20549,-37.84184,64-Power St/Glenferrie Rd (Kooyong),145.031967,1,16
+20550,-37.840041,65-Warra St/Glenferrie Rd (Toorak),145.03214,1,16
+20551,-37.839333,65-Kooyong Railway Station/Glenferrie Rd (Kooyong),145.032431,1,16
+20552,-37.838494,66-Kooyong Tennis Centre/Glenferrie Rd (Toorak),145.032351,1,16
+20553,-37.838336,66-Vision Australia/Glenferrie Rd (Kooyong),145.032617,1,16
+20554,-37.835557,67-Gardiner Rd/Glenferrie Rd (Hawthorn),145.03294,1,16
+20555,-37.835451,67-Gardiner Rd/Glenferrie Rd (Hawthorn),145.033091,1,16
+20556,-37.833427,68-Callantina Rd/Glenferrie Rd (Hawthorn),145.033304,1,16
+20523,-37.865836,48-Hawthorn Rd/Dandenong Rd (Malvern),145.02644,1,16
+20524,-37.866057,48-Dandenong Rd/Glenferrie Rd (Malvern),145.02781,1,16
+20525,-37.866057,52-Dandenong Rd/Glenferrie Rd (Malvern),145.02781,1,16
+20526,-37.865264,53-Malvern Railway Station/Glenferrie Rd (Malvern),145.027774,1,16
+20527,-37.86418,53-Malvern Railway Station/Glenferrie Rd (Malvern),145.028156,1,16
+20528,-37.862478,54-Wattletree Rd/Glenferrie Rd (Malvern),145.028258,1,16
+20529,-37.862158,54-Wattletree Rd/Glenferrie Rd (Malvern),145.028505,1,16
+20530,-37.861148,55-Llaneast St/Glenferrie Rd (Malvern),145.028464,1,16
+20531,-37.861034,55-Edsall St/Glenferrie Rd (Malvern),145.028671,1,16
+20532,-37.859,56-Malvern Tram Depot/Glenferrie Rd (Malvern),145.028828,1,16
+20533,-37.858841,56-Malvern Tram Depot/Glenferrie Rd (Malvern),145.029048,1,16
+20534,-37.856825,57-High St/Glenferrie Rd (Malvern),145.029181,1,16
+20535,-37.856496,57-High St/Glenferrie Rd (Malvern),145.029429,1,16
+20536,-37.854074,58-Bell St/Glenferrie Rd (Malvern),145.029584,1,16
+20537,-37.854095,58-Sorrett Ave/Glenferrie Rd (Malvern),145.029777,1,16
+20538,-37.851836,59-Malvern Rd/Glenferrie Rd (Malvern),145.029939,1,16
+20539,-37.851525,59-Malvern Rd/Glenferrie Rd (Malvern),145.030186,1,16
+20540,-37.849662,60-Stonnington Pl/Glenferrie Rd (Malvern),145.030361,1,16
+20541,-37.849674,60-Stonnington Pl/Glenferrie Rd (Malvern),145.030508,1,16
+20542,-37.847704,61-Moorakyne Ave/Glenferrie Rd (Malvern),145.030731,1,16
+20543,-37.847734,61-Moorakyne Ave/Glenferrie Rd (Malvern),145.030878,1,16
+20544,-37.845737,62-Mayfield Ave/Glenferrie Rd (Malvern),145.031102,1,16
+20545,-37.845362,62-Mayfield Ave/Glenferrie Rd (Malvern),145.031328,1,16
+20546,-37.84394,63-Toorak Rd/Glenferrie Rd (Malvern),145.031434,1,16
+20547,-37.843646,63-Toorak Rd/Glenferrie Rd (Kooyong),145.031657,1,16
+20548,-37.842475,64-Mernda Rd/Glenferrie Rd (Kooyong),145.031666,1,16
+20557,-37.833223,68-Callantina Rd/Glenferrie Rd (Hawthorn),145.033502,1,16
+20558,-37.831388,69-South St/Glenferrie Rd (Hawthorn),145.033665,1,16
+20559,-37.831112,69-South St/Glenferrie Rd (Hawthorn),145.033877,1,16
+20584,-37.814812,77-Barkers Rd/Glenferrie Rd (Hawthorn),145.036717,1,16
+20590,-37.812116,78-Fitzwilliam St/Glenferrie Rd (Hawthorn),145.037209,1,16
+20591,-37.812021,78-Fitzwilliam St/Glenferrie Rd (Hawthorn),145.037462,1,16
+20592,-37.810087,79-Wellington St/Glenferrie Rd (Hawthorn),145.037638,1,16
+20593,-37.809901,79-Wellington St/Glenferrie Rd (Hawthorn),145.037824,1,16
+20594,-37.807923,80-Cotham Rd/Glenferrie Rd (Kew),145.038115,1,16
+20595,-37.807896,80-Cotham Rd/Glenferrie Rd (Kew),145.038127,1,16
+20560,-37.828899,70-Riversdale Rd/Glenferrie Rd (Hawthorn),145.034094,1,16
+20561,-37.828632,70-Riversdale Rd/Glenferrie Rd (Hawthorn),145.034329,1,16
+20562,-37.826041,71-Urquhart St/Glenferrie Rd (Hawthorn),145.034613,1,16
+20563,-37.825973,71-Urquhart St/Glenferrie Rd (Hawthorn),145.034842,1,16
+20564,-37.824155,72-Manningtree Rd/Glenferrie Rd (Hawthorn),145.03497,1,16
+20565,-37.824023,72-Manningtree Rd/Glenferrie Rd (Hawthorn),145.03519,1,16
+20566,-37.822709,73-Burwood Rd/Glenferrie Rd (Hawthorn),145.03527,1,16
+20567,-37.822496,73-Burwood Rd/Glenferrie Rd (Hawthorn),145.035446,1,16
+20568,-37.820535,74-Glenferrie Railway Station/Glenferrie Rd (Hawthorn),145.035668,1,16
+20569,-37.820535,74-Glenferrie Station/Glenferrie Rd (Hawthorn),145.035668,1,16
+20570,-37.818881,75-Chrystobel Cres/Glenferrie Rd (Hawthorn),145.035962,1,16
+20571,-37.818606,75-Liddiard St/Glenferrie Rd (Hawthorn),145.036219,1,16
+20572,-37.816851,76-Johnson St/Glenferrie Rd (Hawthorn),145.036311,1,16
+20573,-37.816774,76-Johnson St/Glenferrie Rd (Hawthorn),145.036586,1,16
+20589,-37.814617,77-Barkers Rd/Glenferrie Rd (Hawthorn),145.036927,1,16
+1292,-37.731619,38-Renown St/Sydney Rd (Coburg),144.964266,1,19
+16713,-37.741471,34-Bell St/Sydney Rd (Coburg),144.96647,1,19
+16714,-37.743259,33-Coburg Market/Sydney Rd (Coburg),144.966148,1,19
+16715,-37.745065,32-Munro St/Sydney Rd (Coburg),144.965838,1,19
+16717,-37.752073,30-The Avenue/Sydney Rd (Coburg),144.964636,1,19
+16720,-37.757815,27-Brunswick Tram Depot/Sydney Rd (Brunswick),144.963639,1,19
+17306,-37.72758,40-North Coburg Terminus/Sydney Rd (Coburg North),144.96365,1,19
+17307,-37.729891,39-Mercy College/Sydney Rd (Coburg North),144.963859,1,19
+17308,-37.732112,38-Carr St/Sydney Rd (Coburg North),144.964627,1,19
+17309,-37.733856,37-Gaffney St/Sydney Rd (Coburg North),144.965407,1,19
+17310,-37.735534,36-Rogers St/Sydney Rd (Coburg),144.966076,1,19
+17311,-37.737505,35-St Pauls Catholic Church/Sydney Rd (Coburg),144.96693,1,19
+17312,-37.741159,34-Bell St/Sydney Rd (Coburg),144.96666,1,19
+17313,-37.743136,33-Coburg Market/Sydney Rd (Coburg),144.966356,1,19
+17314,-37.744888,32-Harding St/Sydney Rd (Coburg),144.966058,1,19
+17315,-37.748474,31-Edward St/Sydney Rd (Coburg),144.96545,1,19
+17319,-37.757422,27-Brunswick Tram Depot/Sydney Rd (Brunswick),144.963876,1,19
+1784,-37.734097,37-Gaffney St/Sydney Rd (Coburg),144.965321,1,19
+2113,-37.73584,36-Rogers St/Sydney Rd (Coburg),144.966056,1,19
+378,-37.730439,39-Mercy College/Sydney Rd (Coburg North),144.963753,1,19
+16716,-37.74874,31-Reynard St/Sydney Rd (Coburg),144.965204,1,19
+16719,-37.75564,28-Moreland Rd/Sydney Rd (Brunswick),144.964016,1,19
+17316,-37.751861,30-The Avenue/Sydney Rd (Coburg),144.964846,1,19
+17317,-37.753505,29-Moore St/Sydney Rd (Coburg),144.964551,1,19
+17318,-37.755311,28-Moreland Rd/Sydney Rd (Coburg),144.964252,1,19
+21961,-37.753502,29-Moore St/Sydney Rd (Coburg),144.964415,1,19
+16731,-37.784856,16-Visy Park/Royal Pde (Parkville),144.959274,1,19
+16732,-37.787931,15-Leonard St/Royal Pde (Parkville),144.958894,1,19
+16733,-37.790017,14-Macarthur Rd/Royal Pde (Parkville),144.958644,1,19
+16734,-37.792679,13-Gatehouse St/Royal Pde (Parkville),144.95831,1,19
+16735,-37.795656,12-Morrah St/Royal Pde (Parkville),144.957944,1,19
+16736,-37.798273,11-University of Melbourne/Royal Pde (Parkville),144.957656,1,19
+17330,-37.784589,16-Walker St/Royal Pde (Parkville),144.959509,1,19
+17331,-37.787674,15-Leonard St/Royal Pde (Parkville),144.959129,1,19
+17332,-37.789715,14-Cemetery Road West/Royal Pde (Parkville),144.958879,1,19
+17333,-37.792422,13-Gatehouse St/Royal Pde (Parkville),144.958544,1,19
+17334,-37.795561,12-Morrah St/Royal Pde (Parkville),144.958173,1,19
+17335,-37.798105,11-University of Melbourne/Royal Pde (Parkville),144.957854,1,19
+17867,-37.799901,10-Royal Melbourne Hospital/Royal Pde (Melbourne City),144.957441,1,19
+17868,-37.79958,10-Royal Melbourne Hospital/Royal Pde (Parkville),144.957665,1,19
+16721,-37.760959,26-Albion St/Sydney Rd (Brunswick),144.963087,1,19
+17320,-37.760738,26-Albion St/Sydney Rd (Brunswick),144.963309,1,19
+16722,-37.763232,25-Stewart St/Sydney Rd (Brunswick),144.962695,1,19
+16723,-37.765578,24-Brunswick Baptist Church/Sydney Rd (Brunswick),144.962302,1,19
+16724,-37.767141,23-Victoria St/Sydney Rd (Brunswick),144.962032,1,19
+16725,-37.768947,22-Albert St/Sydney Rd (Brunswick),144.961721,1,19
+16726,-37.771643,21-Brunswick Town Hall/Sydney Rd (Brunswick),144.961261,1,19
+16727,-37.774842,20-Barkly Square/115 Sydney Rd (Brunswick),144.960742,1,19
+16728,-37.777591,19-Brunswick Rd/Sydney Rd (Brunswick),144.960269,1,19
+16729,-37.779379,18-Princes Park/Royal Pde (Parkville),144.959936,1,19
+16730,-37.781888,17-Ievers St/Royal Pde (Parkville),144.95964,1,19
+17328,-37.779383,18-Princes Park/Royal Pde (Parkville),144.960152,1,19
+17321,-37.763083,25-Stewart St/Sydney Rd (Brunswick),144.962904,1,19
+17322,-37.765356,24-Blyth St/Sydney Rd (Brunswick),144.962512,1,19
+17323,-37.766982,23-Victoria St/Sydney Rd (Brunswick),144.962229,1,19
+17324,-37.768761,22-Albert St/Sydney Rd (Brunswick),144.961919,1,19
+17325,-37.771367,21-Glenlyon Rd/Sydney Rd (Brunswick),144.961473,1,19
+17327,-37.777647,19-Brunswick Rd/Sydney Rd (Brunswick),144.960392,1,19
+17329,-37.781684,17-Ievers St/Royal Pde (Parkville),144.959838,1,19
+21962,-37.774656,20-Barkly Square/Sydney Rd (Brunswick),144.960929,1,19
+18009,-37.808019,10-Nicholson St/Victoria Pde (East Melbourne),144.973562,1,30
+20979,-37.811664,0-Bourke St/Spring St (Melbourne City),144.973246,1,35
+18588,-37.815756,25-Brook St/Church St (Hawthorn),145.020982,1,48
+18589,-37.817971,24-Hill St/Church St (Hawthorn),145.018753,1,48
+18341,-37.817906,24-Grattan St/Church St (Hawthorn),145.018607,1,48
+18342,-37.815921,25-Brook St/Church St (Hawthorn),145.020602,1,48
+18566,-37.794648,51-Balwyn Rd/Doncaster Rd (Balwyn North),145.084631,1,48
+18567,-37.794372,50-Dight Ave/Doncaster Rd (Balwyn North),145.080936,1,48
+18568,-37.793941,49-Buchanan Ave/Doncaster Rd (Balwyn North),145.077722,1,48
+18569,-37.793412,48-Osburn Ave/Doncaster Rd (Balwyn North),145.074567,1,48
+18570,-37.792727,47-North Balwyn Shopping Centre/Doncaster Rd (Balwyn North),145.070724,1,48
+18571,-37.793006,46-Wattle Ave/Doncaster Rd (Balwyn North),145.067401,1,48
+18574,-37.7947,43-Kew High School/High St (Kew East),145.061349,1,48
+18575,-37.796324,42-Woodlands Ave/High St (Kew East),145.057672,1,48
+18576,-37.797966,41-Station St/High St (Kew East),145.053927,1,48
+18577,-37.798721,40-Harp Village/High St (Kew East),145.052192,1,48
+18578,-37.799564,39-Harp Rd/High St (Kew East),145.050273,1,48
+18579,-37.801316,38-Victoria Park/High St (Kew East),145.046172,1,48
+18580,-37.802582,37-Kew Cemetery/High St (Kew),145.042652,1,48
+18581,-37.803539,36-Gladstone St/High St (Kew),145.040014,1,48
+18582,-37.805012,35-Charles St/High St (Kew),145.035977,1,48
+18583,-37.80564,34-Union St/High St (Kew),145.034166,1,48
+18584,-37.806674,33-Kew Shopping Centre/High St (Kew),145.031311,1,48
+18343,-37.813253,26-Barkers Rd/Church St (Hawthorn),145.023252,1,48
+18347,-37.805617,34-Pakington St/High St (Kew),145.033837,1,48
+18348,-37.804987,35-Cobden St/High St (Kew),145.035546,1,48
+18349,-37.803489,36-Parkhill Rd/High St (Kew),145.039755,1,48
+18350,-37.802473,37-Kew Cemetery/High St (Kew),145.042564,1,48
+18351,-37.801259,38-Victoria Park/High St (Kew),145.045981,1,48
+18352,-37.799413,39-Harp Rd/High St (Kew),145.050436,1,48
+18353,-37.798628,40-Harp Village/High St (Kew East),145.052024,1,48
+18354,-37.797439,41-Clyde St/High St (Kew East),145.054758,1,48
+18355,-37.796397,42-Irymple Ave/High St (Kew East),145.057159,1,48
+18356,-37.79465,43-Kew High School/High St (Kew East),145.061089,1,48
+18357,-37.79353,44-Burke Rd/High St (Kew),145.063662,1,48
+18358,-37.793168,45-Burke Rd/Doncaster Rd (Balwyn North),145.065216,1,48
+18359,-37.792835,46-Wattle Ave/Doncaster Rd (Balwyn North),145.06745,1,48
+18360,-37.792712,47-North Balwyn Shopping Centre/Doncaster Rd (Balwyn North),145.07144,1,48
+18361,-37.793217,48-Sunburst Ave/Doncaster Rd (Balwyn North),145.074266,1,48
+18362,-37.793756,49-Cityview Rd/Doncaster Rd (Balwyn North),145.077466,1,48
+18363,-37.794259,50-Hill Rd/Doncaster Rd (Balwyn North),145.081189,1,48
+20895,-37.793468,44-Burke Rd/Doncaster Rd (Balwyn North),145.064265,1,48
+18519,-37.77187,37-Maribyrnong Rd/Union Rd (Ascot Vale),144.91607,1,57
+18520,-37.773703,36-St Leonards Rd/Union Rd (Ascot Vale),144.91578,1,57
+18521,-37.776103,35-Munro St/Union Rd (Ascot Vale),144.915395,1,57
+18522,-37.778627,34-Burrowes St/Union Rd (Ascot Vale),144.914949,1,57
+18524,-37.782668,32-Sandown Rd/Epsom Rd (Ascot Vale),144.916675,1,57
+18525,-37.784425,31-Racing Victoria/400 Epsom Rd (Flemington),144.918204,1,57
+18526,-37.785913,30-Flemington Racecourse/Epsom Rd (Flemington),144.919786,1,57
+18527,-37.787446,29-Flemington Racecourse/Racecourse Rd (Flemington),144.921889,1,57
+18528,-37.787741,28-Smithfield Rd/Racecourse Rd (Flemington),144.925345,1,57
+17945,-37.773571,36-St Leonards Rd/Union Rd (Ascot Vale),144.915943,1,57
+17946,-37.775889,35-Bloomfield Rd/Union Rd (Ascot Vale),144.91556,1,57
+17947,-37.778533,34-Burrowes St/Union Rd (Ascot Vale),144.915225,1,57
+17948,-37.780355,33-Melbourne Showgrounds/Union Rd (Ascot Vale),144.914787,1,57
+17949,-37.782587,32-Sandown Rd/Epsom Rd (Ascot Vale),144.916712,1,57
+17950,-37.784018,31-Racing Victoria/161 Epsom Rd (Ascot Vale),144.918125,1,57
+17951,-37.786043,30-Flemington Racecourse/Epsom Rd (Ascot Vale),144.919987,1,57
+17952,-37.787349,29-Flemington Racecourse/Racecourse Rd (Flemington),144.922006,1,57
+17953,-37.787626,28-Smithfield Rd/Racecourse Rd (Flemington),144.92495,1,57
+22320,-37.769315,48-Wests Rd/Cordite Ave (Maribyrnong),144.882425,1,57
+18529,-37.788074,26-Newmarket Plaza/Racecourse Rd (Kensington),144.92839,1,57
+18530,-37.788354,25-Wellington St/Racecourse Rd (Flemington),144.93046,1,57
+18531,-37.788507,24-Collett St/Racecourse Rd (Kensington),144.933522,1,57
+18532,-37.788749,23-Stubbs St/Racecourse Rd (Flemington),144.93548,1,57
+18533,-37.789209,22-Boundary Rd/Racecourse Rd (North Melbourne),144.940145,1,57
+18536,-37.793729,19-Abbotsford St Interchange/Abbotsford St (North Melbourne),144.947163,1,57
+18537,-37.795246,18-Erskine St/Abbotsford St (North Melbourne),144.946803,1,57
+18538,-37.796719,17-Canning St/Abbotsford St (North Melbourne),144.946535,1,57
+18539,-37.797968,16-Haines St/Abbotsford St (North Melbourne),144.946319,1,57
+18540,-37.800672,15-Arden St/Abbotsford St (North Melbourne),144.945835,1,57
+18541,-37.802663,14-Abbotsford St/Queensberry St (North Melbourne),144.945802,1,57
+17857,-37.805935,8-Peel St/Victoria St (Melbourne City),144.956218,1,57
+17858,-37.805688,9-William St/Victoria St (Melbourne City),144.953908,1,57
+17859,-37.805517,10-Chetwynd St/Victoria St (Melbourne City),144.952391,1,57
+17860,-37.805196,11-Errol St/Victoria St (Melbourne City),144.949446,1,57
+17861,-37.804959,11-Victoria St/Errol St (North Melbourne),144.949339,1,57
+17862,-37.805403,10-Chetwynd St/Victoria St (Melbourne City),144.95203,1,57
+17863,-37.805564,9-Howard St/Victoria St (Melbourne City),144.953502,1,57
+17864,-37.80581,8-Peel St/Victoria St (Melbourne City),144.955744,1,57
+17954,-37.787971,26-Newmarket Plaza/Racecourse Rd (Flemington),144.928154,1,57
+17955,-37.788241,25-Wellington St/Racecourse Rd (Flemington),144.931235,1,57
+17956,-37.788443,24-Victoria St/Racecourse Rd (Flemington),144.93349,1,57
+17957,-37.788768,23-Stubbs St/Racecourse Rd (Flemington),144.936581,1,57
+17958,-37.789131,22-Boundary Rd/Racecourse Rd (North Melbourne),144.939852,1,57
+17961,-37.794106,19-Abbotsford St Interchange/Abbotsford St (North Melbourne),144.947096,1,57
+18057,-37.79496,18-Chapman St/Abbotsford St (North Melbourne),144.946947,1,57
+18058,-37.796307,17-Molesworth St/Abbotsford St (North Melbourne),144.946694,1,57
+18059,-37.798284,16-Haines St/Abbotsford St (North Melbourne),144.946344,1,57
+18060,-37.800997,15-Arden St/Abbotsford St (North Melbourne),144.945849,1,57
+18061,-37.80239,14-Queensberry St/Abbotsford St (North Melbourne),144.945628,1,57
+19250,-37.802826,13-Curzon St/Queensberry St (North Melbourne),144.947944,1,57
+19251,-37.802987,12-North Melbourne Town Hall/Queensberry St (North Melbourne),144.949405,1,57
+19589,-37.802942,13-Curzon St/Queensberry St (North Melbourne),144.948362,1,57
+19590,-37.803224,12-North Melbourne Town Hall/Errol St (North Melbourne),144.949535,1,57
+18557,-37.75874,37-Albion St/Melville Rd (Brunswick West),144.944771,1,58
+18558,-37.756764,38-Jacobs Reserve/Melville Rd (Brunswick West),144.945154,1,58
+18559,-37.754779,39-McGregor Ave/Melville Rd (Brunswick West),144.94555,1,58
+18560,-37.753429,40-Moreland Rd/Melville Rd (Brunswick West),144.945655,1,58
+18561,-37.749512,41-Woodlands Ave/Melville Rd (Pascoe Vale South),144.946354,1,58
+18562,-37.746611,42-Reynard St/Melville Rd (Pascoe Vale South),144.944334,1,58
+18563,-37.744122,43-Princes Tce/Melville Rd (Pascoe Vale South),144.944767,1,58
+18564,-37.741966,44-Brearley Pde/Melville Rd (Pascoe Vale South),144.945133,1,58
+18078,-37.758563,37-Albion St/Melville Rd (Brunswick West),144.944991,1,58
+18079,-37.756623,38-Jacobs Reserve/Melville Rd (Brunswick West),144.945385,1,58
+18080,-37.7548,39-Mattingley Cres/Melville Rd (Brunswick West),144.945708,1,58
+18081,-37.753163,40-Moreland Rd/Melville Rd (Brunswick West),144.945901,1,58
+18082,-37.749317,41-Woodlands Ave/Melville Rd (Pascoe Vale South),144.946552,1,58
+18083,-37.746399,42-Reynard St/Melville Rd (Pascoe Vale South),144.944556,1,58
+18084,-37.743928,43-Princes Tce/Melville Rd (Pascoe Vale South),144.944999,1,58
+18085,-37.741592,44-Brearley Pde/Melville Rd (Pascoe Vale South),144.945404,1,58
+18086,-37.740117,45-Bell St/Melville Rd (Pascoe Vale South),144.945592,1,58
+18782,-37.842166,135-Woorigoleen Rd/Toorak Rd (Toorak),145.017583,1,58
+18783,-37.842461,136-Irving Rd/Toorak Rd (Toorak),145.020086,1,58
+18784,-37.842844,137-Kooyong Rd/Toorak Rd (Toorak),145.023065,1,58
+18785,-37.843231,138-Moonga Rd/Toorak Rd (Toorak),145.026248,1,58
+18786,-37.843615,139-Glenbervie Rd/Toorak Rd (Toorak),145.029817,1,58
+19333,-37.84204,135-Woorigoleen Rd/Toorak Rd (Toorak),145.017541,1,58
+19334,-37.842314,136-Irving Rd/Toorak Rd (Toorak),145.019954,1,58
+19335,-37.842687,137-Kooyong Rd/Toorak Rd (Toorak),145.022819,1,58
+19336,-37.843167,138-Moonga Rd/Toorak Rd (Toorak),145.026693,1,58
+19338,-37.843618,139-Glenferrie Rd/Toorak Rd (Toorak),145.029988,1,58
+18543,-37.791414,23-Royal Park/Royal Park (Parkville),144.949294,1,58
+18544,-37.787878,24-Elliott Ave/Royal Park (Parkville),144.949619,1,58
+18545,-37.784383,25-State Netball Hockey Centre/Royal Park (Parkville),144.94867,1,58
+18063,-37.79138,23-Royal Park/Royal Park (Parkville),144.949397,1,58
+18064,-37.788016,24-Elliott Ave/Royal Park (Parkville),144.949751,1,58
+18065,-37.784539,25-State Netball Hockey Centre/Royal Park (Parkville),144.948848,1,58
+18199,-37.815874,5-Bourke St/William St (Melbourne City),144.95825,1,58
+18201,-37.811996,7-Flagstaff Railway Station/William St (Melbourne City),144.956517,1,58
+18202,-37.809743,8-Franklin St/William St (Melbourne City),144.955454,1,58
+18203,-37.805391,10-Victoria St/Peel St (West Melbourne),144.956029,1,58
+18204,-37.805698,10-Victoria St/Peel St (West Melbourne),144.956077,1,58
+18205,-37.807442,9-Queen Victoria Market/Peel St (North Melbourne),144.955779,1,58
+18206,-37.807216,9-Queen Victoria Market/39 Peel St (North Melbourne),144.955751,1,58
+18207,-37.809428,8-Franklin St/Peel St (Melbourne City),144.955474,1,58
+18208,-37.812461,7-Flagstaff Railway Station/William St (Melbourne City),144.956799,1,58
+18210,-37.81544,5-Bourke St/William St (Melbourne City),144.95816,1,58
+18211,-37.817457,4-Collins St/William St (Melbourne City),144.959092,1,58
+18214,-37.819513,1-Flinders St/Queens Bridge St (Melbourne City),144.96124,1,58
+18215,-37.822117,115-Casino/Southbank/Queens Bridge St (Southbank),144.961225,1,58
+18450,-37.821711,115-Casino East/Queens Bridge St (Southbank),144.961225,1,58
+18465,-37.819429,1-Flinders St/Queens Bridge St (Melbourne City),144.961106,1,58
+18466,-37.818539,2-Flinders Lane/Market St (Melbourne City),144.960698,1,58
+18467,-37.81864,3-William St/Flinders Lane (Melbourne City),144.959776,1,58
+18469,-37.817819,4-Collins St/William St (Melbourne City),144.959173,1,58
+20490,-37.801384,12-Flemington Rd/Peel St (North Melbourne),144.95673,1,58
+20491,-37.801548,12-Flemington Rd/Peel St (North Melbourne),144.956805,1,58
+20492,-37.803623,11-Queensberry St/Peel St (North Melbourne),144.956441,1,58
+20493,-37.803307,11-Queensberry St/Peel St (North Melbourne),144.956393,1,58
+18781,-37.841755,134-Orrong Rd/Toorak Rd (Toorak),145.014048,1,58
+18699,-37.83819,124-Walsh St/Toorak Rd (South Yarra),144.984565,1,58
+18700,-37.838417,125-Punt Rd/Toorak Rd (South Yarra),144.986741,1,58
+18702,-37.838788,126-Myrtle St/Toorak Rd (South Yarra),144.989504,1,58
+18703,-37.839131,127-South Yarra Railway Station/Toorak Rd (South Yarra),144.992165,1,58
+18704,-37.839581,128-Chapel St/Toorak Rd (South Yarra),144.995823,1,58
+18705,-37.839927,129-Tivoli Rd/Toorak Rd (South Yarra),144.998666,1,58
+18706,-37.840368,130-Hawksburn Rd/Toorak Rd (South Yarra),145.002336,1,58
+18707,-37.840725,131-Williams Rd/Toorak Rd (Toorak),145.00536,1,58
+18708,-37.841093,132-Toorak Village/Toorak Rd (Toorak),145.008452,1,58
+18709,-37.841387,133-Canterbury Rd/Toorak Rd (Toorak),145.010888,1,58
+19322,-37.838028,124-Walsh St/Toorak Rd (South Yarra),144.984536,1,58
+19323,-37.83821,125-Punt Rd/Toorak Rd (South Yarra),144.986269,1,58
+19324,-37.838624,126-Myrtle St/Toorak Rd (South Yarra),144.989349,1,58
+19325,-37.838986,127-South Yarra Railway Station/Toorak Rd (South Yarra),144.992089,1,58
+19326,-37.839376,128-Chapel St/Toorak Rd (South Yarra),144.995431,1,58
+19327,-37.839771,129-Tivoli Rd/Toorak Rd (South Yarra),144.998488,1,58
+19328,-37.840209,130-Hawksburn Rd/Toorak Rd (South Yarra),145.001988,1,58
+19329,-37.840514,131-Williams Rd/Toorak Rd (South Yarra),145.004582,1,58
+19330,-37.840965,132-Toorak Village/Toorak Rd (Toorak),145.008342,1,58
+19331,-37.841228,133-Grange Rd/Toorak Rd (Toorak),145.010585,1,58
+19332,-37.841615,134-Orrong Rd/Toorak Rd (Toorak),145.013734,1,58
+49999,-37.835752,22-Toorak Rd/St Kilda Rd (Melbourne City),144.97536,1,58
+52112,-37.83762,123-Fawkner Park/Toorak Rd (South Yarra),144.980706,1,58
+52113,-37.837634,123-Fawkner Park/Toorak Rd (South Yarra),144.981047,1,58
+18217,-37.82961,117-York St/Kings Way (South Melbourne),144.964075,1,58
+18218,-37.830536,118-Sturt St/Kings Way (Southbank),144.965004,1,58
+18219,-37.8328,119-Wells St/Park St (South Melbourne),144.969816,1,58
+18221,-37.83289,119-Wells St/Park St (South Melbourne),144.969802,1,58
+18222,-37.831074,118-Sturt St/Kings Way (Southbank),144.965375,1,58
+18223,-37.829571,117-York St/Kings Way (South Melbourne),144.963906,1,58
+18233,-37.82626,116-City Rd/Kings Way (Southbank),144.960577,1,58
+22612,-37.8263,116-City Rd/Kings Way (Southbank),144.960803,1,58
+18546,-37.782375,26-Melbourne Zoo/Royal Park (Parkville),144.949282,1,58
+18547,-37.780872,27-Royal Park Station/Royal Park (Parkville),144.950925,1,58
+18548,-37.776917,28-Park St/Royal Park (Parkville),144.94949,1,58
+18549,-37.775814,29-Brunswick Rd/Royal Park (Parkville),144.948748,1,58
+18550,-37.772562,30-Union Square Shopping Centre/Grantham St (Brunswick West),144.949315,1,58
+18551,-37.770298,31-Dawson St/Grantham St (Brunswick West),144.949741,1,58
+18552,-37.769923,32-Foden St/Dawson St (Brunswick),144.947356,1,58
+18553,-37.769593,33-Daly St/Dawson St (Brunswick),144.944425,1,58
+18554,-37.767614,34-Smith St/Melville Rd (Brunswick West),144.943095,1,58
+18555,-37.764912,35-Victoria St/Melville Rd (Brunswick West),144.94368,1,58
+18556,-37.762162,36-Hope St/Melville Rd (Brunswick West),144.944154,1,58
+18066,-37.782617,26-Melbourne Zoo/Royal Park (Parkville),144.949219,1,58
+18067,-37.780753,27-Royal Park Station/Royal Park (Parkville),144.95136,1,58
+18068,-37.777241,28-Park St/Royal Park (Parkville),144.949969,1,58
+18069,-37.775538,29-Brunswick Rd/Grantham St (Brunswick West),144.948915,1,58
+18071,-37.772367,30-Union Square Shopping Centre/Grantham St (Brunswick West),144.949525,1,58
+18072,-37.770051,31-Grantham St/Dawson St (Brunswick West),144.949532,1,58
+18073,-37.769789,32-Foden St/Dawson St (Brunswick),144.947382,1,58
+18074,-37.769399,33-South Daly St/Dawson St (Brunswick West),144.944169,1,58
+18075,-37.767311,34-Smith St/Melville Rd (Brunswick),144.943319,1,58
+18076,-37.764708,35-Victoria St/Melville Rd (Brunswick West),144.94389,1,58
+18077,-37.76204,36-Hope St/Melville Rd (Brunswick West),144.944384,1,58
+20774,-37.737477,52-Hoffmans Rd/Keilor Rd (Essendon),144.892547,1,59
+20775,-37.757932,37-Buckley St/Pascoe Vale Rd (Essendon),144.926461,1,59
+21196,-37.738599,51-Bradshaw St/Keilor Rd (Essendon),144.895829,1,59
+22305,-37.737231,52-Treadwell Rd/Keilor Rd (Niddrie),144.89235,1,59
+19267,-37.772431,30-Ormond Rd/Mt Alexander Rd (Moonee Ponds),144.926908,1,59
+19268,-37.770599,31-Montgomery St/Mt Alexander Rd (Moonee Ponds),144.926233,1,59
+19270,-37.764313,34-Moonee Valley Civic Centre/Pascoe Vale Rd (Moonee Ponds),144.925455,1,59
+19271,-37.762526,35-Queens Park/Pascoe Vale Rd (Moonee Ponds),144.925811,1,59
+19272,-37.75974,36-Salisbury St/Pascoe Vale Rd (Moonee Ponds),144.926286,1,59
+19274,-37.755812,38-Pascoe Vale Rd/Fletcher St (Essendon),144.925817,1,59
+19275,-37.75547,39-Hoddle St/Fletcher St (Essendon),144.922762,1,59
+19276,-37.755172,40-Nicholson St/Fletcher St (Essendon),144.920205,1,59
+19277,-37.754928,41-Fletcher St/Napier St (Essendon),144.917601,1,59
+19376,-37.752663,42-Grice Cres/Mt Alexander Rd (Essendon),144.915894,1,59
+19467,-37.750227,43-Brewster St/Mt Alexander Rd (Essendon),144.914226,1,59
+19468,-37.748101,44-Thorn St/Mt Alexander Rd (Essendon),144.912754,1,59
+19469,-37.746486,45-Glass St/Mt Alexander Rd (Essendon),144.91163,1,59
+19470,-37.743952,47-Mt Alexander Rd/Keilor Rd (Essendon),144.908944,1,59
+19471,-37.742688,48-Service St/Keilor Rd (Essendon North),144.905768,1,59
+19472,-37.741501,49-Essendon North PS/Keilor Rd (Essendon North),144.902885,1,59
+19473,-37.740032,50-Cooper St/Keilor Rd (Essendon North),144.899351,1,59
+19475,-37.735258,53-Keilor Rd/Matthews Ave (Niddrie),144.889365,1,59
+19477,-37.732355,54-Fullarton Rd/Matthews Ave (Niddrie),144.889833,1,59
+19478,-37.729912,55-Cameron St/Matthews Ave (Airport West),144.890254,1,59
+19479,-37.727324,56-Earl St/Matthews Ave (Airport West),144.890668,1,59
+19480,-37.723065,57-Hawker St/Matthews Ave (Airport West),144.89139,1,59
+19481,-37.718373,58-Marshall Rd/Matthews Ave (Airport West),144.892079,1,59
+19482,-37.71384,59-Airport West/Matthews Ave (Airport West),144.890562,1,59
+19605,-37.773008,30-Maribyrnong Rd/Mt Alexander Rd (Ascot Vale),144.926949,1,59
+19606,-37.770686,31-Montgomery St/Mt Alexander Rd (Moonee Ponds),144.926071,1,59
+19609,-37.764005,34-Moonee Valley Civic Centre/Pascoe Vale Rd (Moonee Ponds),144.925361,1,59
+19623,-37.762702,35-Queens Park/Pascoe Vale Rd (Moonee Ponds),144.92559,1,59
+19624,-37.759863,36-Murray St/Pascoe Vale Rd (Moonee Ponds),144.926078,1,59
+19625,-37.758255,37-Buckley St/Pascoe Vale Rd (Moonee Ponds),144.92635,1,59
+19626,-37.756113,38-Fletcher St/Pascoe Vale Rd (Essendon),144.926036,1,59
+19627,-37.755693,39-Hoddle St/Fletcher St (Essendon),144.923164,1,59
+19628,-37.755456,40-Nicholson St/Fletcher St (Essendon),144.920958,1,59
+19657,-37.754879,41-Fletcher St/Napier St (Essendon),144.917387,1,59
+19658,-37.752496,42-Shamrock St/Mt Alexander Rd (Essendon),144.915649,1,59
+19659,-37.750662,43-Thistle St/Mt Alexander Rd (Essendon),144.914361,1,59
+19660,-37.748355,44-Thorn St/Mt Alexander Rd (Essendon),144.912803,1,59
+19661,-37.746384,45-Leake St/Mt Alexander Rd (Essendon),144.911463,1,59
+19662,-37.74477,46-Lincoln Rd/Mt Alexander Rd (Essendon),144.910351,1,59
+19663,-37.744162,47-Mt Alexander Rd/Keilor Rd (Essendon),144.909097,1,59
+19664,-37.742821,48-Service St/Keilor Rd (Essendon),144.905696,1,59
+19665,-37.741683,49-Essendon North Primary School/Keilor Rd (Essendon North),144.90297,1,59
+19666,-37.740204,50-Cooper St/Keilor Rd (Essendon),144.899415,1,59
+19667,-37.738772,51-Bradshaw St/Keilor Rd (Essendon),144.895926,1,59
+19669,-37.736552,53A-Matthews Ave/Keilor Rd (Essendon),144.890168,1,59
+19670,-37.734959,53-Keilor Rd/Matthews Ave (Niddrie),144.889316,1,59
+19671,-37.732371,54-Fullarton Rd/Matthews Ave (Airport West),144.889696,1,59
+19672,-37.729963,55-Cameron St/Matthews Ave (Airport West),144.890128,1,59
+19673,-37.727205,56-Earl St/Matthews Ave (Airport West),144.890603,1,59
+19674,-37.723117,57-Hawker St/Matthews Ave (Airport West),144.891286,1,59
+19675,-37.718416,58-Marshall Rd/Matthews Ave (Airport West),144.891975,1,59
+19259,-37.788276,22-Flemington Bridge Station/Flemington Rd (North Melbourne),144.940932,1,59
+19260,-37.785927,23-Flemington Community Centre/Mt Alexander Rd (Flemington),144.939055,1,59
+19261,-37.783936,24-Mooltan St/Mt Alexander Rd (Flemington),144.936999,1,59
+19262,-37.78244,25-Mount Alexander College/Mt Alexander Rd (Flemington),144.933941,1,59
+19263,-37.78112,26-Wellington St/Mt Alexander Rd (Flemington),144.932626,1,59
+19264,-37.779437,27-Essendon Tram Depot/Mt Alexander Rd (Ascot Vale),144.93122,1,59
+19265,-37.777457,28-Middle St/Mt Alexander Rd (Ascot Vale),144.929833,1,59
+19266,-37.775542,29-Warrick St/Mt Alexander Rd (Ascot Vale),144.928535,1,59
+19597,-37.788054,22-Flemington Bridge Station/Flemington Rd (North Melbourne),144.940609,1,59
+19598,-37.785843,23-Flemington Community Centre/Mt Alexander Rd (Flemington),144.938853,1,59
+19599,-37.784218,24-Mooltan St/Mt Alexander Rd (Flemington),144.937173,1,59
+19600,-37.782565,25-Mount Alexander College/Mt Alexander Rd (Travancore),144.933869,1,59
+19601,-37.781436,26-Wellington St/Mt Alexander Rd (Flemington),144.932663,1,59
+19602,-37.779808,27-Essendon Tram Depot/Mt Alexander Rd (Ascot Vale),144.931312,1,59
+19603,-37.777699,28-Middle St/Mt Alexander Rd (Ascot Vale),144.92977,1,59
+19604,-37.775748,29-Warrick St/Mt Alexander Rd (Ascot Vale),144.928473,1,59
+19013,-37.879934,54-Glen Eira Rd/Hawthorn Rd (Caulfield North),145.023404,1,64
+19014,-37.877212,53-Northcote Ave/Hawthorn Rd (Caulfield North),145.02392,1,64
+19015,-37.874939,52-Halstead St/Hawthorn Rd (Caulfield North),145.024356,1,64
+19019,-37.865428,48-Hawthorn Rd/Dandenong Rd (Caulfield North),145.025769,1,64
+19023,-37.864558,44-Bailey Ave/Dandenong Rd (Armadale),145.023837,1,64
+19024,-37.863789,43-Egerton Rd/Dandenong Rd (Armadale),145.02205,1,64
+19025,-37.86257,42-Kooyong Rd/Dandenong Rd (Armadale),145.019219,1,64
+19026,-37.861923,41-Cantala Ave/Dandenong Rd (Armadale),145.017735,1,64
+18426,-37.880128,54-Glen Eira Rd/Hawthorn Rd (Caulfield),145.023205,1,64
+18427,-37.877488,53-Crotonhurst Ave/Hawthorn Rd (Caulfield North),145.023719,1,64
+18428,-37.875251,52-Halstead St/Hawthorn Rd (Caulfield North),145.024154,1,64
+18429,-37.872888,51-Balaclava Rd/Hawthorn Rd (Caulfield North),145.024604,1,64
+18437,-37.864618,44-Bailey Ave/Dandenong Rd (Armadale),145.023677,1,64
+18438,-37.863822,43-Matlock Ct/Dandenong Rd (Armadale),145.021913,1,64
+18439,-37.862509,42-Kooyong Rd/Dandenong Rd (Armadale),145.018834,1,64
+18440,-37.861966,41-Cantala Ave/Dandenong Rd (Armadale),145.017643,1,64
+46517,-37.865359,48-Hawthorn Rd/Dandenong Rd (Caulfield North),145.025419,1,64
+19000,-37.911078,67-Rogers Ave/Hawthorn Rd (Brighton East),145.017531,1,64
+19001,-37.908517,66-Union St/Hawthorn Rd (Brighton East),145.017964,1,64
+19002,-37.90637,65-Davey Ave/Hawthorn Rd (Brighton East),145.018329,1,64
+19003,-37.903782,64-Taylor St/Hawthorn Rd (Brighton East),145.018808,1,64
+19004,-37.901196,63-North Rd/Hawthorn Rd (Brighton East),145.019332,1,64
+19005,-37.898969,62-Gardenvale Rd/Hawthorn Rd (Caulfield South),145.019801,1,64
+19006,-37.896552,61-Stone St/Hawthorn Rd (Caulfield South),145.020253,1,64
+19007,-37.894881,60-Dover St/Hawthorn Rd (Caulfield South),145.020548,1,64
+19008,-37.89304,59-Princes Park/Hawthorn Rd (Caulfield South),145.020904,1,64
+19009,-37.889608,58-Sycamore St/Hawthorn Rd (Caulfield South),145.021553,1,64
+19010,-37.886661,57-Glenhuntly Rd/Hawthorn Rd (Caulfield),145.022098,1,64
+19011,-37.884838,56-Briggs St/Hawthorn Rd (Caulfield),145.022443,1,64
+19012,-37.882449,55-Sylverly Gr/Hawthorn Rd (Caulfield North),145.022916,1,64
+18412,-37.914222,68-East Brighton/Hawthorn Rd (Brighton East),145.01689,1,64
+18413,-37.911094,67-Howell St/Hawthorn Rd (Brighton East),145.017395,1,64
+18414,-37.90873,66-Union St/Hawthorn Rd (Brighton East),145.017765,1,64
+18415,-37.906574,65-Davey Ave/Hawthorn Rd (Brighton East),145.018141,1,64
+18416,-37.904094,64-Taylor St/Hawthorn Rd (Brighton East),145.018595,1,64
+18417,-37.90157,63-North Rd/Hawthorn Rd (Brighton East),145.019072,1,64
+18418,-37.899496,62-Gardenvale Rd/Hawthorn Rd (Caulfield South),145.019525,1,64
+18419,-37.896702,61-Raynes St/Hawthorn Rd (Caulfield South),145.020067,1,64
+18420,-37.895058,60-Dover St/Hawthorn Rd (Caulfield South),145.020372,1,64
+18421,-37.893135,59-Princes Park/Hawthorn Rd (Caulfield South),145.020685,1,64
+18422,-37.889938,58-Sycamore St/Hawthorn Rd (Caulfield South),145.021328,1,64
+18423,-37.887081,57-Glenhuntly Rd/Hawthorn Rd (Caulfield South),145.021848,1,64
+18424,-37.884584,56-Lockhart St/Hawthorn Rd (Caulfield),145.022347,1,64
+18425,-37.88258,55-Sylverly Gr/Hawthorn Rd (Caulfield),145.022719,1,64
+18979,-37.882957,42-Hotham St/Brighton Rd (Balaclava),144.996501,1,67
+18980,-37.8838,43-Brighton Rd/Glenhuntly Rd (Elsternwick),144.997842,1,67
+18981,-37.88415,44-Elsternwick Railway Station/Glenhuntly Rd (Elsternwick),145.00038,1,67
+18982,-37.884613,45-Elsternwick Shopping Centre/Glenhuntly Rd (Elsternwick),145.003812,1,67
+18983,-37.884862,46-Orrong Rd/Glenhuntly Rd (Elsternwick),145.005705,1,67
+18984,-37.885271,47-Shoobra Rd/Glenhuntly Rd (Elsternwick),145.009127,1,67
+18985,-37.885649,48-Parkside St/Glenhuntly Rd (Elsternwick),145.012267,1,67
+18986,-37.885963,49-Kooyong Rd/Glenhuntly Rd (Elsternwick),145.014874,1,67
+18987,-37.886391,50-Royal Pde/Glenhuntly Rd (Caulfield),145.01833,1,67
+19070,-37.886809,51-Hawthorn Rd/Glenhuntly Rd (Caulfield),145.021764,1,67
+19071,-37.88711,52-Jasmine St/Glenhuntly Rd (Caulfield),145.024121,1,67
+19072,-37.887451,53-Glenhuntly Tram Depot/Glenhuntly Rd (Caulfield),145.02675,1,67
+19073,-37.887673,54-Bambra Rd/Glenhuntly Rd (Caulfield),145.028689,1,67
+19074,-37.887931,55-Fallon St/Glenhuntly Rd (Caulfield),145.030615,1,67
+19075,-37.888251,56-Kambrook Rd/Glenhuntly Rd (Caulfield),145.033085,1,67
+18370,-37.882864,42-Hotham St/Brighton Rd (St Kilda East),144.996344,1,67
+18371,-37.883904,43-Brighton Rd/Glenhuntly Rd (Elsternwick),144.997578,1,67
+18372,-37.884306,44-Elsternwick Railway Station/Glenhuntly Rd (Elsternwick),145.000557,1,67
+18373,-37.884751,45-Elsternwick Shopping Centre/Glenhuntly Rd (Elsternwick),145.003945,1,67
+18374,-37.885051,46-Orrong Rd/Glenhuntly Rd (Elsternwick),145.006211,1,67
+18375,-37.885388,47-Shoobra Rd/Glenhuntly Rd (Elsternwick),145.009113,1,67
+18376,-37.885756,48-Parkside St/Glenhuntly Rd (Elsternwick),145.012241,1,67
+18392,-37.886102,49-Kooyong Rd/Glenhuntly Rd (Elsternwick),145.015086,1,67
+18393,-37.886498,50-Royal Pde/Glenhuntly Rd (Caulfield),145.018259,1,67
+18394,-37.886978,51-Hawthorn Rd/Glenhuntly Rd (Caulfield),145.022181,1,67
+18395,-37.887218,52-Jasmine St/Glenhuntly Rd (Caulfield),145.024141,1,67
+18396,-37.887611,53-Glenhuntly Tram Depot/Glenhuntly Rd (Caulfield),145.02711,1,67
+18397,-37.887839,54-Bambra Rd/Glenhuntly Rd (Caulfield),145.0289,1,67
+18398,-37.888108,55-Fallon St/Glenhuntly Rd (Caulfield),145.030986,1,67
+18399,-37.888419,56-Kean St/Glenhuntly Rd (Caulfield),145.033433,1,67
+18973,-37.870059,36-St Kilda Primary School/Brighton Rd (Balaclava),144.988415,1,67
+18974,-37.871771,37-Chapel St/Brighton Rd (Balaclava),144.989494,1,67
+18975,-37.8728,38-Brunning St/Brighton Rd (Balaclava),144.990125,1,67
+18976,-37.876636,39-Glen Eira Rd/Brighton Rd (Balaclava),144.992545,1,67
+18977,-37.878886,40-Scott St/Brighton Rd (Balaclava),144.993973,1,67
+18978,-37.880798,41-Coleridge St/Brighton Rd (Balaclava),144.995161,1,67
+18364,-37.87012,36-St Kilda Primary School/Brighton Rd (Elwood),144.988345,1,67
+18365,-37.872881,38-Wimbledon Ave/Brighton Rd (Elwood),144.990078,1,67
+18367,-37.87596,39-Glen Eira Rd/Brighton Rd (Elwood),144.992018,1,67
+18368,-37.878947,40-Scott St/Brighton Rd (Elwood),144.993892,1,67
+18369,-37.880842,41-Coleridge St/Brighton Rd (Elwood),144.99508,1,67
+19076,-37.888502,57-Clarke Ave/Glenhuntly Rd (Caulfield East),145.035114,1,67
+19077,-37.888794,58-Booran Rd/Glenhuntly Rd (Caulfield East),145.03754,1,67
+19078,-37.889132,60-Glenhuntly Shops/Glenhuntly Rd (Caulfield East),145.040476,1,67
+19079,-37.889307,61-Glenhuntly Railway Station/Glenhuntly Rd (Caulfield South),145.041824,1,67
+19081,-37.889633,62-Grange Rd/Glenhuntly Rd (Caulfield East),145.04459,1,67
+18400,-37.88867,57-Laura St/Glenhuntly Rd (Caulfield),145.035485,1,67
+18401,-37.888961,58-Booran Rd/Glenhuntly Rd (Caulfield),145.037808,1,67
+18403,-37.889308,60-Glenhuntly Shops/Glenhuntly Rd (Glen Huntly),145.040767,1,67
+18404,-37.889548,61-Glenhuntly Railway Station/Glenhuntly Rd (Glen Huntly),145.04275,1,67
+18405,-37.889838,62-Grange Rd/Glenhuntly Rd (Glen Huntly),145.04504,1,67
+18406,-37.890143,63-Maroona Rd/Glenhuntly Rd (Carnegie),145.047658,1,67
+18407,-37.890406,64-Mernda Ave/Glenhuntly Rd (Carnegie),145.049903,1,67
+18408,-37.890714,65-Mimosa Rd/Glenhuntly Rd (Carnegie),145.052192,1,67
+18409,-37.891069,66-Glenhuntly Rd/Truganini Rd (Carnegie),145.054048,1,67
+18410,-37.892697,67-Centre Rd/Truganini Rd (Carnegie),145.054369,1,67
+18411,-37.893865,68-Carnegie/Truganini Rd (Carnegie),145.055805,1,67
+19082,-37.889938,63-Maroona Rd/Glenhuntly Rd (Carnegie),145.047255,1,67
+19083,-37.890237,64-Mernda Ave/Glenhuntly Rd (Carnegie),145.049487,1,67
+19084,-37.890517,65-Mimosa Rd/Glenhuntly Rd (Carnegie),145.051754,1,67
+19085,-37.890781,66-Truganini Rd/Glenhuntly Rd (Carnegie),145.054066,1,67
+19086,-37.892654,67-Centre Rd/Truganini Rd (Carnegie),145.054495,1,67
+18108,-37.819587,7B-Rod Laver Arena/MCG Gates 1-3 (Melbourne City),144.97913,1,70
+18116,-37.822384,7C-MCG Gates 4-7/John Cain Arena (Melbourne City),144.98353,1,70
+18118,-37.824135,7D-Olympic Boulevard (Melbourne City),144.986857,1,70
+18155,-37.823827,7D-Olympic Boulevard (Melbourne City),144.986751,1,70
+18161,-37.822137,7C-MCG Gates 4-7/John Cain Arena (Melbourne City),144.982798,1,70
+18172,-37.819349,7B-Rod Laver Arena/MCG Gates 1-3 (Melbourne City),144.978421,1,70
+22903,-37.818167,7A-William Barak Bridge/Melbourne Park (Melbourne City),144.976204,1,70
+22904,-37.818323,7A-William Barak Bridge/Melbourne Park (Melbourne City),144.975825,1,70
+19278,-37.824677,8-Richmond Station/Swan St (Richmond),144.989057,1,70
+19279,-37.82524,9-Lennox St/Swan St (Richmond),144.993484,1,70
+19280,-37.825527,10-Swan Street Shopping Centre/Swan St (Richmond),144.996055,1,70
+19281,-37.82576,11-Church St/Swan St (Richmond),144.998094,1,70
+19282,-37.826259,12-Coppin St/Swan St (Richmond),145.00258,1,70
+19283,-37.826506,13-Edinburgh St/Swan St (Burnley),145.004902,1,70
+19294,-37.826791,14-Burnley St/Swan St (Burnley),145.00736,1,70
+19295,-37.827048,15-Stawell St/Swan St (Burnley),145.009784,1,70
+19296,-37.827262,16-Park Gr/Swan St (Burnley),145.011778,1,70
+19297,-37.827468,17-Madden Gr/Swan St (Burnley),145.016511,1,70
+19298,-37.826663,18-Yarra Bvd/Swan St (Burnley),145.019554,1,70
+19456,-37.82642,18-Yarra Bvd/Swan St (Burnley),145.020617,1,70
+19457,-37.827248,17-Madden Gr/Swan St (Burnley),145.016846,1,70
+19458,-37.827198,16-Park Gr/Swan St (Burnley),145.01228,1,70
+19459,-37.826901,15-Stawell St/Swan St (Richmond),145.009607,1,70
+19460,-37.826593,14-Burnley St/Swan St (Richmond),145.006877,1,70
+19461,-37.826392,13-Edinburgh St/Swan St (Richmond),145.00511,1,70
+19462,-37.826102,12-Coppin St/Swan St (Richmond),145.002345,1,70
+19463,-37.82561,11-Church St/Swan St (Richmond),144.99778,1,70
+19464,-37.82538,10-Swan Street Shopping Centre/Swan St (Richmond),144.9959,1,70
+19465,-37.825092,9-Lennox St/Swan St (Richmond),144.993284,1,70
+19466,-37.824532,8-Richmond Station/Swan St (Cremorne),144.988436,1,70
+19760,-37.831489,40-Camberwell Junction/Riversdale Rd (Camberwell),145.057148,1,70
+19761,-37.831828,42-Fermanagh Rd/Riversdale Rd (Camberwell),145.060184,1,70
+19762,-37.832248,43-Trafalgar Rd/Riversdale Rd (Camberwell),145.063855,1,70
+19763,-37.832483,44-Derby St/Riversdale Rd (Camberwell),145.066064,1,70
+19764,-37.832942,46-Spencer Rd/Riversdale Rd (Camberwell),145.06987,1,70
+19765,-37.833276,47-Willow Gr/Riversdale Rd (Camberwell),145.072668,1,70
+19766,-37.833793,48-Cooloongatta Rd/Riversdale Rd (Camberwell),145.077245,1,70
+19767,-37.834084,49-Glyndon Rd/Riversdale Rd (Camberwell),145.079646,1,70
+19768,-37.834295,50-Wattle Valley Rd/Riversdale Rd (Canterbury),145.081516,1,70
+19769,-37.834534,51-Highfield Rd/Riversdale Rd (Camberwell),145.085145,1,70
+19770,-37.834923,52-Lockhart St/Riversdale Rd (Camberwell),145.088533,1,70
+19771,-37.835215,53-Essex Rd/Riversdale Rd (Camberwell),145.090968,1,70
+19772,-37.835531,54-Through Rd/Riversdale Rd (Camberwell),145.093801,1,70
+19773,-37.835762,55-Union Rd/Riversdale Rd (Canterbury),145.095818,1,70
+19774,-37.836065,56-Warrigal Rd/Riversdale Rd (Surrey Hills),145.098389,1,70
+19775,-37.836271,57-Glendale St/Riversdale Rd (Surrey Hills),145.10002,1,70
+19776,-37.836755,58-Wattle Park/1013 Riversdale Rd (Surrey Hills),145.10261,1,70
+19777,-37.836997,59-Alandale St/Riversdale Rd (Surrey Hills),145.104808,1,70
+19779,-37.837208,60-Ferndale St/Riversdale Rd (Surrey Hills),145.106689,1,70
+19421,-37.837609,61-Elgar Rd/Riversdale Rd (Surrey Hills),145.110372,1,70
+19422,-37.83709,60-Ferndale St/Riversdale Rd (Surrey Hills),145.106658,1,70
+19423,-37.836859,59-Alandale St/Riversdale Rd (Surrey Hills),145.104641,1,70
+19424,-37.836531,58-Wattle Park/Riversdale Rd (Surrey Hills),145.102184,1,70
+19425,-37.836204,57-Glendale St/Riversdale Rd (Surrey Hills),145.100306,1,70
+19426,-37.835897,56-Warrigal Rd/Riversdale Rd (Surrey Hills),145.098053,1,70
+19427,-37.835575,55-Union Rd/Riversdale Rd (Surrey Hills),145.095402,1,70
+19428,-37.835341,54-Through Rd/Riversdale Rd (Surrey Hills),145.093192,1,70
+19429,-37.835088,53-Essex Rd/Riversdale Rd (Surrey Hills),145.090949,1,70
+19430,-37.834754,52-Lockhart St/Riversdale Rd (Camberwell),145.08814,1,70
+19431,-37.834367,51-Highfield Rd/Riversdale Rd (Canterbury),145.084854,1,70
+19432,-37.834119,50-Wattle Valley Rd/Riversdale Rd (Canterbury),145.081202,1,70
+19433,-37.83389,49-Glyndon Rd/Riversdale Rd (Camberwell),145.079333,1,70
+19434,-37.833655,48-Cooloongatta Rd/Riversdale Rd (Camberwell),145.077101,1,70
+19435,-37.83311,47-Willow Gr/Riversdale Rd (Canterbury),145.072399,1,70
+19436,-37.832698,46-Spencer Rd/Riversdale Rd (Canterbury),145.069308,1,70
+19438,-37.832336,44-Derby St/Riversdale Rd (Camberwell),145.065886,1,70
+19439,-37.832062,43-Trafalgar Rd/Riversdale Rd (Camberwell),145.063507,1,70
+19440,-37.831684,42-Fermanagh Rd/Riversdale Rd (Camberwell),145.060199,1,70
+19441,-37.831407,41-Camberwell Market/517 Riversdale Rd (Camberwell),145.057627,1,70
+18942,-37.850052,39-Irving Rd/Malvern Rd (Toorak),145.018679,1,72
+18943,-37.850403,40-Kooyong Rd/Malvern Rd (Toorak),145.021306,1,72
+18944,-37.850763,41-Albany Rd/Malvern Rd (Toorak),145.023956,1,72
+18945,-37.851052,42-Lauriston Girls School/Malvern Rd (Toorak),145.026141,1,72
+18946,-37.851547,43-Glenferrie Rd/Malvern Rd (Toorak),145.029867,1,72
+18947,-37.851897,44-Plant St/Malvern Rd (Malvern),145.032495,1,72
+19062,-37.852084,44-Plant St/Malvern Rd (Malvern),145.032888,1,72
+19063,-37.851723,43-Glenferrie Rd/Malvern Rd (Malvern),145.030204,1,72
+19064,-37.85119,42-Lauriston Girls School/Malvern Rd (Armadale),145.026331,1,72
+19065,-37.850879,41-Murray St/Malvern Rd (Malvern),145.023918,1,72
+19066,-37.850588,40-Kooyong Rd/Malvern Rd (Toorak),145.021596,1,72
+19067,-37.850156,39-Densham Rd/Malvern Rd (Toorak),145.018426,1,72
+18899,-37.845278,26-Alfred Hospital/Commercial Rd (South Yarra),144.982225,1,72
+18918,-37.84563,27-Punt Rd/Commercial Rd (South Yarra),144.984863,1,72
+18923,-37.845899,28-Braille Library/Commercial Rd (South Yarra),144.987413,1,72
+18931,-37.846314,29-Porter St/Commercial Rd (South Yarra),144.990583,1,72
+18933,-37.846541,30-Prahran Market/Commercial Rd (South Yarra),144.992271,1,72
+18934,-37.84676,31-Chapel St/Commercial Rd (South Yarra),144.994015,1,72
+18935,-37.847293,32-Surrey Rd/Malvern Rd (South Yarra),144.997807,1,72
+18936,-37.847653,33-Francis St/Malvern Rd (South Yarra),145.000434,1,72
+18937,-37.848004,34-Williams Rd/Malvern Rd (South Yarra),145.00305,1,72
+18938,-37.84848,35-Mathoura Rd/Malvern Rd (Toorak),145.006685,1,72
+18939,-37.848923,36-A'Beckett St/Malvern Rd (Toorak),145.009992,1,72
+18940,-37.849193,37-Orrong Rd/Malvern Rd (Toorak),145.012076,1,72
+18941,-37.849618,38-Clendon Rd/Malvern Rd (Toorak),145.01536,1,72
+19068,-37.849793,38-Clendon Rd/Malvern Rd (Toorak),145.015617,1,72
+19069,-37.84938,37-Orrong Rd/Malvern Rd (Toorak),145.012469,1,72
+19123,-37.848948,36-Canterbury Rd/Malvern Rd (Toorak),145.009321,1,72
+19124,-37.848594,35-Lorne Rd/Malvern Rd (Toorak),145.006489,1,72
+19125,-37.84819,34-Williams Rd/Malvern Rd (Toorak),145.003409,1,72
+19126,-37.847881,33-Hobson St/Malvern Rd (South Yarra),145.001155,1,72
+19127,-37.84745,32-Bendigo St/Malvern Rd (Prahran),144.998042,1,72
+19128,-37.846934,31-Chapel St/Malvern Rd (Prahran),144.994215,1,72
+19129,-37.846706,30-Prahran Market/Commercial Rd (Prahran),144.992425,1,72
+19130,-37.846514,29-Porter St/Commercial Rd (Prahran),144.990714,1,72
+19131,-37.846073,28-Braille Library/Commercial Rd (Prahran),144.987556,1,72
+19132,-37.84577,27-Punt Rd/Commercial Rd (Prahran),144.985155,1,72
+19133,-37.845361,26-Alfred Hospital/Commercial Rd (Prahran),144.982313,1,72
+18948,-37.852259,45-Elizabeth St/Malvern Rd (Malvern),145.035304,1,72
+18949,-37.852784,46-Meredith St/Malvern Rd (Malvern),145.039234,1,72
+18950,-37.853128,47-Tooronga Rd/Malvern Rd (Malvern),145.041987,1,72
+18951,-37.853556,48-Edgar St/Malvern Rd (Malvern),145.045555,1,72
+18952,-37.8539,49-Kenilworth Gr/Malvern Rd (Malvern),145.04832,1,72
+18953,-37.854322,50-Burke Rd/Malvern Rd (Malvern),145.051491,1,72
+18954,-37.852854,51-Gardiner Railway Station/Burke Rd (Hawthorn East),145.052677,1,72
+18955,-37.849778,52-Harris Ave/Burke Rd (Hawthorn East),145.053042,1,72
+18956,-37.848171,53-Faircroft Ave/Burke Rd (Hawthorn East),145.053392,1,72
+18957,-37.8458,54-Toorak Rd/Burke Rd (Glen Iris),145.053874,1,72
+18958,-37.843796,55-Middle Rd/Burke Rd (Hawthorn East),145.054245,1,72
+18959,-37.841856,56-Anderson Rd/Burke Rd (Hawthorn East),145.054626,1,72
+18960,-37.840257,57-Pine Ave/Burke Rd (Hawthorn East),145.054941,1,72
+18961,-37.838164,58-Leura Gr/Burke Rd (Hawthorn East),145.055336,1,72
+18962,-37.835415,59-Pleasant Rd/Burke Rd (Hawthorn East),145.055829,1,72
+18963,-37.833717,60-Campbell Rd/Burke Rd (Hawthorn East),145.056158,1,72
+18964,-37.83157,61-Riversdale Rd/Burke Rd (Hawthorn East),145.056566,1,72
+18965,-37.830204,62-Camberwell Shopping Centre/755 Burke Rd (Hawthorn East),145.056818,1,72
+18966,-37.828219,63-Prospect Hill Rd/Burke Rd (Hawthorn East),145.057222,1,72
+19041,-37.823434,65-Victoria Rd/Burke Rd (Camberwell),145.058313,1,72
+18967,-37.826054,64-Camberwell Station/Burke Rd (Hawthorn East),145.057631,1,72
+18968,-37.823583,65-Victoria Rd/Burke Rd (Hawthorn East),145.05806,1,72
+18969,-37.821481,66-Rathmines Rd/Burke Rd (Hawthorn East),145.058467,1,72
+18970,-37.818589,67-Camberwell Girls Grammar/Burke Rd (Hawthorn East),145.059054,1,72
+18971,-37.815992,68-Mont Albert Rd/Burke Rd (Kew),145.059542,1,72
+18972,-37.814132,69-Sackville St/Burke Rd (Kew),145.059875,1,72
+19036,-37.810873,70-Cotham Rd/Burke Rd (Kew),145.060596,1,72
+19037,-37.814108,69-Peverill St/Burke Rd (Balwyn),145.060069,1,72
+19038,-37.815743,68-Mont Albert Rd/Burke Rd (Camberwell),145.059765,1,72
+19039,-37.818492,67-Camberwell Girls Grammar/Burke Rd (Canterbury),145.059227,1,72
+19040,-37.821287,66-Canterbury Rd/Burke Rd (Camberwell),145.058722,1,72
+19042,-37.825967,64-Camberwell Station/Burke Rd (Camberwell),145.057815,1,72
+19043,-37.828024,63-Prospect Hill Rd/Burke Rd (Camberwell),145.057432,1,72
+19044,-37.831088,61-Camberwell Junction/Burke Rd (Camberwell),145.05684,1,72
+19045,-37.83389,60-Reserve Rd/Burke Rd (Camberwell),145.056312,1,72
+19046,-37.835193,59-Seymour Gr/Burke Rd (Camberwell),145.056074,1,72
+19047,-37.838086,58-Currajong Ave/Burke Rd (Camberwell),145.05552,1,72
+19048,-37.840062,57-Pine Ave/Burke Rd (Camberwell),145.055139,1,72
+19049,-37.841589,56-Anderson Rd/Burke Rd (Camberwell),145.054849,1,72
+19050,-37.843656,55-Middle Rd/Burke Rd (Camberwell),145.054454,1,72
+19051,-37.845614,54-Toorak Rd/Burke Rd (Camberwell),145.054084,1,72
+19052,-37.847878,53-Howitt St/Burke Rd (Glen Iris),145.053627,1,72
+19053,-37.849881,52-Bickleigh St/Burke Rd (Glen Iris),145.053222,1,72
+19054,-37.852962,51-Gardiner Station/Burke Rd (Glen Iris),145.052663,1,72
+19056,-37.854418,50-Glenarm Rd/Malvern Rd (Glen Iris),145.051295,1,72
+19057,-37.854046,49-Belmont Ave/Malvern Rd (Glen Iris),145.048418,1,72
+19058,-37.853732,48-Edgar St/Malvern Rd (Glen Iris),145.045835,1,72
+19059,-37.853304,47-Tooronga Rd/Malvern Rd (Glen Iris),145.0423,1,72
+19060,-37.852859,46-Shaftesbury Ave/Malvern Rd (Malvern),145.038823,1,72
+19061,-37.852434,45-Elizabeth St/Malvern Rd (Malvern),145.035504,1,72
+20778,-37.820884,25-St James Park/Burwood Rd (Hawthorn),145.021027,1,75
+20779,-37.820958,25-St James Park/Burwood Rd (Hawthorn),145.021115,1,75
+20780,-37.821453,26-Hawthorn Railway Station/Burwood Rd (Hawthorn),145.024817,1,75
+20781,-37.821287,26-Hawthorn Railway Station/Burwood Rd (Hawthorn),145.024583,1,75
+20782,-37.821747,27-Burwood Rd/Power St (Hawthorn),145.026275,1,75
+20783,-37.821468,27-Power St/Burwood Rd (Hawthorn),145.026282,1,75
+20784,-37.824778,28-Wattle Rd/Power St (Hawthorn),145.025865,1,75
+20785,-37.82491,28-Wattle Rd/Power St (Hawthorn),145.025713,1,75
+21061,-37.832084,41-Burke Rd/Camberwell Rd (Camberwell),145.057723,"1,2",75
+21062,-37.833049,42-Camberwell Primary School/Camberwell Rd (Camberwell),145.058868,"1,2",75
+21063,-37.833339,42-Camberwell Primary School/Camberwell Rd (Camberwell),145.058929,"1,2",75
+21064,-37.834566,43-Camberwell Civic Centre/Camberwell Rd (Camberwell),145.060635,"1,2",75
+21065,-37.834809,43-Camberwell Civic Centre/Camberwell Rd (Camberwell),145.060663,"1,2",75
+21066,-37.835924,44-Trafalgar Rd/Camberwell Rd (Camberwell),145.062156,"1,2",75
+21067,-37.836417,44-Trafalgar Rd/Camberwell Rd (Camberwell),145.062518,"1,2",75
+21068,-37.837706,45-Bowen St/Camberwell Rd (Camberwell),145.0642,"1,2",75
+21069,-37.837913,45-Bowen St/Camberwell Rd (Camberwell),145.064195,"1,2",75
+21070,-37.839404,46-Christowel St/Camberwell Rd (Camberwell),145.066076,"1,2",75
+21071,-37.839814,46-Acheron Ave/Camberwell Rd (Camberwell),145.066304,"1,2",75
+21072,-37.840809,47-Maple Cres/Camberwell Rd (Camberwell),145.067642,"1,2",75
+21073,-37.841154,47-Orange Gr/Camberwell Rd (Camberwell),145.067815,"1,2",75
+21074,-37.842122,48-Orrong Cres/Camberwell Rd (Camberwell),145.069119,"1,2",75
+21075,-37.842339,48-Glen Iris Rd/Camberwell Rd (Camberwell),145.069159,"1,2",75
+21076,-37.844142,49-Tyrone St/Camberwell Rd (Camberwell),145.07143,"1,2",75
+21077,-37.844432,49-Wilson Gr/Camberwell Rd (Camberwell),145.071525,"1,2",75
+21078,-37.845914,50-Fordham Gardens/Camberwell Rd (Camberwell),145.073407,"1,2",75
+21079,-37.845911,50-Smith Rd/Camberwell Rd (Camberwell),145.073203,"1,2",75
+21080,-37.847843,51-Toorak Rd/Camberwell Rd (Camberwell),145.075618,"1,2",75
+21081,-37.8482,52-Summerhill Rd/Toorak Rd (Camberwell),145.077075,"1,2",75
+21082,-37.848359,52-Summerhill Rd/Toorak Rd (Camberwell),145.077412,"1,2",75
+21083,-37.848737,53-Highfield Rd/Toorak Rd (Camberwell),145.081812,"1,2",75
+21084,-37.848916,53-Lithgow St/Toorak Rd (Camberwell),145.082296,"1,2",75
+21085,-37.849039,54-Oberwyl Rd/Toorak Rd (Camberwell),145.084304,"1,2",75
+21086,-37.849197,54-Grandview Ave/Toorak Rd (Camberwell),145.084596,"1,2",75
+21087,-37.849321,55-Through Rd/Toorak Rd (Camberwell),145.086718,"1,2",75
+21088,-37.849519,55-Beryl St/Toorak Rd (Camberwell),145.087258,"1,2",75
+21089,-37.849656,56-Barkly St/Toorak Rd (Camberwell),145.089596,"1,2",75
+21090,-37.849853,56-Alfred Rd/Toorak Rd (Camberwell),145.090057,"1,2",75
+21091,-37.849981,57-Fairview Ave/Toorak Rd (Camberwell),145.092361,"1,2",75
+21092,-37.850158,57-Queens Pde/Toorak Rd (Camberwell),145.092731,"1,2",75
+21093,-37.850328,58-Warrigal Rd/Burwood Hwy (Camberwell),145.095466,"1,2",75
+21094,-37.850433,58-Warrigal Rd/Burwood Hwy (Burwood),145.095838,"1,2",75
+21095,-37.8507,59-Somers St/Burwood Hwy (Burwood),145.098979,"1,2",75
+21096,-37.850742,59-Gilmour St/Burwood Hwy (Burwood),145.09874,"1,2",75
+21097,-37.850444,60-Roslyn St/Burwood Hwy (Burwood),145.102089,"1,2",75
+21098,-37.850508,60-Millicent St/Burwood Hwy (Burwood),145.102155,"1,2",75
+21099,-37.849967,61-Presbyterian Ladies College/Burwood Hwy (Burwood),145.105476,"1,2",75
+21100,-37.84998,61-Presbyterian Ladies College/Burwood Hwy (Burwood),145.105715,"1,2",75
+21101,-37.849505,62-Elgar Rd/Burwood Hwy (Burwood),145.108704,"1,2",75
+21102,-37.849591,62-Elgar Rd/Burwood Hwy (Burwood),145.108441,"1,2",75
+21964,-37.831594,40-Camberwell Junction/Camberwell Rd (Camberwell),145.056929,"1,2",75
+21103,-37.849989,63-Deakin University/Burwood Hwy (Burwood),145.115238,"1,2",75
+21104,-37.850081,63-Deakin University/Burwood Hwy (Burwood),145.115407,"1,2",75
+21105,-37.850551,64-Station St/Burwood Hwy (Burwood),145.119395,"1,2",75
+21106,-37.850606,64-Station St/Burwood Hwy (Burwood),145.120587,"1,2",75
+21107,-37.85126,65-Starling St/Burwood Hwy (Burwood),145.125981,"1,2",75
+21108,-37.851364,65-Starling St/Burwood Hwy (Burwood),145.126319,"1,2",75
+21109,-37.85202,66-Middleborough Rd/Burwood Hwy (Burwood),145.131837,"1,2",75
+21110,-37.852023,66-Middleborough Rd/Burwood Hwy (Burwood),145.133212,"1,2",75
+21111,-37.851479,67-Old Burwood Rd/Burwood Hwy (Burwood East),145.138136,"1,2",75
+21112,-37.851482,67-Old Burwood Rd/Burwood Hwy (Burwood East),145.138295,"1,2",75
+21113,-37.851286,68-Benwerrin Reserve/Burwood Hwy (Burwood East),145.14188,"1,2",75
+21114,-37.851379,68-Benwerrin Reserve/Burwood Hwy (Burwood East),145.142037,"1,2",75
+21115,-37.851851,69-Keats St/Burwood Hwy (Burwood East),145.146242,"1,2",75
+21116,-37.851942,69-Highview Gr/Burwood Hwy (Burwood East),145.146342,"1,2",75
+21117,-37.852576,70-Blackburn Rd/Burwood Hwy (Burwood East),145.151122,"1,2",75
+21118,-37.852694,70-Blackburn Rd/Burwood Hwy (Burwood East),145.152847,"1,2",75
+21119,-37.853621,71-Sevenoaks Rd/Burwood Hwy (Burwood East),145.158541,"1,2",75
+21120,-37.853592,71-Sevenoaks Rd/Burwood Hwy (Burwood East),145.158985,"1,2",75
+21121,-37.854365,72-Lakeside Dr/Burwood Hwy (Burwood East),145.164637,"1,2",75
+21122,-37.854414,72-Lakeside Dr/Burwood Hwy (Burwood East),145.166068,"1,2",75
+21123,-37.854763,73-Springvale Rd/Burwood Hwy (Burwood East),145.168196,"1,2",75
+21124,-37.854938,73-Springvale Rd/Burwood Hwy (Vermont South),145.170158,"1,2",75
+21125,-37.855544,74-Stanley Rd/Burwood Hwy (Vermont South),145.174974,"1,2",75
+21126,-37.855556,74-Stanley Rd/Burwood Hwy (Vermont South),145.174598,"1,2",75
+21127,-37.856445,75-Vermont South Shopping Centre/Burwood Hwy (Vermont South),145.18193,"1,2",75
+18591,-37.810726,65-Victoria St/Church St (Richmond),145.000624,1,78
+18592,-37.812592,64-Elizabeth St/Church St (Richmond),145.000165,1,78
+18593,-37.814318,63-Tweedie Pl/Church St (Richmond),144.99988,1,78
+18594,-37.815962,62-Highett St/Church St (Richmond),144.999574,1,78
+18595,-37.818729,61-Bridge Rd/Church St (Richmond),144.999079,1,78
+18596,-37.820302,60-Abinger St/Church St (Richmond),144.99881,1,78
+18597,-37.821838,59-St Ignatius Church/Church St (Richmond),144.998541,1,78
+18598,-37.824058,58-Gipps St/Church St (Richmond),144.998163,1,78
+18599,-37.825782,57-Swan St/Church St (Richmond),144.997821,1,78
+18601,-37.828972,55-Adelaide St/Church St (Cremorne),144.997269,1,78
+18602,-37.830331,54-Cotter St/Church St (Cremorne),144.997187,1,78
+19087,-37.812254,64-Baker St/Church St (Richmond),145.000424,1,78
+19090,-37.818426,61-Bridge Rd/Church St (Richmond),144.999292,1,78
+19091,-37.820322,60-Abinger St/Church St (Richmond),144.998957,1,78
+19092,-37.821742,59-St Ignatius Church/Church St (Richmond),144.998714,1,78
+19093,-37.823727,58-Gipps St/Church St (Richmond),144.998354,1,78
+19094,-37.825551,57-Swan St/Church St (Richmond),144.998032,1,78
+19095,-37.826638,56-East Richmond Railway Station/Church St (Richmond),144.997843,1,78
+19096,-37.828768,55-Gibbons St/Church St (Richmond),144.997456,1,78
+19097,-37.830472,54-Balmain St/Church St (Richmond),144.996967,1,78
+18603,-37.832668,53-Howard St/Church St (Richmond),144.996794,1,78
+18605,-37.836364,51-Malcolm St/Chapel St (South Yarra),144.996342,1,78
+18606,-37.839648,50-Toorak Rd/Chapel St (South Yarra),144.995503,1,78
+18607,-37.841572,49-Palermo St/Chapel St (South Yarra),144.99528,1,78
+18608,-37.843833,48-Cliff St/Chapel St (South Yarra),144.994651,1,78
+18609,-37.846976,47-Commercial Rd/Chapel St (Prahran),144.994032,1,78
+18610,-37.849106,46-Chatham St/Chapel St (Prahran),144.993678,1,78
+18611,-37.851956,45-High St/Chapel St (Prahran),144.993283,1,78
+18612,-37.854102,44-Duke St/Chapel St (Windsor),144.992827,1,78
+18613,-37.85624,43-Windsor Railway Station/Chapel St (Windsor),144.992451,1,78
+18614,-37.857921,42-Dandenong Rd/Chapel St (St Kilda East),144.992155,1,78
+18615,-37.859529,41-St Michaels Grammar School/Chapel St (St Kilda),144.991873,1,78
+18616,-37.861577,40-Alma Rd/Chapel St (St Kilda East),144.99151,1,78
+18617,-37.863392,39-Argyle St/Chapel St (St Kilda East),144.991188,1,78
+18618,-37.86544,38-Inkerman St/Chapel St (St Kilda East),144.990791,1,78
+18621,-37.868477,37-Carlisle St/Chapel St (St Kilda),144.990231,1,78
+18622,-37.871091,36-Brighton Rd/Chapel St (St Kilda),144.989774,1,78
+19098,-37.832827,53-Howard St/Church St (Richmond),144.996608,1,78
+19100,-37.836944,51-Malcolm St/Chapel St (South Yarra),144.996042,1,78
+19101,-37.839346,50-Toorak Rd/Chapel St (South Yarra),144.995784,1,78
+19102,-37.842027,49-Arthur St/Chapel St (South Yarra),144.994973,1,78
+19103,-37.843639,48-Wilson St/Chapel St (South Yarra),144.994895,1,78
+19104,-37.846701,47-Malvern Rd/Chapel St (South Yarra),144.994255,1,78
+19105,-37.848948,46-Chatham St/Chapel St (Prahran),144.993921,1,78
+19106,-37.851725,45-High St/Chapel St (Prahran),144.993494,1,78
+19107,-37.853989,44-Duke St/Chapel St (Prahran),144.993046,1,78
+19108,-37.856127,43-Windsor Railway Station/Chapel St (Prahran),144.992647,1,78
+19109,-37.85742,42-Dandenong Rd/Chapel St (Prahran),144.992419,1,78
+19110,-37.859379,41-St Michaels Grammar School/Chapel St (St Kilda East),144.992081,1,78
+19111,-37.861374,40-Alma Rd/Chapel St (St Kilda East),144.991732,1,78
+19112,-37.863324,39-Argyle St/Chapel St (St Kilda East),144.991395,1,78
+19113,-37.865201,38-Inkerman St/Chapel St (St Kilda East),144.991037,1,78
+19116,-37.86821,37-Carlisle St/Chapel St (St Kilda),144.990477,1,78
+19088,-37.81433,63-Kent St/Church St (Richmond),145.000039,1,78
+19089,-37.815749,62-Highett St/Church St (Richmond),144.999773,1,78
+18512,-37.772452,34-Maribyrnong Rd/Ascot Vale Rd (Moonee Ponds),144.924024,1,82
+18513,-37.77234,35-Moore St/Maribyrnong Rd (Moonee Ponds),144.921234,1,82
+18514,-37.772026,36-Bayview Tce/Maribyrnong Rd (Moonee Ponds),144.918257,1,82
+18515,-37.771812,37-Union Rd/Maribyrnong Rd (Moonee Ponds),144.916322,1,82
+17918,-37.769637,48-Raleigh Rd/Wests Rd (Maribyrnong),144.882813,1,82
+17919,-37.773104,49-Highpoint Shopping Centre/Wests Rd (Maribyrnong),144.882181,1,82
+17920,-37.775212,50-Wests Rd/Williamson Rd (Maribyrnong),144.882143,1,82
+17921,-37.77604,51-Williamson Rd/Rosamond Rd (Maidstone),144.885571,1,82
+17922,-37.779332,52-Rosamond Rd/River St (Maribyrnong),144.88575,1,82
+17923,-37.779594,53-Maribyrnong College/River St (Maribyrnong),144.887786,1,82
+17924,-37.780002,54-Gordon St/River St (Maribyrnong),144.890931,1,82
+17925,-37.782241,55-Lyric St/Gordon St (Maribyrnong),144.891151,1,82
+17926,-37.784898,56-Edgewater Square/Gordon St (Maribyrnong),144.890599,1,82
+17927,-37.788644,57-Titch St/Gordon St (Footscray),144.889924,1,82
+17928,-37.790476,58-Ballarat Rd/Gordon St (Footscray),144.889554,1,82
+17929,-37.792584,59-Droop St/Ballarat Rd (Footscray),144.893571,1,82
+17930,-37.79489,60-Tiernan St/Droop St (Footscray),144.895516,1,82
+17931,-37.796793,61-Geelong Rd/Droop St (Footscray),144.897131,1,82
+17932,-37.799841,62-Nicholson St/Hopkins St (Footscray),144.899736,1,82
+17933,-37.800081,63-Footscray Market/Leeds St (Footscray),144.901058,1,82
+17934,-37.801367,64-Footscray Station/Leeds St (Footscray),144.90092,1,82
+17939,-37.771891,36-86 Maribyrnong Rd (Moonee Ponds),144.918295,1,82
+17940,-37.772212,35-Moore St/Maribyrnong Rd (Moonee Ponds),144.921135,1,82
+17941,-37.772474,34-Ascot Vale Rd/Maribyrnong Rd (Moonee Ponds),144.923705,1,82
+17942,-37.770051,33-Chaucer St/Ascot Vale Rd (Moonee Ponds),144.924284,1,82
+18492,-37.773286,49-Highpoint Shopping Centre/Wests Rd (Maribyrnong),144.882266,1,82
+18493,-37.77493,50-Williamson Rd/Wests Rd (Maribyrnong),144.881992,1,82
+18494,-37.776293,51-Williamson Rd/Rosamond Rd (Maidstone),144.885643,1,82
+18495,-37.778502,52-River St/Rosamond Rd (Maribyrnong),144.885206,1,82
+18496,-37.779545,53-Maribyrnong College/River St (Maribyrnong),144.888094,1,82
+18497,-37.779917,54-Gordon St/River St (Maribyrnong),144.89124,1,82
+18498,-37.782118,55-Lyric St/Gordon St (Maribyrnong),144.891348,1,82
+18499,-37.784444,56-Edgewater Square/Gordon St (Maribyrnong),144.890873,1,82
+18500,-37.7888,57-Titch St/Gordon St (Footscray),144.890068,1,82
+18501,-37.790551,58-Ballarat Rd/Gordon St (Footscray),144.889723,1,82
+18505,-37.792313,59-Droop St/Ballarat Rd (Footscray),144.893511,1,82
+18506,-37.794619,60-Tiernan St/Droop St (Footscray),144.895489,1,82
+18507,-37.796138,61-Geelong Rd/Droop St (Footscray),144.896764,1,82
+18508,-37.799276,62-Nicholson St/Droop St (Footscray),144.899412,1,82
+18509,-37.799853,63-Leeds St/Hopkins St (Footscray),144.900917,1,82
+18511,-37.770053,33-Chaucer St/Ascot Vale Rd (Moonee Ponds),144.924443,1,82
+6103,-37.751983,42-Dundas St/Plenty Rd (Preston),145.002002,1,86
+6104,-37.75455,41-Collins St/High St (Thornbury),145.001366,1,86
+6105,-37.756698,40-Mansfield St/High St (Thornbury),145.001047,1,86
+4195,-37.73447,51-Wood St/Plenty Rd (Preston),145.013548,1,86
+4196,-37.736839,50-Sylvester Gr/Plenty Rd (Preston),145.012418,1,86
+4197,-37.738894,49-Murray Rd/Plenty Rd (Preston),145.011365,1,86
+4198,-37.741153,48-Gower St/Plenty Rd (Preston),145.009591,1,86
+4199,-37.743207,47-David St/Plenty Rd (Preston),145.007958,1,86
+4201,-37.74576,45-Bell St/Plenty Rd (Preston),145.005994,1,86
+4202,-37.747061,44-Seymour St/Plenty Rd (Preston),145.00512,1,86
+4203,-37.749182,43-Raglan St/Plenty Rd (Preston),145.003701,1,86
+4204,-37.752462,42-Miller St/High St (Thornbury),145.001536,1,86
+4205,-37.754358,41-Blythe St/High St (Thornbury),145.001235,1,86
+4206,-37.756721,40-Mansfield St/High St (Thornbury),145.000831,1,86
+4503,-37.730994,52-Tyler St/Plenty Rd (Preston),145.014765,"1,2",86
+4504,-37.734321,51-Wood St/Plenty Rd (Preston),145.013825,1,86
+4505,-37.736868,50-Sylvester Gr/Plenty Rd (Preston),145.012565,1,86
+4506,-37.73871,49-Murray Rd/Plenty Rd (Preston),145.011676,1,86
+4507,-37.740774,48-Gower St/Plenty Rd (Preston),145.010089,1,86
+4508,-37.742882,47-David St/Plenty Rd (Preston),145.008444,1,86
+4510,-37.745337,45-Bell St/Plenty Rd (Preston),145.006528,1,86
+4511,-37.746877,44-Osborne Gr/Plenty Rd (Preston),145.00542,1,86
+4512,-37.748882,43-Raglan St/Plenty Rd (Preston),145.004095,1,86
+4174,-37.678984,71-RMIT/Plenty Rd (Bundoora),145.069502,"1,2",86
+4175,-37.681356,70-Clements Dr/Plenty Rd (Bundoora),145.06902,"1,2",86
+4176,-37.688022,69-Taunton Dr/Plenty Rd (Bundoora),145.066659,"1,2",86
+4177,-37.691686,68-Greenhills Rd/Plenty Rd (Bundoora),145.063139,"1,2",86
+4178,-37.695674,67-Bundoora Square SC/Plenty Rd (Bundoora),145.059576,"1,2",86
+4179,-37.69796,66-Settlement Rd/Plenty Rd (Bundoora),145.058847,"1,2",86
+4180,-37.700121,65-Grimshaw St/Plenty Rd (Bundoora),145.058178,"1,2",86
+4181,-37.703671,64-Mount Cooper Dr/Plenty Rd (Bundoora),145.055964,"1,2",86
+4182,-37.707385,63-Greenwood Dr/Plenty Rd (Bundoora),145.052192,"1,2",86
+4183,-37.710531,62-Metropolitan Fire Brigade/Plenty Rd (Bundoora),145.048968,"1,2",86
+4185,-37.712488,61-Bundoora Park/Plenty Rd (Bundoora),145.046353,"1,2",86
+4186,-37.716447,60-La Trobe University/Plenty Rd (Bundoora),145.043254,"1,2",86
+4187,-37.718982,59-Preston Cemetery/Plenty Rd (Kingsbury),145.039625,"1,2",86
+4188,-37.720008,58-Browning St/Plenty Rd (Kingsbury),145.036841,"1,2",86
+4189,-37.722689,57-Reservoir District Secondary College/Plenty Rd (Reservoir),145.030065,"1,2",86
+4190,-37.723986,56-Loddon Ave/Plenty Rd (Reservoir),145.027852,"1,2",86
+4191,-37.725436,55-Boldrewood Pde/Plenty Rd (Reservoir),145.022957,"1,2",86
+4192,-37.727333,54-Wilkinson St/Plenty Rd (Reservoir),145.020014,"1,2",86
+4193,-37.729133,53-Ethel Gr/Plenty Rd (Reservoir),145.017208,"1,2",86
+4485,-37.682318,70-Janefield Dr/Plenty Rd (Bundoora),145.068927,"1,2",86
+4486,-37.688157,69-Taunton Dr/Plenty Rd (Bundoora),145.066678,"1,2",86
+4487,-37.691927,68-Greenhills Rd/Plenty Rd (Bundoora),145.063019,"1,2",86
+4488,-37.695908,67-Bundoora Square SC/Plenty Rd (Bundoora),145.059581,"1,2",86
+4489,-37.698266,66-Settlement Rd/Plenty Rd (Bundoora),145.058816,"1,2",86
+4490,-37.699817,65-Grimshaw St/Plenty Rd (Bundoora),145.058345,"1,2",86
+4491,-37.703904,64-Mount Cooper Dr/Plenty Rd (Bundoora),145.055856,"1,2",86
+4492,-37.70807,63-Greenwood Dr/Plenty Rd (Bundoora),145.05163,"1,2",86
+4493,-37.710551,62-Metropolitan Fire Brigade/Plenty Rd (Bundoora),145.049103,"1,2",86
+4494,-37.713152,61-Bundoora Park/Plenty Rd (Bundoora),145.04562,"1,2",86
+4495,-37.717367,60-La Trobe University/Plenty Rd (Bundoora),145.042764,"1,2",86
+4496,-37.719039,59-Preston Cemetery/Plenty Rd (Kingsbury),145.039759,"1,2",86
+4497,-37.720064,58-Browning St/Plenty Rd (Kingsbury),145.036964,"1,2",86
+4498,-37.722639,57-Reservoir District Secondary College/Plenty Rd (Reservoir),145.030316,"1,2",86
+4499,-37.724522,56-Loddon Ave/Plenty Rd (Reservoir),145.027032,"1,2",86
+4500,-37.725568,55-Albert St/Plenty Rd (Reservoir),145.022806,"1,2",86
+4501,-37.727706,54-Wilkinson St/Plenty Rd (Reservoir),145.019675,"1,2",86
+4502,-37.72912,53-Ethel Gr/Plenty Rd (Reservoir),145.017515,"1,2",86
+18189,-37.815313,120-Lonsdale St/Spencer St (Melbourne City),144.952381,1,86
+18190,-37.813405,119-La Trobe St/Spencer St (Melbourne City),144.951502,1,86
+18192,-37.81496,120-Lonsdale St/Spencer St (Melbourne City),144.952311,1,86
+20980,-37.759651,38-Normanby Ave/High St (Thornbury),145.000321,1,86
+6044,-37.780247,27-Westgarth St/High St (Northcote),144.996848,1,86
+6045,-37.78357,26-Walker St/High St (Northcote),144.996167,1,86
+6046,-37.78565,25-Clifton Hill Interchange/Queens Pde (Clifton Hill),144.994521,1,86
+6047,-37.788364,24-Michael St/Queens Pde (Clifton Hill),144.991416,1,86
+6048,-37.789481,23-Wellington St/Queens Pde (Clifton Hill),144.988751,1,86
+6049,-37.790467,22-Smith St/Queens Pde (Clifton Hill),144.986351,1,86
+6050,-37.794158,21-Alexandra Pde/Smith St (Fitzroy),144.985025,1,86
+6051,-37.796781,20-Rose St/Smith St (Collingwood),144.984567,1,86
+6052,-37.799081,19-Johnston St/Smith St (Fitzroy),144.984164,1,86
+6053,-37.801579,18-Hodgson St/Smith St (Fitzroy),144.983744,1,86
+6054,-37.80361,17-Charles St/Smith St (Fitzroy),144.983382,1,86
+6056,-37.806256,15-Smith St/Gertrude St (Fitzroy),144.982663,1,86
+6057,-37.80591,14-Napier St/Gertrude St (Fitzroy),144.979287,1,86
+6058,-37.805655,13-Brunswick St/Gertrude St (Fitzroy),144.977057,1,86
+6106,-37.75836,39-Gooch St/High St (Thornbury),145.000741,1,86
+6107,-37.759447,38-Clarendon St/High St (Thornbury),145.000553,1,86
+6108,-37.761236,37-Woolton Ave/High St (Thornbury),145.000255,1,86
+6109,-37.76315,36-Darebin Rd/High St (Thornbury),144.999954,1,86
+6110,-37.765558,35-Dennis St/High St (Northcote),144.999526,1,86
+6111,-37.767473,34-McCutcheon St/High St (Northcote),144.999281,1,86
+6112,-37.769193,33-Separation St/High St (Northcote),144.999178,1,86
+6113,-37.771392,32-Mitchell St/High St (Northcote),144.998665,1,86
+6114,-37.775002,31-Northcote Town Hall/High St (Northcote),144.99792,1,86
+6115,-37.777166,30-Clarke St/High St (Northcote),144.997442,1,86
+6118,-37.780876,27-Westgarth St/High St (Northcote),144.996728,1,86
+6119,-37.783894,26-Walker St/High St (Northcote),144.996181,1,86
+6120,-37.786317,25-Clifton Hill Interchange/Queens Pde (Clifton Hill),144.993992,1,86
+6121,-37.788939,24-Gold St/Queens Pde (Fitzroy North),144.990265,1,86
+6122,-37.789735,23-Wellington St/Queens Pde (Clifton Hill),144.988347,1,86
+6123,-37.790636,22-Smith St/Queens Pde (Clifton Hill),144.98621,1,86
+6124,-37.793621,21-Alexandra Pde/Smith St (Clifton Hill),144.985278,1,86
+6125,-37.796694,20-Keele St/Smith St (Fitzroy),144.984751,1,86
+6126,-37.798842,19-Johnston St/Smith St (Fitzroy),144.984375,1,86
+6127,-37.801394,18-Hodgson St/Smith St (Fitzroy),144.983965,1,86
+6128,-37.803461,17-Charles St/Smith St (Fitzroy),144.983613,1,86
+6129,-37.804862,16-Peel St/Smith St (Collingwood),144.983348,1,86
+6130,-37.806236,15-Gertrude St/Smith St (Fitzroy),144.983095,1,86
+6131,-37.80609,14-Napier St/Gertrude St (Fitzroy),144.979805,1,86
+6132,-37.805823,13-Brunswick St/Gertrude St (Fitzroy),144.977381,1,86
+6032,-37.758321,39-Ballantyne St/High St (Thornbury),145.000549,1,86
+6034,-37.761529,37-Woolton Ave/High St (Thornbury),145.000043,1,86
+6035,-37.763326,36-Darebin Rd/High St (Thornbury),144.999688,1,86
+6036,-37.765734,35-Dennis St/High St (Northcote),144.99926,1,86
+6037,-37.767614,34-Bent St/High St (Northcote),144.999096,1,86
+6038,-37.769413,33-Arthurton Rd/High St (Northcote),144.9989,1,86
+6039,-37.771138,32-Mitchell St/High St (Northcote),144.998569,1,86
+6040,-37.774712,31-Northcote Town Hall/High St (Northcote),144.997837,1,86
+6041,-37.77669,30-Clarke St/High St (Northcote),144.997534,1,86
+18187,-37.818767,122-Southern Cross Railway Station/Spencer St (Melbourne City),144.954092,1,96
+18194,-37.818319,122-Southern Cross Railway Station/Spencer St (Melbourne City),144.953718,1,96
+20506,-37.859285,132-St Kilda Station/Fitzroy St (St Kilda),144.977637,1,96
+20507,-37.859044,132-St Kilda Station/Fitzroy St (St Kilda),144.977257,1,96
+20520,-37.868877,139-Belford St/Acland St (St Kilda),144.979944,1,96
+20522,-37.868807,139-Belford St/Acland St (St Kilda),144.980071,1,96
+6059,-37.801894,12-Moor St/Nicholson St (Fitzroy),144.97424,1,96
+6061,-37.798407,13-Johnston St/Nicholson St (Fitzroy),144.974813,1,96
+6062,-37.795254,14-Rose St/Nicholson St (Fitzroy),144.975387,1,96
+6063,-37.792019,15-Alexandra Pde/Nicholson St (Fitzroy North),144.97593,1,96
+6064,-37.788812,16-Freeman St/Nicholson St (Fitzroy North),144.976539,1,96
+6066,-37.785587,17-Reid St/Nicholson St (Fitzroy North),144.977138,1,96
+6067,-37.783072,18-Scotchmer St/Nicholson St (Fitzroy North),144.977604,1,96
+6068,-37.779937,19-Holden St/Nicholson St (Fitzroy North),144.978167,1,96
+6069,-37.776782,20-Miller St/Nicholson St (Fitzroy North),144.978673,1,96
+6070,-37.773188,21-Glenlyon Rd/Nicholson St (Fitzroy North),144.979282,1,96
+6071,-37.770422,22-Albert St/Nicholson St (Brunswick East),144.979834,1,96
+6133,-37.801587,12-Moor St/Nicholson St (Fitzroy),144.974237,1,96
+6135,-37.797616,13-Johnston St/Nicholson St (Carlton),144.974948,1,96
+6136,-37.795244,14-Rose St/Nicholson St (Carlton),144.975319,1,96
+6137,-37.791722,15-Alexandra Pde/Nicholson St (Carlton),144.975938,1,96
+6138,-37.788515,16-Freeman St/Nicholson St (Fitzroy North),144.976548,1,96
+6140,-37.785254,17-Reid St/Nicholson St (Carlton North),144.977148,1,96
+6141,-37.782739,18-Scotchmer St/Nicholson St (Carlton North),144.977625,1,96
+6142,-37.779334,19-Brunswick Rd/Nicholson St (Fitzroy),144.978229,1,96
+6143,-37.776781,20-Miller St/Nicholson St (Brunswick East),144.978627,1,96
+6144,-37.77414,21-Glenlyon Rd/Nicholson St (Brunswick East),144.979085,1,96
+6145,-37.770258,22-Albert St/Nicholson St (Brunswick East),144.979736,1,96
+6147,-37.766969,23-Blyth St/Nicholson St (Brunswick East),144.980302,1,96
+20494,-37.829551,126-City Rd/Light Rail (South Melbourne),144.954442,1,96
+20495,-37.829189,126-City Rd/Light Rail (South Melbourne),144.954372,1,96
+20496,-37.833156,127-South Melbourne Station/Light Rail (South Melbourne),144.95549,1,96
+20497,-37.833035,127-South Melbourne Station/Light Rail (South Melbourne),144.955289,1,96
+20498,-37.840233,128-Albert Park Station/Light Rail (South Melbourne),144.958749,1,96
+20499,-37.840076,128-Albert Park Station/Light Rail (South Melbourne),144.958571,1,96
+20500,-37.845267,129-Melbourne Sports and Aquatic Centre/Light Rail (Middle Park),144.961667,1,96
+20501,-37.845483,129-Melbourne Sports and Aquatic Centre/Light Rail (Middle Park),144.961672,1,96
+20502,-37.849626,130-Middle Park Station/Light Rail (Middle Park),144.965684,1,96
+20503,-37.849585,130-Middle Park Station/Light Rail (Middle Park),144.965401,1,96
+20504,-37.853764,131-Fraser St/Light Rail (Middle Park),144.971026,1,96
+20505,-37.853983,131-Fraser St/Light Rail (Middle Park),144.971167,1,96
+19740,-37.812878,27-Findon St/Barkers Rd (Hawthorn),145.020775,1,109
+19387,-37.811768,25-River Bvd/Victoria St (Richmond),145.013239,1,109
+19389,-37.812713,27-Findon Cres/Barkers Rd (Kew),145.02062,1,109
+19746,-37.806989,34-High St/Cotham Rd (Kew),145.031302,1,109
+19747,-37.807475,35-Charles St/Cotham Rd (Kew),145.035549,1,109
+19748,-37.807799,36-Glenferrie Rd/Cotham Rd (Kew),145.038255,1,109
+19749,-37.808316,37-Belmont Ave/Cotham Rd (Kew),145.042773,1,109
+19750,-37.808706,38-Marshall Ave/Cotham Rd (Kew),145.046171,1,109
+19751,-37.809116,39-Thomas St/Cotham Rd (Kew),145.049749,1,109
+19752,-37.809523,40-St George's Hospital/Cotham Rd (Kew),145.053055,1,109
+19753,-37.810098,41-Kew Traffic School/Cotham Rd (Kew),145.057879,1,109
+19778,-37.810444,42-Burke Rd/Whitehorse Rd (Balwyn),145.060857,1,109
+19391,-37.813026,29-High St/Barkers Rd (Kew),145.023179,1,109
+19396,-37.806887,34-QPO/Cotham Rd (Kew),145.031657,1,109
+19397,-37.807308,35-Charles St/Cotham Rd (Kew),145.035303,1,109
+19398,-37.807622,36-Glenferrie Rd/Cotham Rd (Kew),145.037907,1,109
+19399,-37.808119,37-Belmont Ave/Cotham Rd (Kew),145.042313,1,109
+19400,-37.808529,38-Marshall Ave/Cotham Rd (Kew),145.045835,1,109
+19401,-37.808937,39-Florence Ave/Cotham Rd (Kew),145.049277,1,109
+19402,-37.809376,40-St George's Hospital/Cotham Rd (Kew),145.052911,1,109
+19403,-37.809932,41-Kew Traffic School/Cotham Rd (Kew),145.057668,1,109
+19404,-37.810276,42-Burke Rd/Cotham Rd (Kew),145.060498,1,109
+19405,-37.810787,43-Deepdene Shopping Centre/Whitehorse Rd (Balwyn),145.064722,1,109
+19406,-37.811237,44-Deepdene Park/Whitehorse Rd (Balwyn),145.068527,1,109
+19407,-37.811591,45-Hardwicke St/Whitehorse Rd (Balwyn),145.07138,1,109
+19409,-37.812769,47-Balwyn Rd/Whitehorse Rd (Balwyn),145.081187,"1,2",109
+19410,-37.813061,48-Balwyn Shopping Centre/Whitehorse Rd (Balwyn),145.083622,"1,2",109
+19738,-37.811826,25-River Bvd/Victoria St (Richmond),145.012908,1,109
+19722,-37.830191,126-Montague St/Light Rail (South Melbourne),144.948766,1,109
+19723,-37.833431,127-North Port Station/Light Rail (Port Melbourne),144.943336,1,109
+19724,-37.837032,128-Graham St/Light Rail (Port Melbourne),144.937463,1,109
+19725,-37.840789,129-Beacon Cove/Light Rail (Port Melbourne),144.932813,1,109
+19370,-37.83024,126-Montague St/Light Rail (South Melbourne),144.948469,1,109
+19371,-37.833208,127-North Port Station/Light Rail (Port Melbourne),144.94349,1,109
+19372,-37.837054,128-Graham St/Light Rail (Port Melbourne),144.93719,1,109
+18732,-37.811375,44-Deepdene Park/Whitehorse Rd (Balwyn),145.068671,1,109
+18733,-37.81175,45-Hardwicke St/Whitehorse Rd (Balwyn),145.071785,1,109
+18734,-37.812242,46-Balwyn Cinema/Whitehorse Rd (Balwyn),145.07593,1,109
+18735,-37.812919,47-Balwyn Rd/Whitehorse Rd (Balwyn),145.081524,"1,2",109
+18736,-37.813199,48-Balwyn Shopping Centre/Whitehorse Rd (Balwyn),145.083788,"1,2",109
+18737,-37.81369,49-Northcote Ave/Whitehorse Rd (Balwyn),145.087956,"1,2",109
+18738,-37.814564,51-Narrak Rd/Whitehorse Rd (Mont Albert),145.09517,"1,2",109
+18710,-37.810925,43-Deepdene Shopping Centre/Whitehorse Rd (Balwyn),145.064877,1,109
+18479,-37.814106,50-Wharton St/Whitehorse Rd (Surrey Hills),145.091376,"1,2",109
+19784,-37.816341,55-Hood St/Whitehorse Rd (Mont Albert),145.109824,"1,2",109
+19785,-37.81548,54-Inglisby Rd/Whitehorse Rd (Mont Albert),145.102757,"1,2",109
+19786,-37.815112,53-Union Rd/Whitehorse Rd (Surrey Hills),145.099518,"1,2",109
+19408,-37.812113,46-Balwyn Cinema/Whitehorse Rd (Balwyn),145.075785,1,109
+19411,-37.813552,49-Northcote Ave/Whitehorse Rd (Balwyn),145.087755,"1,2",109
+19412,-37.81403,50-Wharton St/Whitehorse Rd (Surrey Hills),145.091685,"1,2",109
+19413,-37.814405,51-Narrak Rd/Whitehorse Rd (Balwyn),145.094787,"1,2",109
+19414,-37.814946,53-Union Rd/Whitehorse Rd (Balwyn),145.099249,"1,2",109
+19416,-37.815405,54-Inglisby Rd/Whitehorse Rd (Mont Albert),145.103123,"1,2",109
+19417,-37.816164,55-Hood St/Whitehorse Rd (Mont Albert),145.109453,"1,2",109
+19781,-37.817876,58-Box Hill Central/Whitehorse Rd (Box Hill),145.122349,"1,2",109
+19782,-37.817421,57-Nelson Rd/Whitehorse Rd (Box Hill),145.118714,"1,2",109
+19783,-37.816884,56-Elgar Rd/Whitehorse Rd (Box Hill),145.114434,"1,2",109
+19418,-37.816911,56-Elgar Rd/Whitehorse Rd (Box Hill),145.115592,"1,2",109
+19419,-37.817457,57-Nelson Rd/Whitehorse Rd (Box Hill),145.119861,"1,2",109
+19736,-37.811313,23-Leslie St/Victoria St (Richmond),145.007617,1,12
+19384,-37.810829,22-McKay St/Victoria St (Richmond),145.004041,1,12
+19386,-37.811441,24-Burnley St/Victoria St (Richmond),145.010385,1,12
+19726,-37.808551,13-Lansdowne St/Victoria Pde (East Melbourne),144.978806,1,12
+19728,-37.808925,15-Smith St/Victoria Pde (East Melbourne),144.982215,1,12
+19729,-37.809292,16-Wellington St/Victoria Pde (East Melbourne),144.985738,1,12
+19731,-37.809795,18-Hoddle St/Victoria Pde (Collingwood),144.990415,1,12
+19732,-37.809786,19-North Richmond Railway Station/Victoria St (Richmond),144.992551,1,12
+19733,-37.810173,20-Lennox St/Victoria St (Richmond),144.996198,1,12
+19735,-37.810976,22-McKay St/Victoria St (Richmond),145.00423,1,12
+19737,-37.811509,24-Burnley St/Victoria St (Richmond),145.010122,1,12
+21966,-37.810648,21-Church St/Victoria St (Richmond),145.000797,1,12
+22100,-37.808919,15-Smith St/Victoria Pde (Fitzroy),144.982908,1,12
+19374,-37.808435,13-Lansdowne St/Victoria Pde (Fitzroy),144.978344,1,12
+19377,-37.809271,16-Wellington St/Victoria Pde (Collingwood),144.986136,1,12
+19379,-37.809727,18-Hoddle St/Victoria Pde (Collingwood),144.990644,1,12
+19381,-37.809694,19-North Richmond Railway Station/Victoria St (Abbotsford),144.992962,1,12
+19382,-37.809994,20-Lennox St/Victoria St (Abbotsford),144.99576,1,12
+19383,-37.81049,21-Church St/Victoria St (Abbotsford),145.000517,1,12
+19385,-37.811111,23-Flockhart St/Victoria St (Abbotsford),145.006873,1,12
+19721,-37.827691,125A-Southbank Tram Depot/Light Rail (South Melbourne),144.953709,1,12
+19369,-37.827453,125A-Southbank Tram Depot/Light Rail (South Melbourne),144.953988,1,12
+19742,-37.812964,29-Barkers Rd/High St (Kew),145.023771,1,48
+19744,-37.810081,31-Stevenson St/High St (Kew),145.026506,1,48
+19745,-37.807431,32-Kew Junction/High St (Kew),145.029144,1,48
+19393,-37.810228,31-Stevenson St/High St (Kew),145.026161,1,48
+19394,-37.807592,32-Kew Junction/High St (Kew),145.028583,1,48
+19395,-37.806814,33-Kew Shopping Centre/High St (Kew),145.030512,1,48
+17896,-37.80939,11-Albert St/Gisborne St (East Melbourne),144.975728,1,11
+17897,-37.812379,10-Parliament Railway Station/Macarthur St (East Melbourne),144.974488,1,11
+17915,-37.81217,10-Parliament Railway Station/Macarthur St (East Melbourne),144.974368,1,11
+18006,-37.809695,11-Albert St/Gisborne St (East Melbourne),144.975606,1,11
+17895,-37.80828,12-St Vincents Plaza/Victoria Pde (East Melbourne),144.976133,1,11
+18051,-37.808231,12-St Vincents Plaza/Victoria Pde (Fitzroy),144.976452,1,11
+17901,-37.815674,6-Melbourne Town Hall/Collins St (Melbourne City),144.965957,1,11
+17902,-37.816423,5-Elizabeth St/Collins St (Melbourne City),144.963404,1,11
+17903,-37.817607,3-William St/Collins St (Melbourne City),144.959429,1,11
+17905,-37.818847,1-Spencer St/Collins St (Melbourne City),144.955055,1,11
+17906,-37.818741,1-Spencer St/Collins St (Melbourne City),144.955183,1,11
+17908,-37.817372,3-William St/Collins St (Melbourne City),144.959913,1,11
+17910,-37.816206,5-Elizabeth St/Collins St (Melbourne City),144.963864,1,11
+17911,-37.815518,6-Melbourne Town Hall/Collins St (Melbourne City),144.96628,1,11
+22153,-37.814383,7-Exhibition St/Collins St (Melbourne City),144.970514,1,11
+17898,-37.813557,8-Spring St/Collins St (Melbourne City),144.973285,1,11
+17914,-37.813416,8-Spring St/Collins St (Melbourne City),144.973482,1,11
+22152,-37.814215,7-Exhibition St/Collins St (Melbourne City),144.970712,1,11
+18185,-37.823289,124A-Casino/MCEC/Clarendon St (Southbank),144.956057,1,12
+18186,-37.821554,124-Batman Park/Spencer St (Melbourne City),144.955265,1,12
+18196,-37.821773,124-Batman Park/Spencer St (Melbourne City),144.955406,1,12
+18197,-37.823591,124A-Casino/MCEC/Clarendon St (Southbank),144.95631,1,12
+18184,-37.825688,125-Clarendon St/Whiteman St (Southbank),144.956684,1,12
+19304,-37.826076,125-Port Junction/79 Whiteman St (Southbank),144.956208,1,12
+19691,-37.807799,7-RMIT University/Swanston St (Melbourne City),144.962868,1,16
+19694,-37.802629,3-Lincoln Square/Swanston St (Carlton),144.963555,1,16
+19696,-37.798766,1-Melbourne University/Swanston St (Carlton),144.964241,1,16
+19492,-37.805694,4-Queensberry St/Swanston St (Carlton),144.963108,1,16
+19494,-37.808139,7-RMIT University/Swanston St (Melbourne City),144.96329,1,16
+19495,-37.810382,8-Melbourne Central Station/Swanston St (Melbourne City),144.964274,1,16
+19497,-37.813199,10-Bourke Street Mall/Swanston St (Melbourne City),144.965582,1,16
+19498,-37.816378,11-City Square/Swanston St (Melbourne City),144.967017,1,16
+19499,-37.818476,13-Federation Square/Swanston St (Melbourne City),144.967982,1,16
+19500,-37.821846,14-Arts Precinct/St Kilda Rd (Southbank),144.969514,1,16
+19684,-37.821517,14-Arts Precinct/St Kilda Rd (Southbank),144.969239,1,16
+19685,-37.818065,13-Federation Square/Swanston St (Melbourne City),144.967675,1,16
+19686,-37.81573,11-City Square/Swanston St (Melbourne City),144.966569,1,16
+19687,-37.812759,10-Bourke Street Mall/Swanston St (Melbourne City),144.965185,1,16
+19693,-37.805135,4-Queensberry St/Swanston St (Carlton),144.963112,1,16
+19489,-37.799305,1-Melbourne University/Swanston St (Carlton),144.964192,1,16
+19491,-37.80237,3-Lincoln Square/Swanston St (Carlton),144.963687,1,16
+19689,-37.809889,8-Melbourne Central Station/Swanston St (Melbourne City),144.96389,1,16
+18646,-37.873081,52-Caulfield Park Bowling Club/Balaclava Rd (Caulfield North),145.028544,1,3/3a
+18647,-37.873396,53-Caulfield Park/Balaclava Rd (Caulfield North),145.031252,1,3/3a
+18462,-37.873644,53-Caulfield Park/Balaclava Rd (Caulfield North),145.032041,1,3/3a
+18463,-37.873137,52-Caulfield Park Bowling Club/Balaclava Rd (Caulfield North),145.028144,1,3/3a
+18464,-37.872795,51-Hawthorn Rd/Balaclava Rd (Caulfield North),145.024947,1,3/3a
+18648,-37.873959,54-Kambrook Rd/Balaclava Rd (Caulfield North),145.035819,1,3/3a
+18649,-37.874198,55-Normanby Rd/Balaclava Rd (Caulfield North),145.0377,1,3/3a
+18650,-37.875416,56-Caulfield Racecourse/Normanby Rd (Caulfield North),145.039396,1,3/3a
+18651,-37.8764,57-Caulfield Railway Station/Derby Rd (Caulfield East),145.041677,1,3/3a
+18652,-37.875709,58-Dandenong Rd/Derby Rd (Caulfield North),145.041866,1,3/3a
+18653,-37.87576,59-Dandenong Rd/Waverley Rd (Malvern East),145.044946,1,3/3a
+18654,-37.875893,60-Burke Rd/Waverley Rd (Malvern East),145.048046,1,3/3a
+18655,-37.876247,61-Tennyson St/Waverley Rd (Malvern East),145.050936,1,3/3a
+18656,-37.876697,62-The Avenue/Waverley Rd (Malvern East),145.054687,1,3/3a
+18657,-37.876917,63-Oak Gr/Waverley Rd (Malvern East),145.056546,1,3/3a
+18451,-37.877269,64-Darling Rd/Waverley Rd (Malvern East),145.058765,1,3/3a
+18452,-37.877103,63-Hughes St/Waverley Rd (Malvern East),145.056905,1,3/3a
+18453,-37.876873,62-Macgregor St/Waverley Rd (Malvern East),145.055001,1,3/3a
+18454,-37.876376,61-Tennyson St/Waverley Rd (Malvern East),145.05108,1,3/3a
+18455,-37.876051,60-Burke Rd/Waverley Rd (Malvern East),145.048326,1,3/3a
+18456,-37.875844,59-Dandenong Rd/Waverley Rd (Caulfield East),145.045069,1,3/3a
+18457,-37.876404,57-Caulfield Railway Station/Derby Rd (Caulfield East),145.041939,1,3/3a
+18459,-37.875357,56-Caulfield Racecourse/Normanby Rd (Caulfield East),145.039102,1,3/3a
+18460,-37.874494,55-Balaclava Rd/Normanby Rd (Caulfield East),145.038135,1,3/3a
+18461,-37.874145,54-Kambrook Rd/Balaclava Rd (Caulfield East),145.036132,1,3/3a
+18640,-37.871726,46-Kooyong Rd/Balaclava Rd (Caulfield North),145.017621,1,3/3a
+18641,-37.872145,47-Elmhurst Rd/Balaclava Rd (Caulfield North),145.021099,1,3/3a
+18645,-37.87257,51-Hawthorn Rd/Balaclava Rd (Caulfield North),145.02443,1,3/3a
+18468,-37.872299,47-Caulfield Junior College/Balaclava Rd (Caulfield North),145.021175,1,3/3a
+21060,-37.871894,46-Kooyong Rd/Balaclava Rd (Caulfield North),145.017957,1,3/3a
+18619,-37.86825,37-Chapel St/Carlisle St (Balaclava),144.990135,1,3/3a
+18620,-37.86809,36-St Kilda Town Hall/Carlisle St (St Kilda),144.988685,1,3/3a
+18624,-37.867478,34-Greeves St/Carlisle St (St Kilda),144.984006,1,3/3a
+18625,-37.867067,33-Barkly St/Carlisle St (St Kilda),144.981085,1,3/3a
+18632,-37.868806,38-Balaclava Station/Carlisle St (Balaclava),144.994235,1,3/3a
+18633,-37.86907,39-Orange Gr/Carlisle St (Balaclava),144.996513,1,3/3a
+18634,-37.869433,40-Hotham St/Carlisle St (Balaclava),144.999289,1,3/3a
+18635,-37.869706,41-Empress Rd/Balaclava Rd (St Kilda East),145.001577,1,3/3a
+18636,-37.870166,42-Sidwell Ave/Balaclava Rd (Caulfield North),145.005317,1,3/3a
+18637,-37.870553,43-Orrong Rd/Balaclava Rd (Caulfield North),145.008466,1,3/3a
+18638,-37.871069,44-Ontario St/Balaclava Rd (Caulfield North),145.012363,1,3/3a
+18639,-37.871344,45-Lumeah Rd/Balaclava Rd (Caulfield North),145.014732,1,3/3a
+20597,-37.868445,37-Chapel St/Carlisle St (St Kilda),144.990494,1,3/3a
+20598,-37.868862,38-Balaclava Station/Carlisle St (Balaclava),144.993813,1,3/3a
+20599,-37.869245,39-Carlisle Ave/Carlisle St (St Kilda),144.996736,1,3/3a
+20647,-37.86961,40-Hotham St/Balaclava Rd (St Kilda East),144.999625,1,3/3a
+20648,-37.869984,41-Vadlure Ave/Balaclava Rd (St Kilda East),145.002582,1,3/3a
+21042,-37.870342,42-Allan Rd/Balaclava Rd (Caulfield North),145.005585,1,3/3a
+21057,-37.870748,43-Orrong Rd/Balaclava Rd (Caulfield North),145.008791,1,3/3a
+21058,-37.871178,44-Otira Rd/Balaclava Rd (Caulfield North),145.012383,1,3/3a
+21059,-37.871557,45-Kent Gr/Balaclava Rd (Caulfield North),145.015101,1,3/3a
+22109,-37.856966,131-St Kilda Rd/Fitzroy St (St Kilda),144.982201,1,3/3a
+22110,-37.856797,131-St Kilda Rd/Fitzroy St (St Kilda),144.982331,1,3/3a
+22111,-37.85793,132-Princes St/Fitzroy St (St Kilda),144.980573,1,3/3a
+22112,-37.858049,132-Princes St/Fitzroy St (St Kilda),144.980194,1,3/3a
+19115,-37.868226,36-St Kilda Town Hall/Carlisle St (St Kilda),144.98876,1,3/3a
+19118,-37.868081,35-Brighton Rd/Carlisle St (St Kilda),144.987673,1,3/3a
+19119,-37.867594,34-Mitchell St/Carlisle St (St Kilda),144.983969,1,3/3a
+19135,-37.867253,33-Barkly St/Carlisle St (St Kilda),144.981387,1,3/3a
+19136,-37.867042,32-Havelock St/Carlisle St (St Kilda),144.978585,1,3/3a
+19676,-37.835476,22-Toorak Rd/St Kilda Rd (Melbourne City),144.975038,1,3/3a
+19562,-37.847552,26-Moubray St/St Kilda Rd (South Melbourne),144.979719,1,3/3a
+19563,-37.849864,27-High St/St Kilda Rd (South Melbourne),144.980554,1,3/3a
+19571,-37.849918,27-Lorne St/St Kilda Rd (Melbourne City),144.980541,1,3/3a
+19572,-37.847895,26-Beatrice St/St Kilda Rd (Melbourne City),144.979755,1,3/3a
+19502,-37.824169,17-Grant St-Police Memorial/St Kilda Rd (Southbank),144.970473,1,3/3a
+19681,-37.824634,17-Grant St-Police Memorial/St Kilda Rd (Southbank),144.970801,1,3/3a
+19528,-37.835761,22-Toorak Rd/St Kilda Rd (Melbourne City),144.975348,1,3/3a
+19539,-37.838855,23-Arthur St/St Kilda Rd (Melbourne City),144.97657,1,3/3a
+19560,-37.841159,24-Leopold St/St Kilda Rd (South Melbourne),144.977405,1,3/3a
+19561,-37.844523,25-Commercial Rd/St Kilda Rd (South Melbourne),144.978631,1,3/3a
+19573,-37.844013,25-Commercial Rd/St Kilda Rd (Melbourne City),144.978339,1,3/3a
+19574,-37.841483,24-Leopold St/St Kilda Rd (Melbourne City),144.977419,1,3/3a
+19575,-37.839298,23-Arthur St/St Kilda Rd (Melbourne City),144.976615,1,3/3a
+19504,-37.828799,19-Shrine of Remembrance/St Kilda Rd (Melbourne City),144.971369,1,3/3a
+19505,-37.831521,20-Park Street/St Kilda Rd (Melbourne City),144.971385,1,3/3a
+19678,-37.832057,20-Park Street/St Kilda Rd (Melbourne City),144.971654,1,3/3a
+19679,-37.828931,19-Shrine of Remembrance/St Kilda Rd (Melbourne City),144.971229,1,3/3a
+19565,-37.853002,29-Union St/St Kilda Rd (St Kilda),144.981707,1,3/3a
+19566,-37.855296,30-St Kilda Junction/St Kilda Rd (St Kilda),144.982531,1,3/3a
+19568,-37.855031,30-St Kilda Junction/St Kilda Rd (St Kilda),144.982345,1,3/3a
+19569,-37.852483,29-Union St/St Kilda Rd (St Kilda),144.981437,1,3/3a
+18623,-37.867828,35-St Kilda Rd/Carlisle St (St Kilda),144.986566,1,3/3a
+20508,-37.86018,133-Canterbury Rd/Fitzroy St (St Kilda),144.976772,1,3/3a
+20509,-37.859932,133-Canterbury Rd/Fitzroy St (St Kilda),144.977017,1,3/3a
+20510,-37.861083,134-Park St/Fitzroy St (St Kilda),144.975258,1,3/3a
+20511,-37.860957,134-Park St/Fitzroy St (St Kilda),144.975273,1,3/3a
+20512,-37.862051,135-Acland St/Fitzroy St (St Kilda),144.973413,1,3/3a
+20513,-37.862414,135-Jacka Bvd/Fitzroy St (St Kilda),144.973005,1,3/3a
+20514,-37.865197,136-Alfred Square/The Esplanade (St Kilda),144.973486,1,3/3a
+20515,-37.865293,136-Alfred Square/The Esplanade (St Kilda),144.973779,1,3/3a
+20518,-37.866985,138-Luna Park/The Esplanade (St Kilda),144.976835,1,3/3a
+20519,-37.867001,138-Luna Park/The Esplanade (St Kilda),144.97721,1,3/3a
+18011,-37.808103,8-Exhibition St/La Trobe St (Melbourne City),144.969027,1,30
+18031,-37.810291,5-Elizabeth St/La Trobe St (Melbourne City),144.961596,1,30
+18032,-37.811005,4-Queen St/La Trobe St (Melbourne City),144.959122,1,30
+18033,-37.811711,3-William St/La Trobe St (Melbourne City),144.956718,1,30
+18035,-37.813112,1-Spencer St/La Trobe St (Melbourne City),144.95176,1,30
+18042,-37.81248,2-King St/La Trobe St (Melbourne City),144.953732,1,30
+18043,-37.811791,3-William St/La Trobe St (Melbourne City),144.956136,1,30
+18044,-37.811061,4-Queen St/La Trobe St (Melbourne City),144.958712,1,30
+18045,-37.810355,5-Elizabeth St/La Trobe St (Melbourne City),144.961117,1,30
+18010,-37.807614,9-La Trobe St/Victoria St (Melbourne City),144.970972,1,30
+18030,-37.80955,6-Swanston St/La Trobe St (Melbourne City),144.964081,1,30
+18046,-37.809647,6-Swanston St/La Trobe St (Melbourne City),144.963465,1,30
+18047,-37.808909,7-Russell St/La Trobe St (Melbourne City),144.966098,1,30
+18048,-37.808185,8-Exhibition St/La Trobe St (Melbourne City),144.968537,1,30
+18049,-37.807656,9-Victoria St/La Trobe St (Melbourne City),144.970266,1,30
+18050,-37.807836,10-Nicholson St/Victoria Pde (Carlton),144.97284,1,30
+18052,-37.814705,D2-Central Pier/Harbour Esp (Docklands),144.944901,1,35
+18183,-37.814249,D2-CentralPier/Harbour Esp (Docklands),144.944584,1,35
+18040,-37.814578,D1-Stadium Precinct/La Trobe St (Docklands),144.946404,1,35
+18041,-37.813211,119-Spencer St/La Trobe St (Melbourne City),144.951201,1,35
+20981,-37.814566,D1-Stadium Precinct/La Trobe St (Docklands),144.946745,1,35
+43472,-37.819681,D14-Southern Cross Station/Collins St (Docklands),144.952215,1,48
+43473,-37.820266,D15-Batman's Hill/Collins St (Docklands),144.950131,1,48
+43474,-37.821527,D17-Merchant St/Collins St (Docklands),144.945416,1,48
+43475,-37.820797,D16-Harbour Esp/Collins St (Docklands),144.948038,1,48
+43476,-37.820074,D15-Batman's Hill/Collins St (Docklands),144.950477,1,48
+43477,-37.819471,D14-Southern Cross Station/Collins St (Docklands),144.952596,1,48
+43480,-37.820862,D16-Harbour Esp/Collins St (Docklands),144.948138,1,48
+47493,-37.820801,D18-Bourke St/Collins St (Docklands),144.942039,1,48
+17850,-37.817717,1-Flinders Street Railway Station/Elizabeth St (Melbourne City),144.964765,1,57
+17851,-37.815428,2-Collins St/Elizabeth St (Melbourne City),144.963669,1,57
+17852,-37.813447,3-Bourke Street Mall/Elizabeth St (Melbourne City),144.962758,1,57
+17854,-37.810558,5-Melbourne Central Station/Elizabeth St (Melbourne City),144.961429,1,57
+17856,-37.806561,7-Queen Victoria Market/Elizabeth St (Melbourne City),144.959574,1,57
+17871,-37.80689,7-Queen Victoria Market/Elizabeth St (Melbourne City),144.959849,1,57
+17873,-37.811105,5-Melbourne Central Station/Elizabeth St (Melbourne City),144.961778,1,57
+17875,-37.814039,3-Bourke Street Mall/Elizabeth St (Melbourne City),144.963128,1,57
+17876,-37.815929,2-Collins St/Elizabeth St (Melbourne City),144.963996,1,57
+17877,-37.817899,1-Flinders Street Railway Station/Elizabeth St (Melbourne City),144.96484,1,57
+17866,-37.801947,9-Pelham St/Elizabeth St (Melbourne City),144.957464,1,59
+17869,-37.802148,9-Pelham St/Elizabeth St (Melbourne City),144.957663,1,59
+17959,-37.790394,20-Melrose St/Flemington Rd (North Melbourne),144.943485,1,57
+19595,-37.790474,20-Melrose St/Flemington Rd (North Melbourne),144.94346,1,57
+19699,-37.797587,15-Murphy St/Flemington Rd (North Melbourne),144.952394,1,58
+20482,-37.797488,15-Murphy St/Flemington Rd (North Melbourne),144.952385,1,58
+19253,-37.799478,14-Royal Melbourne Hospital/Flemington Rd (Parkville),144.954886,1,58
+19254,-37.796419,16-Harker St/Flemington Rd (Parkville),144.951052,1,58
+19256,-37.794282,19-Royal Childrens Hospital/Flemington Rd (North Melbourne),144.948363,1,58
+19591,-37.799826,14-Royal Melbourne Hospital/Flemington Rd (North Melbourne),144.955205,1,58
+19592,-37.796758,16-Harker St/Flemington Rd (North Melbourne),144.95136,1,58
+19594,-37.794141,19-Royal Childrens Hospital/Flemington Rd (North Melbourne),144.94806,1,58
+18721,-37.75688,129-Moreland Rd/Holmes St (Brunswick),144.974754,1,1
+19341,-37.794138,113-Lytton St/Lygon St (Carlton),144.968127,1,1
+19343,-37.789285,115-Melbourne Cemetery/Lygon St (Carlton North),144.968952,1,1
+19346,-37.781539,118-Pigdon St/Lygon St (Carlton North),144.970232,1,1
+19347,-37.779886,119-Park St/Lygon St (Carlton North),144.970493,1,1
+19348,-37.778115,120-Brunswick Rd/Lygon St (Brunswick),144.97078,1,1
+19349,-37.775553,121-Weston St/Lygon St (Brunswick East),144.971122,1,1
+18789,-37.797113,112-Lygon St/Elgin St (Carlton),144.967159,1,1
+18790,-37.794127,113-Lytton St/Lygon St (Carlton),144.968025,1,1
+18791,-37.792689,114-Princes St/Lygon St (Carlton North),144.968269,1,1
+18792,-37.78958,115-Melbourne Cemetery/Lygon St (Carlton North),144.968797,1,1
+18793,-37.78737,116-Fenwick St/Lygon St (Carlton North),144.969186,1,1
+18794,-37.784036,117-Richardson St/Lygon St (Carlton North),144.969732,1,1
+18795,-37.781924,118-Pigdon St/Lygon St (Carlton North),144.970074,1,1
+18711,-37.779417,119-Park St/Lygon St (Carlton North),144.970471,1,1
+18712,-37.778455,120-Brunswick Rd/Lygon St (Brunswick),144.970634,1,1
+18713,-37.775667,121-Weston St/Lygon St (Brunswick East),144.970971,1,1
+18714,-37.772737,122-Glenlyon Rd/Lygon St (Brunswick East),144.971415,1,1
+18715,-37.769781,123-Albert St/Lygon St (Brunswick East),144.97195,1,1
+18716,-37.7682,124-Victoria St/Lygon St (Brunswick East),144.972231,1,1
+18717,-37.766664,125-Blyth St/Lygon St (Brunswick East),144.972512,1,1
+18718,-37.764427,126-Stewart St/Lygon St (Brunswick East),144.972902,1,1
+18719,-37.762369,127-Albion St/Lygon St (Brunswick East),144.973265,1,1
+18720,-37.759387,128-Mitchell St/Holmes St (Brunswick East),144.974334,1,1
+19340,-37.797027,112-Lygon St/Elgin St (Carlton),144.966355,1,1
+19342,-37.792125,114-Princes St/Lygon St (Carlton North),144.968466,1,1
+19344,-37.787201,116-Fenwick St/Lygon St (Carlton North),144.969305,1,1
+19345,-37.784083,117-Richardson St/Lygon St (Carlton North),144.969822,1,1
+19350,-37.772515,122-Glenlyon Rd/Lygon St (Brunswick East),144.971614,1,1
+19351,-37.769649,123-Albert St/Lygon St (Brunswick East),144.972112,1,1
+19352,-37.768077,124-Victoria St/Lygon St (Brunswick East),144.972416,1,1
+19353,-37.766442,125-Blyth St/Lygon St (Brunswick East),144.972722,1,1
+19354,-37.764295,126-Stewart St/Lygon St (Brunswick East),144.973087,1,1
+19355,-37.761887,127-Albion St/Holmes St (Brunswick East),144.974061,1,1
+19356,-37.759264,128-Mitchell St/Holmes St (Brunswick East),144.974519,1,1
+19016,-37.872441,51-Balaclava Rd/Hawthorn Rd (Caulfield North),145.02482,1,16
+19017,-37.869514,50-Inkerman Rd/Hawthorn Rd (Caulfield North),145.02541,1,16
+19018,-37.86769,49-Arthur St/Hawthorn Rd (Caulfield North),145.025754,1,16
+18430,-37.869699,50-Inkerman Rd/Hawthorn Rd (Caulfield North),145.025189,1,16
+18431,-37.867992,49-Wanda Rd/Hawthorn Rd (Caulfield North),145.025519,1,16
+18432,-37.865899,48A-Dandenong Rd/Hawthorn Rd (Caulfield North),145.025904,1,16
+19027,-37.860825,40-Wattletree Rd/Dandenong Rd (Armadale),145.015173,1,5
+19028,-37.86027,38-Orrong Rd/Dandenong Rd (Prahran),145.011119,1,5
+19029,-37.859804,37-Lansdowne Rd/Dandenong Rd (St Kilda East),145.007528,1,5
+19030,-37.859395,36-Closeburn Ave/Dandenong Rd (St Kilda East),145.004641,1,5
+19031,-37.859063,35-Williams Rd/Dandenong Rd (Prahran),145.00207,1,5
+19032,-37.858413,34-The Avenue/Dandenong Rd (Windsor),144.997234,1,5
+19033,-37.858206,33-Hornby St/Dandenong Rd (Windsor),144.995694,1,5
+19034,-37.857494,32-Chapel St/Dandenong Rd (Windsor),144.991996,1,5
+19035,-37.856154,31-Queens Way/Queens Way (Windsor),144.987406,1,5
+18441,-37.860808,40-Wattletree Rd/Dandenong Rd (Armadale),145.014696,1,5
+18443,-37.860301,38-Orrong Rd/Dandenong Rd (Armadale),145.010834,1,5
+18444,-37.859827,37-Lansdowne Rd/Dandenong Rd (Prahran),145.007278,1,5
+18445,-37.859425,36-Alexandra St/Dandenong Rd (Prahran),145.004299,1,5
+18446,-37.859073,35-Williams Rd/Dandenong Rd (Prahran),145.001649,1,5
+18447,-37.858508,34-Westbury St/Dandenong Rd (St Kilda East),144.997538,1,5
+18448,-37.858279,33-Hornby St/Dandenong Rd (Windsor),144.995748,1,5
+18449,-37.857426,32-Chapel St/Dandenong Rd (Windsor),144.991691,1,5
+19567,-37.856246,31-Queens Way/Queens Way (St Kilda),144.987495,1,5
+19697,-37.865113,34-Inkerman St/St Kilda Rd (St Kilda),144.985901,1,3/3a
+19698,-37.864069,34-Inkerman St/St Kilda Rd (St Kilda),144.985452,1,3/3a
+19700,-37.862483,33-Argyle St/St Kilda Rd (St Kilda),144.984893,1,3/3a
+19701,-37.862086,33-Argyle St/St Kilda Rd (St Kilda),144.984892,1,3/3a
+19702,-37.859945,32-Alma Rd/St Kilda Rd (St Kilda),144.984053,1,3/3a
+19703,-37.86098,32-Alma Rd/St Kilda Rd (St Kilda),144.984513,1,3/3a
+19704,-37.857968,31-Barkly St/St Kilda Rd (St Kilda),144.983356,1,3/3a
+19705,-37.858261,31-Barkly St/St Kilda Rd (St Kilda),144.983587,1,3/3a
+21963,-37.867325,35-Carlisle St/St Kilda Rd (St Kilda),144.986636,1,3/3a
+18053,-37.817819,D3-Stadium Precinct/Harbour Esp (Docklands),144.946246,1,70
+18054,-37.821466,D4-Docklands Park/Harbour Esp (Docklands),144.94761,1,70
+18055,-37.821835,D5-South Wharf/Wurundjeri Way (Docklands),144.951213,1,70
+18056,-37.821471,D6-Flinders Street West/Flinders St (Docklands),144.953608,1,70
+18087,-37.819063,3-Market St/Flinders St (Melbourne City),144.961797,1,70
+18089,-37.818238,4-Elizabeth St/Flinders St (Melbourne City),144.964626,1,70
+18090,-37.81756,5-Swanston St/Flinders St (Melbourne City),144.967132,1,70
+18091,-37.816564,6-Russell St/Flinders St (Melbourne City),144.9705,1,70
+18174,-37.816657,6-Russell St/Flinders St (Melbourne City),144.970168,1,70
+18175,-37.817756,5-Swanston St/Flinders St (Melbourne City),144.966491,1,70
+18176,-37.818412,4-Elizabeth St/Flinders St (Melbourne City),144.96428,1,70
+18178,-37.819306,3-Market St/Flinders St (Melbourne City),144.961279,1,70
+18179,-37.821726,D6-Victoria Police Centre/Flinders St (Southbank),144.953215,1,70
+18180,-37.822001,D5-South Wharf/Wurundjeri Way (Docklands),144.950913,1,70
+18181,-37.821725,D4-Docklands Park/Harbour Esp (Docklands),144.947501,1,70
+18182,-37.817463,D3-Stadium Precinct/Harbour Esp (Docklands),144.94596,1,70
+21231,-37.820834,1-Spencer St/Flinders St (Melbourne City),144.955853,1,70
+21232,-37.821051,1-Spencer St/Flinders St (Melbourne City),144.955381,1,70
+21233,-37.82031,2-Melbourne Aquarium/Flinders St (Melbourne City),144.957821,1,70
+21234,-37.820109,2-Melbourne Aquarium/Flinders St (Melbourne City),144.958213,1,70
+18037,-37.813781,D10-New Quay Prom/Docklands Dr (Docklands),144.940508,1,70
+18038,-37.814345,D11-Waterfront City/Docklands Dr (Docklands),144.938754,1,70
+18039,-37.813312,D10-NewQuay Prom/Docklands Dr (Docklands),144.941509,1,70
+18092,-37.815319,8-Spring St/Flinders St (Melbourne City),144.974612,1,35
+18105,-37.815537,8-Spring St/Flinders St (Melbourne City),144.974174,1,35
+19718,-37.818618,18-Church St/Bridge Rd (Richmond),144.999423,1,75
+18095,-37.816341,11-Jolimont Station-MCG/Wellington Pde (East Melbourne),144.984819,1,75
+18097,-37.81654,13-Simpson St/Wellington Pde (East Melbourne),144.986983,1,75
+18098,-37.817388,14-Punt Rd/Wellington Pde (Melbourne City),144.989675,1,75
+18099,-37.817533,14-Punt Rd/Bridge Rd (Richmond),144.990217,1,75
+18100,-37.816603,13-Simpson St/Wellington Pde (East Melbourne),144.98697,1,75
+18102,-37.816246,11-Jolimont Station-MCG/Wellington Pde (East Melbourne),144.983992,1,75
+19706,-37.817909,15-Epworth Hospital/Bridge Rd (Richmond),144.993808,1,75
+19708,-37.818361,17-Bosisto St/Bridge Rd (Richmond),144.996499,1,75
+19709,-37.818472,18-Church St/Bridge Rd (Richmond),144.998791,1,75
+19710,-37.81875,19-Richmond Town Hall/Bridge Rd (Richmond),145.001374,1,75
+19711,-37.818977,20-Coppin St/Bridge Rd (Richmond),145.003571,1,75
+19712,-37.819535,21-Burnley St/Bridge Rd (Richmond),145.008873,1,75
+19713,-37.820099,22-Yarra Bvd/Bridge Rd (Richmond),145.01397,1,75
+19714,-37.820152,22-Yarra Bvd/Bridge Rd (Richmond),145.013401,1,75
+19715,-37.81948,21-Burnley St/Bridge Rd (Richmond),145.007772,1,75
+19716,-37.819083,20-Coppin St/Bridge Rd (Richmond),145.003977,1,75
+19717,-37.818813,19-Richmond Town Hall/Bridge Rd (Richmond),145.001372,1,75
+19719,-37.818219,17-Waltham St/Bridge Rd (Richmond),144.996639,1,75
+19734,-37.818023,15-Epworth Hospital/Bridge Rd (Richmond),144.993577,1,75
+22560,-37.81995,23-Hawthorn Bridge/Bridge Rd (Hawthorn),145.016371,1,75
+22561,-37.820019,23-Hawthorn Bridge/Bridge Rd (Hawthorn),145.016221,1,75
+18093,-37.815453,9-Lansdowne St/Wellington Pde (East Melbourne),144.977164,1,75
+18094,-37.81575,10-Jolimont Rd/Wellington Pde (East Melbourne),144.979791,1,75
+18103,-37.815769,10-Jolimont Rd/Wellington Pde (East Melbourne),144.979325,1,75
+18104,-37.815471,9-Lansdowne St/Wellington Pde (Melbourne City),144.976664,1,75
+19299,-37.827393,29-Power St/Riversdale Rd (Hawthorn),145.025443,1,70
+19454,-37.827623,29-Power St/Riversdale Rd (Hawthorn),145.025709,1,70
+19300,-37.828211,30-Through St/Riversdale Rd (Hawthorn),145.029068,1,70
+19301,-37.828506,31-Fordholm Rd/Riversdale Rd (Hawthorn),145.031628,1,70
+19450,-37.828635,32-Glenferrie Rd/Riversdale Rd (Hawthorn),145.033954,1,70
+19451,-37.828351,31-Fordholm Rd/Riversdale Rd (Hawthorn),145.031507,1,70
+19452,-37.828076,30-Through St/Riversdale Rd (Hawthorn),145.029083,1,70
+19754,-37.829308,34-Kooyongkoot Rd/Riversdale Rd (Hawthorn),145.03864,1,70
+19755,-37.829662,35-Robinson Rd/Riversdale Rd (Hawthorn),145.041528,1,70
+19756,-37.829943,36-Auburn Rd/Riversdale Rd (Hawthorn East),145.043781,1,70
+19757,-37.83038,37-Tooronga Rd/Riversdale Rd (Hawthorn East),145.047849,1,70
+19758,-37.830839,38-Hastings Rd/Riversdale Rd (Hawthorn East),145.05162,1,70
+19759,-37.831216,39-Camberwell Tram Depot/Riversdale Rd (Hawthorn East),145.054792,1,70
+19302,-37.828842,32-Glenferrie Rd/Riversdale Rd (Hawthorn),145.034471,1,70
+19303,-37.829159,33-Berkeley St/Riversdale Rd (Hawthorn),145.037258,1,70
+19442,-37.83127,40-Camberwell Junction/Riversdale Rd (Hawthorn East),145.056426,1,70
+19443,-37.831028,39-Camberwell Tram Depot/Riversdale Rd (Hawthorn East),145.054308,1,70
+19444,-37.83069,38-Hastings Rd/Riversdale Rd (Hawthorn East),145.05134,1,70
+19445,-37.830259,37-Tooronga Rd/Riversdale Rd (Hawthorn East),145.047636,1,70
+19446,-37.829776,36-Auburn Rd/Riversdale Rd (Hawthorn East),145.043502,1,70
+19447,-37.829537,35-Robinson Rd/Riversdale Rd (Hawthorn),145.041554,1,70
+19448,-37.829179,34-Kooyongkoot Rd/Riversdale Rd (Hawthorn),145.038473,1,70
+19449,-37.828971,33-Berkeley St/Riversdale Rd (Hawthorn),145.036797,1,70
+18516,-37.771415,38-Ferguson St/Maribyrnong Rd (Ascot Vale),144.912757,1,57
+18517,-37.771027,39-Bowen St/Maribyrnong Rd (Moonee Ponds),144.90918,1,57
+18518,-37.770631,40-Epsom Rd/Maribyrnong Rd (Ascot Vale),144.905672,1,57
+1083,-37.769699,42-Clyde St/Raleigh Rd (Maribyrnong),144.898841,1,57
+13995,-37.768891,44-Barb St/Raleigh Rd (Maribyrnong),144.891985,1,57
+15559,-37.768629,45-Randall St/Raleigh Rd (Maribyrnong),144.888938,1,57
+17917,-37.768887,46-Rosamond Rd/Raleigh Rd (Maribyrnong),144.886729,1,57
+17935,-37.770432,40-Epsom Rd/Maribyrnong Rd (Moonee Ponds),144.905121,1,57
+17936,-37.770862,39-Bowen St/Maribyrnong Rd (Moonee Ponds),144.909003,1,57
+17937,-37.771236,38-Hotham St/Maribyrnong Rd (Moonee Ponds),144.91233,1,57
+17938,-37.771644,37-Union Rd/Maribyrnong Rd (Moonee Ponds),144.915997,1,57
+18485,-37.770297,41-Maribyrnong Park/Maribyrnong Rd (Ascot Vale),144.902571,1,57
+18486,-37.769829,42-Clyde St/Raleigh Rd (Maribyrnong),144.899087,1,57
+18487,-37.769506,43-Van Ness Ave/Raleigh Rd (Maribyrnong),144.896122,1,57
+18488,-37.769057,44-Warrs Rd/Raleigh Rd (Maribyrnong),144.892184,1,57
+18489,-37.768739,45-Maribyrnong Community Centre/Raleigh Rd (Maribyrnong),144.889548,1,57
+18490,-37.769003,46-Rosamond Rd/Raleigh Rd (Maribyrnong),144.887157,1,57
+18491,-37.769403,48-Wests Rd/Raleigh Rd (Maribyrnong),144.883319,1,57
+992,-37.77008,41-Maribyrnong Park/Maribyrnong Rd (Ascot Vale),144.902055,1,57
+4945,-37.769318,43-Van Ness Ave/Raleigh Rd (Maribyrnong),144.895673,1,57
+19269,-37.766935,32-Moonee Ponds Junction/Pascoe Vale Rd (Moonee Ponds),144.924916,1,59
+19608,-37.766653,32-Moonee Ponds Junction/Pascoe Vale Rd (Moonee Ponds),144.92481,1,59
+17880,-37.809676,10-Albert St/Nicholson St (Fitzroy),144.972949,1,86
+17892,-37.809423,10-Albert St/Nicholson St (East Melbourne),144.972899,1,86
+17591,-37.812769,7-Russell St/Bourke St (Melbourne City),144.968354,1,86
+17593,-37.813484,6-Swanston St/Bourke St (Melbourne City),144.965904,1,86
+17594,-37.814217,5-Elizabeth St/Bourke St (Melbourne City),144.96351,1,86
+17596,-37.815253,4-Queen St/Bourke St (Melbourne City),144.959835,1,86
+17597,-37.815882,3-William St/Bourke St (Melbourne City),144.957625,1,86
+17848,-37.817063,1-Spencer St/Bourke St (Melbourne City),144.953514,1,86
+17849,-37.816846,1-Spencer St/Bourke St (Melbourne City),144.953997,1,86
+17885,-37.815706,3-William St/Bourke St (Melbourne City),144.957914,1,86
+17886,-37.815122,4-Queen St/Bourke St (Melbourne City),144.960054,1,86
+17887,-37.814031,5-Elizabeth St/Bourke St (Melbourne City),144.963685,1,86
+17888,-37.813266,6-Swanston St/Bourke St (Melbourne City),144.966376,1,86
+17889,-37.812468,7-Russell St/Bourke St (Melbourne City),144.969169,1,86
+17878,-37.805758,11-Melbourne Museum/Nicholson St (Fitzroy),144.973601,1,86
+17882,-37.811544,9-Spring St/Bourke St (Melbourne City),144.972579,1,86
+17891,-37.811523,9-Spring St/Bourke St (Melbourne City),144.97241,1,86
+17894,-37.805676,11-Melbourne Museum/Nicholson St (Fitzroy),144.973546,1,86
+19736,-37.811313,23-Leslie St/Victoria St (Richmond),145.007617,1,109
+19384,-37.810829,22-McKay St/Victoria St (Richmond),145.004041,1,109
+19386,-37.811441,24-Burnley St/Victoria St (Richmond),145.010385,1,109
+19726,-37.808551,13-Lansdowne St/Victoria Pde (East Melbourne),144.978806,1,109
+19728,-37.808925,15-Smith St/Victoria Pde (East Melbourne),144.982215,1,109
+19729,-37.809292,16-Wellington St/Victoria Pde (East Melbourne),144.985738,1,109
+19731,-37.809795,18-Hoddle St/Victoria Pde (Collingwood),144.990415,1,109
+19732,-37.809786,19-North Richmond Railway Station/Victoria St (Richmond),144.992551,1,109
+19733,-37.810173,20-Lennox St/Victoria St (Richmond),144.996198,1,109
+19735,-37.810976,22-McKay St/Victoria St (Richmond),145.00423,1,109
+19737,-37.811509,24-Burnley St/Victoria St (Richmond),145.010122,1,109
+21966,-37.810648,21-Church St/Victoria St (Richmond),145.000797,1,109
+22100,-37.808919,15-Smith St/Victoria Pde (Fitzroy),144.982908,1,109
+19374,-37.808435,13-Lansdowne St/Victoria Pde (Fitzroy),144.978344,1,109
+19377,-37.809271,16-Wellington St/Victoria Pde (Collingwood),144.986136,1,109
+19379,-37.809727,18-Hoddle St/Victoria Pde (Collingwood),144.990644,1,109
+19381,-37.809694,19-North Richmond Railway Station/Victoria St (Abbotsford),144.992962,1,109
+19382,-37.809994,20-Lennox St/Victoria St (Abbotsford),144.99576,1,109
+19383,-37.81049,21-Church St/Victoria St (Abbotsford),145.000517,1,109
+19385,-37.811111,23-Flockhart St/Victoria St (Abbotsford),145.006873,1,109
+19721,-37.827691,125A-Southbank Tram Depot/Light Rail (South Melbourne),144.953709,1,109
+19369,-37.827453,125A-Southbank Tram Depot/Light Rail (South Melbourne),144.953988,1,109
+19742,-37.812964,29-Barkers Rd/High St (Kew),145.023771,1,109
+19744,-37.810081,31-Stevenson St/High St (Kew),145.026506,1,109
+19745,-37.807431,32-Kew Junction/High St (Kew),145.029144,1,109
+19393,-37.810228,31-Stevenson St/High St (Kew),145.026161,1,109
+19394,-37.807592,32-Kew Junction/High St (Kew),145.028583,1,109
+19395,-37.806814,33-Kew Shopping Centre/High St (Kew),145.030512,1,109
+17896,-37.80939,11-Albert St/Gisborne St (East Melbourne),144.975728,1,12
+17897,-37.812379,10-Parliament Railway Station/Macarthur St (East Melbourne),144.974488,1,12
+17915,-37.81217,10-Parliament Railway Station/Macarthur St (East Melbourne),144.974368,1,12
+18006,-37.809695,11-Albert St/Gisborne St (East Melbourne),144.975606,1,12
+17896,-37.80939,11-Albert St/Gisborne St (East Melbourne),144.975728,1,109
+17897,-37.812379,10-Parliament Railway Station/Macarthur St (East Melbourne),144.974488,1,109
+17915,-37.81217,10-Parliament Railway Station/Macarthur St (East Melbourne),144.974368,1,109
+18006,-37.809695,11-Albert St/Gisborne St (East Melbourne),144.975606,1,109
+17895,-37.80828,12-St Vincents Plaza/Victoria Pde (East Melbourne),144.976133,1,12
+18051,-37.808231,12-St Vincents Plaza/Victoria Pde (Fitzroy),144.976452,1,12
+17895,-37.80828,12-St Vincents Plaza/Victoria Pde (East Melbourne),144.976133,1,30
+18051,-37.808231,12-St Vincents Plaza/Victoria Pde (Fitzroy),144.976452,1,30
+17895,-37.80828,12-St Vincents Plaza/Victoria Pde (East Melbourne),144.976133,1,109
+18051,-37.808231,12-St Vincents Plaza/Victoria Pde (Fitzroy),144.976452,1,109
+17901,-37.815674,6-Melbourne Town Hall/Collins St (Melbourne City),144.965957,1,12
+17902,-37.816423,5-Elizabeth St/Collins St (Melbourne City),144.963404,1,12
+17903,-37.817607,3-William St/Collins St (Melbourne City),144.959429,1,12
+17905,-37.818847,1-Spencer St/Collins St (Melbourne City),144.955055,1,12
+17906,-37.818741,1-Spencer St/Collins St (Melbourne City),144.955183,1,12
+17908,-37.817372,3-William St/Collins St (Melbourne City),144.959913,1,12
+17910,-37.816206,5-Elizabeth St/Collins St (Melbourne City),144.963864,1,12
+17911,-37.815518,6-Melbourne Town Hall/Collins St (Melbourne City),144.96628,1,12
+22153,-37.814383,7-Exhibition St/Collins St (Melbourne City),144.970514,1,12
+17898,-37.813557,8-Spring St/Collins St (Melbourne City),144.973285,1,12
+17914,-37.813416,8-Spring St/Collins St (Melbourne City),144.973482,1,12
+22152,-37.814215,7-Exhibition St/Collins St (Melbourne City),144.970712,1,12
+17901,-37.815674,6-Melbourne Town Hall/Collins St (Melbourne City),144.965957,1,48
+17902,-37.816423,5-Elizabeth St/Collins St (Melbourne City),144.963404,1,48
+17903,-37.817607,3-William St/Collins St (Melbourne City),144.959429,1,48
+17905,-37.818847,1-Spencer St/Collins St (Melbourne City),144.955055,1,48
+17906,-37.818741,1-Spencer St/Collins St (Melbourne City),144.955183,1,48
+17908,-37.817372,3-William St/Collins St (Melbourne City),144.959913,1,48
+17910,-37.816206,5-Elizabeth St/Collins St (Melbourne City),144.963864,1,48
+17911,-37.815518,6-Melbourne Town Hall/Collins St (Melbourne City),144.96628,1,48
+22153,-37.814383,7-Exhibition St/Collins St (Melbourne City),144.970514,1,48
+17898,-37.813557,8-Spring St/Collins St (Melbourne City),144.973285,1,48
+17914,-37.813416,8-Spring St/Collins St (Melbourne City),144.973482,1,48
+22152,-37.814215,7-Exhibition St/Collins St (Melbourne City),144.970712,1,48
+17901,-37.815674,6-Melbourne Town Hall/Collins St (Melbourne City),144.965957,1,109
+17902,-37.816423,5-Elizabeth St/Collins St (Melbourne City),144.963404,1,109
+17903,-37.817607,3-William St/Collins St (Melbourne City),144.959429,1,109
+17905,-37.818847,1-Spencer St/Collins St (Melbourne City),144.955055,1,109
+17906,-37.818741,1-Spencer St/Collins St (Melbourne City),144.955183,1,109
+17908,-37.817372,3-William St/Collins St (Melbourne City),144.959913,1,109
+17910,-37.816206,5-Elizabeth St/Collins St (Melbourne City),144.963864,1,109
+17911,-37.815518,6-Melbourne Town Hall/Collins St (Melbourne City),144.96628,1,109
+22153,-37.814383,7-Exhibition St/Collins St (Melbourne City),144.970514,1,109
+17898,-37.813557,8-Spring St/Collins St (Melbourne City),144.973285,1,109
+17914,-37.813416,8-Spring St/Collins St (Melbourne City),144.973482,1,109
+22152,-37.814215,7-Exhibition St/Collins St (Melbourne City),144.970712,1,109
+18185,-37.823289,124A-Casino/MCEC/Clarendon St (Southbank),144.956057,1,96
+18186,-37.821554,124-Batman Park/Spencer St (Melbourne City),144.955265,1,96
+18196,-37.821773,124-Batman Park/Spencer St (Melbourne City),144.955406,1,96
+18197,-37.823591,124A-Casino/MCEC/Clarendon St (Southbank),144.95631,1,96
+18184,-37.825688,125-Clarendon St/Whiteman St (Southbank),144.956684,1,96
+19304,-37.826076,125-Port Junction/79 Whiteman St (Southbank),144.956208,1,96
+18185,-37.823289,124A-Casino/MCEC/Clarendon St (Southbank),144.956057,1,109
+18186,-37.821554,124-Batman Park/Spencer St (Melbourne City),144.955265,1,109
+18196,-37.821773,124-Batman Park/Spencer St (Melbourne City),144.955406,1,109
+18197,-37.823591,124A-Casino/MCEC/Clarendon St (Southbank),144.95631,1,109
+18184,-37.825688,125-Clarendon St/Whiteman St (Southbank),144.956684,1,109
+19304,-37.826076,125-Port Junction/79 Whiteman St (Southbank),144.956208,1,109
+19691,-37.807799,7-RMIT University/Swanston St (Melbourne City),144.962868,1,3/3a
+19694,-37.802629,3-Lincoln Square/Swanston St (Carlton),144.963555,1,3/3a
+19696,-37.798766,1-Melbourne University/Swanston St (Carlton),144.964241,1,3/3a
+19492,-37.805694,4-Queensberry St/Swanston St (Carlton),144.963108,1,3/3a
+19494,-37.808139,7-RMIT University/Swanston St (Melbourne City),144.96329,1,3/3a
+19495,-37.810382,8-Melbourne Central Station/Swanston St (Melbourne City),144.964274,1,3/3a
+19497,-37.813199,10-Bourke Street Mall/Swanston St (Melbourne City),144.965582,1,3/3a
+19498,-37.816378,11-City Square/Swanston St (Melbourne City),144.967017,1,3/3a
+19499,-37.818476,13-Federation Square/Swanston St (Melbourne City),144.967982,1,3/3a
+19500,-37.821846,14-Arts Precinct/St Kilda Rd (Southbank),144.969514,1,3/3a
+19684,-37.821517,14-Arts Precinct/St Kilda Rd (Southbank),144.969239,1,3/3a
+19685,-37.818065,13-Federation Square/Swanston St (Melbourne City),144.967675,1,3/3a
+19686,-37.81573,11-City Square/Swanston St (Melbourne City),144.966569,1,3/3a
+19687,-37.812759,10-Bourke Street Mall/Swanston St (Melbourne City),144.965185,1,3/3a
+19693,-37.805135,4-Queensberry St/Swanston St (Carlton),144.963112,1,3/3a
+19489,-37.799305,1-Melbourne University/Swanston St (Carlton),144.964192,1,3/3a
+19491,-37.80237,3-Lincoln Square/Swanston St (Carlton),144.963687,1,3/3a
+19689,-37.809889,8-Melbourne Central Station/Swanston St (Melbourne City),144.96389,1,3/3a
+19691,-37.807799,7-RMIT University/Swanston St (Melbourne City),144.962868,1,5
+19694,-37.802629,3-Lincoln Square/Swanston St (Carlton),144.963555,1,5
+19696,-37.798766,1-Melbourne University/Swanston St (Carlton),144.964241,1,5
+19492,-37.805694,4-Queensberry St/Swanston St (Carlton),144.963108,1,5
+19494,-37.808139,7-RMIT University/Swanston St (Melbourne City),144.96329,1,5
+19495,-37.810382,8-Melbourne Central Station/Swanston St (Melbourne City),144.964274,1,5
+19497,-37.813199,10-Bourke Street Mall/Swanston St (Melbourne City),144.965582,1,5
+19498,-37.816378,11-City Square/Swanston St (Melbourne City),144.967017,1,5
+19499,-37.818476,13-Federation Square/Swanston St (Melbourne City),144.967982,1,5
+19500,-37.821846,14-Arts Precinct/St Kilda Rd (Southbank),144.969514,1,5
+19684,-37.821517,14-Arts Precinct/St Kilda Rd (Southbank),144.969239,1,5
+19685,-37.818065,13-Federation Square/Swanston St (Melbourne City),144.967675,1,5
+19686,-37.81573,11-City Square/Swanston St (Melbourne City),144.966569,1,5
+19687,-37.812759,10-Bourke Street Mall/Swanston St (Melbourne City),144.965185,1,5
+19693,-37.805135,4-Queensberry St/Swanston St (Carlton),144.963112,1,5
+19489,-37.799305,1-Melbourne University/Swanston St (Carlton),144.964192,1,5
+19491,-37.80237,3-Lincoln Square/Swanston St (Carlton),144.963687,1,5
+19689,-37.809889,8-Melbourne Central Station/Swanston St (Melbourne City),144.96389,1,5
+19691,-37.807799,7-RMIT University/Swanston St (Melbourne City),144.962868,1,6
+19694,-37.802629,3-Lincoln Square/Swanston St (Carlton),144.963555,1,6
+19696,-37.798766,1-Melbourne University/Swanston St (Carlton),144.964241,1,6
+19492,-37.805694,4-Queensberry St/Swanston St (Carlton),144.963108,1,6
+19494,-37.808139,7-RMIT University/Swanston St (Melbourne City),144.96329,1,6
+19495,-37.810382,8-Melbourne Central Station/Swanston St (Melbourne City),144.964274,1,6
+19497,-37.813199,10-Bourke Street Mall/Swanston St (Melbourne City),144.965582,1,6
+19498,-37.816378,11-City Square/Swanston St (Melbourne City),144.967017,1,6
+19499,-37.818476,13-Federation Square/Swanston St (Melbourne City),144.967982,1,6
+19500,-37.821846,14-Arts Precinct/St Kilda Rd (Southbank),144.969514,1,6
+19684,-37.821517,14-Arts Precinct/St Kilda Rd (Southbank),144.969239,1,6
+19685,-37.818065,13-Federation Square/Swanston St (Melbourne City),144.967675,1,6
+19686,-37.81573,11-City Square/Swanston St (Melbourne City),144.966569,1,6
+19687,-37.812759,10-Bourke Street Mall/Swanston St (Melbourne City),144.965185,1,6
+19693,-37.805135,4-Queensberry St/Swanston St (Carlton),144.963112,1,6
+19489,-37.799305,1-Melbourne University/Swanston St (Carlton),144.964192,1,6
+19491,-37.80237,3-Lincoln Square/Swanston St (Carlton),144.963687,1,6
+19689,-37.809889,8-Melbourne Central Station/Swanston St (Melbourne City),144.96389,1,6
+19691,-37.807799,7-RMIT University/Swanston St (Melbourne City),144.962868,1,64
+19694,-37.802629,3-Lincoln Square/Swanston St (Carlton),144.963555,1,64
+19696,-37.798766,1-Melbourne University/Swanston St (Carlton),144.964241,1,64
+19492,-37.805694,4-Queensberry St/Swanston St (Carlton),144.963108,1,64
+19494,-37.808139,7-RMIT University/Swanston St (Melbourne City),144.96329,1,64
+19495,-37.810382,8-Melbourne Central Station/Swanston St (Melbourne City),144.964274,1,64
+19497,-37.813199,10-Bourke Street Mall/Swanston St (Melbourne City),144.965582,1,64
+19498,-37.816378,11-City Square/Swanston St (Melbourne City),144.967017,1,64
+19499,-37.818476,13-Federation Square/Swanston St (Melbourne City),144.967982,1,64
+19500,-37.821846,14-Arts Precinct/St Kilda Rd (Southbank),144.969514,1,64
+19684,-37.821517,14-Arts Precinct/St Kilda Rd (Southbank),144.969239,1,64
+19685,-37.818065,13-Federation Square/Swanston St (Melbourne City),144.967675,1,64
+19686,-37.81573,11-City Square/Swanston St (Melbourne City),144.966569,1,64
+19687,-37.812759,10-Bourke Street Mall/Swanston St (Melbourne City),144.965185,1,64
+19693,-37.805135,4-Queensberry St/Swanston St (Carlton),144.963112,1,64
+19489,-37.799305,1-Melbourne University/Swanston St (Carlton),144.964192,1,64
+19491,-37.80237,3-Lincoln Square/Swanston St (Carlton),144.963687,1,64
+19689,-37.809889,8-Melbourne Central Station/Swanston St (Melbourne City),144.96389,1,64
+19691,-37.807799,7-RMIT University/Swanston St (Melbourne City),144.962868,1,67
+19694,-37.802629,3-Lincoln Square/Swanston St (Carlton),144.963555,1,67
+19696,-37.798766,1-Melbourne University/Swanston St (Carlton),144.964241,1,67
+19492,-37.805694,4-Queensberry St/Swanston St (Carlton),144.963108,1,67
+19494,-37.808139,7-RMIT University/Swanston St (Melbourne City),144.96329,1,67
+19495,-37.810382,8-Melbourne Central Station/Swanston St (Melbourne City),144.964274,1,67
+19497,-37.813199,10-Bourke Street Mall/Swanston St (Melbourne City),144.965582,1,67
+19498,-37.816378,11-City Square/Swanston St (Melbourne City),144.967017,1,67
+19499,-37.818476,13-Federation Square/Swanston St (Melbourne City),144.967982,1,67
+19500,-37.821846,14-Arts Precinct/St Kilda Rd (Southbank),144.969514,1,67
+19684,-37.821517,14-Arts Precinct/St Kilda Rd (Southbank),144.969239,1,67
+19685,-37.818065,13-Federation Square/Swanston St (Melbourne City),144.967675,1,67
+19686,-37.81573,11-City Square/Swanston St (Melbourne City),144.966569,1,67
+19687,-37.812759,10-Bourke Street Mall/Swanston St (Melbourne City),144.965185,1,67
+19693,-37.805135,4-Queensberry St/Swanston St (Carlton),144.963112,1,67
+19489,-37.799305,1-Melbourne University/Swanston St (Carlton),144.964192,1,67
+19491,-37.80237,3-Lincoln Square/Swanston St (Carlton),144.963687,1,67
+19689,-37.809889,8-Melbourne Central Station/Swanston St (Melbourne City),144.96389,1,67
+19691,-37.807799,7-RMIT University/Swanston St (Melbourne City),144.962868,1,72
+19694,-37.802629,3-Lincoln Square/Swanston St (Carlton),144.963555,1,72
+19696,-37.798766,1-Melbourne University/Swanston St (Carlton),144.964241,1,72
+19492,-37.805694,4-Queensberry St/Swanston St (Carlton),144.963108,1,72
+19494,-37.808139,7-RMIT University/Swanston St (Melbourne City),144.96329,1,72
+19495,-37.810382,8-Melbourne Central Station/Swanston St (Melbourne City),144.964274,1,72
+19497,-37.813199,10-Bourke Street Mall/Swanston St (Melbourne City),144.965582,1,72
+19498,-37.816378,11-City Square/Swanston St (Melbourne City),144.967017,1,72
+19499,-37.818476,13-Federation Square/Swanston St (Melbourne City),144.967982,1,72
+19500,-37.821846,14-Arts Precinct/St Kilda Rd (Southbank),144.969514,1,72
+19684,-37.821517,14-Arts Precinct/St Kilda Rd (Southbank),144.969239,1,72
+19685,-37.818065,13-Federation Square/Swanston St (Melbourne City),144.967675,1,72
+19686,-37.81573,11-City Square/Swanston St (Melbourne City),144.966569,1,72
+19687,-37.812759,10-Bourke Street Mall/Swanston St (Melbourne City),144.965185,1,72
+19693,-37.805135,4-Queensberry St/Swanston St (Carlton),144.963112,1,72
+19489,-37.799305,1-Melbourne University/Swanston St (Carlton),144.964192,1,72
+19491,-37.80237,3-Lincoln Square/Swanston St (Carlton),144.963687,1,72
+19689,-37.809889,8-Melbourne Central Station/Swanston St (Melbourne City),144.96389,1,72
+19691,-37.807799,7-RMIT University/Swanston St (Melbourne City),144.962868,1,1
+19694,-37.802629,3-Lincoln Square/Swanston St (Carlton),144.963555,1,1
+19696,-37.798766,1-Melbourne University/Swanston St (Carlton),144.964241,1,1
+19492,-37.805694,4-Queensberry St/Swanston St (Carlton),144.963108,1,1
+19494,-37.808139,7-RMIT University/Swanston St (Melbourne City),144.96329,1,1
+19495,-37.810382,8-Melbourne Central Station/Swanston St (Melbourne City),144.964274,1,1
+19497,-37.813199,10-Bourke Street Mall/Swanston St (Melbourne City),144.965582,1,1
+19498,-37.816378,11-City Square/Swanston St (Melbourne City),144.967017,1,1
+19499,-37.818476,13-Federation Square/Swanston St (Melbourne City),144.967982,1,1
+19500,-37.821846,14-Arts Precinct/St Kilda Rd (Southbank),144.969514,1,1
+19684,-37.821517,14-Arts Precinct/St Kilda Rd (Southbank),144.969239,1,1
+19685,-37.818065,13-Federation Square/Swanston St (Melbourne City),144.967675,1,1
+19686,-37.81573,11-City Square/Swanston St (Melbourne City),144.966569,1,1
+19687,-37.812759,10-Bourke Street Mall/Swanston St (Melbourne City),144.965185,1,1
+19693,-37.805135,4-Queensberry St/Swanston St (Carlton),144.963112,1,1
+19489,-37.799305,1-Melbourne University/Swanston St (Carlton),144.964192,1,1
+19491,-37.80237,3-Lincoln Square/Swanston St (Carlton),144.963687,1,1
+19689,-37.809889,8-Melbourne Central Station/Swanston St (Melbourne City),144.96389,1,1
+18640,-37.871726,46-Kooyong Rd/Balaclava Rd (Caulfield North),145.017621,1,16
+18641,-37.872145,47-Elmhurst Rd/Balaclava Rd (Caulfield North),145.021099,1,16
+18645,-37.87257,51-Hawthorn Rd/Balaclava Rd (Caulfield North),145.02443,1,16
+18468,-37.872299,47-Caulfield Junior College/Balaclava Rd (Caulfield North),145.021175,1,16
+21060,-37.871894,46-Kooyong Rd/Balaclava Rd (Caulfield North),145.017957,1,16
+18619,-37.86825,37-Chapel St/Carlisle St (Balaclava),144.990135,1,16
+18620,-37.86809,36-St Kilda Town Hall/Carlisle St (St Kilda),144.988685,1,16
+18624,-37.867478,34-Greeves St/Carlisle St (St Kilda),144.984006,1,16
+18625,-37.867067,33-Barkly St/Carlisle St (St Kilda),144.981085,1,16
+18632,-37.868806,38-Balaclava Station/Carlisle St (Balaclava),144.994235,1,16
+18633,-37.86907,39-Orange Gr/Carlisle St (Balaclava),144.996513,1,16
+18634,-37.869433,40-Hotham St/Carlisle St (Balaclava),144.999289,1,16
+18635,-37.869706,41-Empress Rd/Balaclava Rd (St Kilda East),145.001577,1,16
+18636,-37.870166,42-Sidwell Ave/Balaclava Rd (Caulfield North),145.005317,1,16
+18637,-37.870553,43-Orrong Rd/Balaclava Rd (Caulfield North),145.008466,1,16
+18638,-37.871069,44-Ontario St/Balaclava Rd (Caulfield North),145.012363,1,16
+18639,-37.871344,45-Lumeah Rd/Balaclava Rd (Caulfield North),145.014732,1,16
+20597,-37.868445,37-Chapel St/Carlisle St (St Kilda),144.990494,1,16
+20598,-37.868862,38-Balaclava Station/Carlisle St (Balaclava),144.993813,1,16
+20599,-37.869245,39-Carlisle Ave/Carlisle St (St Kilda),144.996736,1,16
+20647,-37.86961,40-Hotham St/Balaclava Rd (St Kilda East),144.999625,1,16
+20648,-37.869984,41-Vadlure Ave/Balaclava Rd (St Kilda East),145.002582,1,16
+21042,-37.870342,42-Allan Rd/Balaclava Rd (Caulfield North),145.005585,1,16
+21057,-37.870748,43-Orrong Rd/Balaclava Rd (Caulfield North),145.008791,1,16
+21058,-37.871178,44-Otira Rd/Balaclava Rd (Caulfield North),145.012383,1,16
+21059,-37.871557,45-Kent Gr/Balaclava Rd (Caulfield North),145.015101,1,16
+22109,-37.856966,131-St Kilda Rd/Fitzroy St (St Kilda),144.982201,1,16
+22110,-37.856797,131-St Kilda Rd/Fitzroy St (St Kilda),144.982331,1,16
+22111,-37.85793,132-Princes St/Fitzroy St (St Kilda),144.980573,1,16
+22112,-37.858049,132-Princes St/Fitzroy St (St Kilda),144.980194,1,16
+19115,-37.868226,36-St Kilda Town Hall/Carlisle St (St Kilda),144.98876,1,16
+19118,-37.868081,35-Brighton Rd/Carlisle St (St Kilda),144.987673,1,16
+19119,-37.867594,34-Mitchell St/Carlisle St (St Kilda),144.983969,1,16
+19135,-37.867253,33-Barkly St/Carlisle St (St Kilda),144.981387,1,16
+19136,-37.867042,32-Havelock St/Carlisle St (St Kilda),144.978585,1,16
+19676,-37.835476,22-Toorak Rd/St Kilda Rd (Melbourne City),144.975038,1,5
+19676,-37.835476,22-Toorak Rd/St Kilda Rd (Melbourne City),144.975038,1,58
+19676,-37.835476,22-Toorak Rd/St Kilda Rd (Melbourne City),144.975038,1,6
+19676,-37.835476,22-Toorak Rd/St Kilda Rd (Melbourne City),144.975038,1,64
+19676,-37.835476,22-Toorak Rd/St Kilda Rd (Melbourne City),144.975038,1,67
+19676,-37.835476,22-Toorak Rd/St Kilda Rd (Melbourne City),144.975038,1,72
+19676,-37.835476,22-Toorak Rd/St Kilda Rd (Melbourne City),144.975038,1,16
+19562,-37.847552,26-Moubray St/St Kilda Rd (South Melbourne),144.979719,1,5
+19563,-37.849864,27-High St/St Kilda Rd (South Melbourne),144.980554,1,5
+19571,-37.849918,27-Lorne St/St Kilda Rd (Melbourne City),144.980541,1,5
+19572,-37.847895,26-Beatrice St/St Kilda Rd (Melbourne City),144.979755,1,5
+19562,-37.847552,26-Moubray St/St Kilda Rd (South Melbourne),144.979719,1,6
+19563,-37.849864,27-High St/St Kilda Rd (South Melbourne),144.980554,1,6
+19571,-37.849918,27-Lorne St/St Kilda Rd (Melbourne City),144.980541,1,6
+19572,-37.847895,26-Beatrice St/St Kilda Rd (Melbourne City),144.979755,1,6
+19562,-37.847552,26-Moubray St/St Kilda Rd (South Melbourne),144.979719,1,64
+19563,-37.849864,27-High St/St Kilda Rd (South Melbourne),144.980554,1,64
+19571,-37.849918,27-Lorne St/St Kilda Rd (Melbourne City),144.980541,1,64
+19572,-37.847895,26-Beatrice St/St Kilda Rd (Melbourne City),144.979755,1,64
+19562,-37.847552,26-Moubray St/St Kilda Rd (South Melbourne),144.979719,1,67
+19563,-37.849864,27-High St/St Kilda Rd (South Melbourne),144.980554,1,67
+19571,-37.849918,27-Lorne St/St Kilda Rd (Melbourne City),144.980541,1,67
+19572,-37.847895,26-Beatrice St/St Kilda Rd (Melbourne City),144.979755,1,67
+19562,-37.847552,26-Moubray St/St Kilda Rd (South Melbourne),144.979719,1,16
+19563,-37.849864,27-High St/St Kilda Rd (South Melbourne),144.980554,1,16
+19571,-37.849918,27-Lorne St/St Kilda Rd (Melbourne City),144.980541,1,16
+19572,-37.847895,26-Beatrice St/St Kilda Rd (Melbourne City),144.979755,1,16
+19502,-37.824169,17-Grant St-Police Memorial/St Kilda Rd (Southbank),144.970473,1,5
+19681,-37.824634,17-Grant St-Police Memorial/St Kilda Rd (Southbank),144.970801,1,5
+19528,-37.835761,22-Toorak Rd/St Kilda Rd (Melbourne City),144.975348,1,5
+19539,-37.838855,23-Arthur St/St Kilda Rd (Melbourne City),144.97657,1,5
+19560,-37.841159,24-Leopold St/St Kilda Rd (South Melbourne),144.977405,1,5
+19561,-37.844523,25-Commercial Rd/St Kilda Rd (South Melbourne),144.978631,1,5
+19573,-37.844013,25-Commercial Rd/St Kilda Rd (Melbourne City),144.978339,1,5
+19574,-37.841483,24-Leopold St/St Kilda Rd (Melbourne City),144.977419,1,5
+19575,-37.839298,23-Arthur St/St Kilda Rd (Melbourne City),144.976615,1,5
+19504,-37.828799,19-Shrine of Remembrance/St Kilda Rd (Melbourne City),144.971369,1,5
+19505,-37.831521,20-Park Street/St Kilda Rd (Melbourne City),144.971385,1,5
+19678,-37.832057,20-Park Street/St Kilda Rd (Melbourne City),144.971654,1,5
+19679,-37.828931,19-Shrine of Remembrance/St Kilda Rd (Melbourne City),144.971229,1,5
+19502,-37.824169,17-Grant St-Police Memorial/St Kilda Rd (Southbank),144.970473,1,6
+19681,-37.824634,17-Grant St-Police Memorial/St Kilda Rd (Southbank),144.970801,1,6
+19528,-37.835761,22-Toorak Rd/St Kilda Rd (Melbourne City),144.975348,1,6
+19539,-37.838855,23-Arthur St/St Kilda Rd (Melbourne City),144.97657,1,6
+19560,-37.841159,24-Leopold St/St Kilda Rd (South Melbourne),144.977405,1,6
+19561,-37.844523,25-Commercial Rd/St Kilda Rd (South Melbourne),144.978631,1,6
+19573,-37.844013,25-Commercial Rd/St Kilda Rd (Melbourne City),144.978339,1,6
+19574,-37.841483,24-Leopold St/St Kilda Rd (Melbourne City),144.977419,1,6
+19575,-37.839298,23-Arthur St/St Kilda Rd (Melbourne City),144.976615,1,6
+19504,-37.828799,19-Shrine of Remembrance/St Kilda Rd (Melbourne City),144.971369,1,6
+19505,-37.831521,20-Park Street/St Kilda Rd (Melbourne City),144.971385,1,6
+19678,-37.832057,20-Park Street/St Kilda Rd (Melbourne City),144.971654,1,6
+19679,-37.828931,19-Shrine of Remembrance/St Kilda Rd (Melbourne City),144.971229,1,6
+19502,-37.824169,17-Grant St-Police Memorial/St Kilda Rd (Southbank),144.970473,1,64
+19681,-37.824634,17-Grant St-Police Memorial/St Kilda Rd (Southbank),144.970801,1,64
+19528,-37.835761,22-Toorak Rd/St Kilda Rd (Melbourne City),144.975348,1,64
+19539,-37.838855,23-Arthur St/St Kilda Rd (Melbourne City),144.97657,1,64
+19560,-37.841159,24-Leopold St/St Kilda Rd (South Melbourne),144.977405,1,64
+19561,-37.844523,25-Commercial Rd/St Kilda Rd (South Melbourne),144.978631,1,64
+19573,-37.844013,25-Commercial Rd/St Kilda Rd (Melbourne City),144.978339,1,64
+19574,-37.841483,24-Leopold St/St Kilda Rd (Melbourne City),144.977419,1,64
+19575,-37.839298,23-Arthur St/St Kilda Rd (Melbourne City),144.976615,1,64
+19504,-37.828799,19-Shrine of Remembrance/St Kilda Rd (Melbourne City),144.971369,1,64
+19505,-37.831521,20-Park Street/St Kilda Rd (Melbourne City),144.971385,1,64
+19678,-37.832057,20-Park Street/St Kilda Rd (Melbourne City),144.971654,1,64
+19679,-37.828931,19-Shrine of Remembrance/St Kilda Rd (Melbourne City),144.971229,1,64
+19502,-37.824169,17-Grant St-Police Memorial/St Kilda Rd (Southbank),144.970473,1,67
+19681,-37.824634,17-Grant St-Police Memorial/St Kilda Rd (Southbank),144.970801,1,67
+19528,-37.835761,22-Toorak Rd/St Kilda Rd (Melbourne City),144.975348,1,67
+19539,-37.838855,23-Arthur St/St Kilda Rd (Melbourne City),144.97657,1,67
+19560,-37.841159,24-Leopold St/St Kilda Rd (South Melbourne),144.977405,1,67
+19561,-37.844523,25-Commercial Rd/St Kilda Rd (South Melbourne),144.978631,1,67
+19573,-37.844013,25-Commercial Rd/St Kilda Rd (Melbourne City),144.978339,1,67
+19574,-37.841483,24-Leopold St/St Kilda Rd (Melbourne City),144.977419,1,67
+19575,-37.839298,23-Arthur St/St Kilda Rd (Melbourne City),144.976615,1,67
+19504,-37.828799,19-Shrine of Remembrance/St Kilda Rd (Melbourne City),144.971369,1,67
+19505,-37.831521,20-Park Street/St Kilda Rd (Melbourne City),144.971385,1,67
+19678,-37.832057,20-Park Street/St Kilda Rd (Melbourne City),144.971654,1,67
+19679,-37.828931,19-Shrine of Remembrance/St Kilda Rd (Melbourne City),144.971229,1,67
+19502,-37.824169,17-Grant St-Police Memorial/St Kilda Rd (Southbank),144.970473,1,72
+19681,-37.824634,17-Grant St-Police Memorial/St Kilda Rd (Southbank),144.970801,1,72
+19528,-37.835761,22-Toorak Rd/St Kilda Rd (Melbourne City),144.975348,1,72
+19539,-37.838855,23-Arthur St/St Kilda Rd (Melbourne City),144.97657,1,72
+19560,-37.841159,24-Leopold St/St Kilda Rd (South Melbourne),144.977405,1,72
+19561,-37.844523,25-Commercial Rd/St Kilda Rd (South Melbourne),144.978631,1,72
+19573,-37.844013,25-Commercial Rd/St Kilda Rd (Melbourne City),144.978339,1,72
+19574,-37.841483,24-Leopold St/St Kilda Rd (Melbourne City),144.977419,1,72
+19575,-37.839298,23-Arthur St/St Kilda Rd (Melbourne City),144.976615,1,72
+19504,-37.828799,19-Shrine of Remembrance/St Kilda Rd (Melbourne City),144.971369,1,72
+19505,-37.831521,20-Park Street/St Kilda Rd (Melbourne City),144.971385,1,72
+19678,-37.832057,20-Park Street/St Kilda Rd (Melbourne City),144.971654,1,72
+19679,-37.828931,19-Shrine of Remembrance/St Kilda Rd (Melbourne City),144.971229,1,72
+19502,-37.824169,17-Grant St-Police Memorial/St Kilda Rd (Southbank),144.970473,1,16
+19681,-37.824634,17-Grant St-Police Memorial/St Kilda Rd (Southbank),144.970801,1,16
+19528,-37.835761,22-Toorak Rd/St Kilda Rd (Melbourne City),144.975348,1,16
+19539,-37.838855,23-Arthur St/St Kilda Rd (Melbourne City),144.97657,1,16
+19560,-37.841159,24-Leopold St/St Kilda Rd (South Melbourne),144.977405,1,16
+19561,-37.844523,25-Commercial Rd/St Kilda Rd (South Melbourne),144.978631,1,16
+19573,-37.844013,25-Commercial Rd/St Kilda Rd (Melbourne City),144.978339,1,16
+19574,-37.841483,24-Leopold St/St Kilda Rd (Melbourne City),144.977419,1,16
+19575,-37.839298,23-Arthur St/St Kilda Rd (Melbourne City),144.976615,1,16
+19504,-37.828799,19-Shrine of Remembrance/St Kilda Rd (Melbourne City),144.971369,1,16
+19505,-37.831521,20-Park Street/St Kilda Rd (Melbourne City),144.971385,1,16
+19678,-37.832057,20-Park Street/St Kilda Rd (Melbourne City),144.971654,1,16
+19679,-37.828931,19-Shrine of Remembrance/St Kilda Rd (Melbourne City),144.971229,1,16
+19565,-37.853002,29-Union St/St Kilda Rd (St Kilda),144.981707,1,5
+19566,-37.855296,30-St Kilda Junction/St Kilda Rd (St Kilda),144.982531,1,5
+19568,-37.855031,30-St Kilda Junction/St Kilda Rd (St Kilda),144.982345,1,5
+19569,-37.852483,29-Union St/St Kilda Rd (St Kilda),144.981437,1,5
+19565,-37.853002,29-Union St/St Kilda Rd (St Kilda),144.981707,1,64
+19566,-37.855296,30-St Kilda Junction/St Kilda Rd (St Kilda),144.982531,1,64
+19568,-37.855031,30-St Kilda Junction/St Kilda Rd (St Kilda),144.982345,1,64
+19569,-37.852483,29-Union St/St Kilda Rd (St Kilda),144.981437,1,64
+19565,-37.853002,29-Union St/St Kilda Rd (St Kilda),144.981707,1,67
+19566,-37.855296,30-St Kilda Junction/St Kilda Rd (St Kilda),144.982531,1,67
+19568,-37.855031,30-St Kilda Junction/St Kilda Rd (St Kilda),144.982345,1,67
+19569,-37.852483,29-Union St/St Kilda Rd (St Kilda),144.981437,1,67
+19565,-37.853002,29-Union St/St Kilda Rd (St Kilda),144.981707,1,16
+19566,-37.855296,30-St Kilda Junction/St Kilda Rd (St Kilda),144.982531,1,16
+19568,-37.855031,30-St Kilda Junction/St Kilda Rd (St Kilda),144.982345,1,16
+19569,-37.852483,29-Union St/St Kilda Rd (St Kilda),144.981437,1,16
+18623,-37.867828,35-St Kilda Rd/Carlisle St (St Kilda),144.986566,1,67
+18623,-37.867828,35-St Kilda Rd/Carlisle St (St Kilda),144.986566,1,16
+20508,-37.86018,133-Canterbury Rd/Fitzroy St (St Kilda),144.976772,1,96
+20509,-37.859932,133-Canterbury Rd/Fitzroy St (St Kilda),144.977017,1,96
+20510,-37.861083,134-Park St/Fitzroy St (St Kilda),144.975258,1,96
+20511,-37.860957,134-Park St/Fitzroy St (St Kilda),144.975273,1,96
+20512,-37.862051,135-Acland St/Fitzroy St (St Kilda),144.973413,1,96
+20513,-37.862414,135-Jacka Bvd/Fitzroy St (St Kilda),144.973005,1,96
+20514,-37.865197,136-Alfred Square/The Esplanade (St Kilda),144.973486,1,96
+20515,-37.865293,136-Alfred Square/The Esplanade (St Kilda),144.973779,1,96
+20518,-37.866985,138-Luna Park/The Esplanade (St Kilda),144.976835,1,96
+20519,-37.867001,138-Luna Park/The Esplanade (St Kilda),144.97721,1,96
+20508,-37.86018,133-Canterbury Rd/Fitzroy St (St Kilda),144.976772,1,16
+20509,-37.859932,133-Canterbury Rd/Fitzroy St (St Kilda),144.977017,1,16
+20510,-37.861083,134-Park St/Fitzroy St (St Kilda),144.975258,1,16
+20511,-37.860957,134-Park St/Fitzroy St (St Kilda),144.975273,1,16
+20512,-37.862051,135-Acland St/Fitzroy St (St Kilda),144.973413,1,16
+20513,-37.862414,135-Jacka Bvd/Fitzroy St (St Kilda),144.973005,1,16
+20514,-37.865197,136-Alfred Square/The Esplanade (St Kilda),144.973486,1,16
+20515,-37.865293,136-Alfred Square/The Esplanade (St Kilda),144.973779,1,16
+20518,-37.866985,138-Luna Park/The Esplanade (St Kilda),144.976835,1,16
+20519,-37.867001,138-Luna Park/The Esplanade (St Kilda),144.97721,1,16
+18011,-37.808103,8-Exhibition St/La Trobe St (Melbourne City),144.969027,1,35
+18031,-37.810291,5-Elizabeth St/La Trobe St (Melbourne City),144.961596,1,35
+18032,-37.811005,4-Queen St/La Trobe St (Melbourne City),144.959122,1,35
+18033,-37.811711,3-William St/La Trobe St (Melbourne City),144.956718,1,35
+18035,-37.813112,1-Spencer St/La Trobe St (Melbourne City),144.95176,1,35
+18042,-37.81248,2-King St/La Trobe St (Melbourne City),144.953732,1,35
+18043,-37.811791,3-William St/La Trobe St (Melbourne City),144.956136,1,35
+18044,-37.811061,4-Queen St/La Trobe St (Melbourne City),144.958712,1,35
+18045,-37.810355,5-Elizabeth St/La Trobe St (Melbourne City),144.961117,1,35
+18010,-37.807614,9-La Trobe St/Victoria St (Melbourne City),144.970972,1,35
+18030,-37.80955,6-Swanston St/La Trobe St (Melbourne City),144.964081,1,35
+18046,-37.809647,6-Swanston St/La Trobe St (Melbourne City),144.963465,1,35
+18047,-37.808909,7-Russell St/La Trobe St (Melbourne City),144.966098,1,35
+18048,-37.808185,8-Exhibition St/La Trobe St (Melbourne City),144.968537,1,35
+18049,-37.807656,9-Victoria St/La Trobe St (Melbourne City),144.970266,1,35
+18050,-37.807836,10-Nicholson St/Victoria Pde (Carlton),144.97284,1,35
+18052,-37.814705,D2-Central Pier/Harbour Esp (Docklands),144.944901,1,70
+18183,-37.814249,D2-CentralPier/Harbour Esp (Docklands),144.944584,1,70
+18052,-37.814705,D2-Central Pier/Harbour Esp (Docklands),144.944901,1,75
+18183,-37.814249,D2-CentralPier/Harbour Esp (Docklands),144.944584,1,75
+18052,-37.814705,D2-Central Pier/Harbour Esp (Docklands),144.944901,1,86
+18183,-37.814249,D2-CentralPier/Harbour Esp (Docklands),144.944584,1,86
+18052,-37.814705,D2-Central Pier/Harbour Esp (Docklands),144.944901,1,30
+18183,-37.814249,D2-CentralPier/Harbour Esp (Docklands),144.944584,1,30
+18040,-37.814578,D1-Stadium Precinct/La Trobe St (Docklands),144.946404,1,86
+18041,-37.813211,119-Spencer St/La Trobe St (Melbourne City),144.951201,1,86
+20981,-37.814566,D1-Stadium Precinct/La Trobe St (Docklands),144.946745,1,86
+18040,-37.814578,D1-Stadium Precinct/La Trobe St (Docklands),144.946404,1,30
+18041,-37.813211,119-Spencer St/La Trobe St (Melbourne City),144.951201,1,30
+20981,-37.814566,D1-Stadium Precinct/La Trobe St (Docklands),144.946745,1,30
+43472,-37.819681,D14-Southern Cross Station/Collins St (Docklands),144.952215,1,11
+43473,-37.820266,D15-Batman's Hill/Collins St (Docklands),144.950131,1,11
+43474,-37.821527,D17-Merchant St/Collins St (Docklands),144.945416,1,11
+43475,-37.820797,D16-Harbour Esp/Collins St (Docklands),144.948038,1,11
+43476,-37.820074,D15-Batman's Hill/Collins St (Docklands),144.950477,1,11
+43477,-37.819471,D14-Southern Cross Station/Collins St (Docklands),144.952596,1,11
+43480,-37.820862,D16-Harbour Esp/Collins St (Docklands),144.948138,1,11
+47493,-37.820801,D18-Bourke St/Collins St (Docklands),144.942039,1,11
+17850,-37.817717,1-Flinders Street Railway Station/Elizabeth St (Melbourne City),144.964765,1,59
+17851,-37.815428,2-Collins St/Elizabeth St (Melbourne City),144.963669,1,59
+17852,-37.813447,3-Bourke Street Mall/Elizabeth St (Melbourne City),144.962758,1,59
+17854,-37.810558,5-Melbourne Central Station/Elizabeth St (Melbourne City),144.961429,1,59
+17856,-37.806561,7-Queen Victoria Market/Elizabeth St (Melbourne City),144.959574,1,59
+17871,-37.80689,7-Queen Victoria Market/Elizabeth St (Melbourne City),144.959849,1,59
+17873,-37.811105,5-Melbourne Central Station/Elizabeth St (Melbourne City),144.961778,1,59
+17875,-37.814039,3-Bourke Street Mall/Elizabeth St (Melbourne City),144.963128,1,59
+17876,-37.815929,2-Collins St/Elizabeth St (Melbourne City),144.963996,1,59
+17877,-37.817899,1-Flinders Street Railway Station/Elizabeth St (Melbourne City),144.96484,1,59
+17850,-37.817717,1-Flinders Street Railway Station/Elizabeth St (Melbourne City),144.964765,1,19
+17851,-37.815428,2-Collins St/Elizabeth St (Melbourne City),144.963669,1,19
+17852,-37.813447,3-Bourke Street Mall/Elizabeth St (Melbourne City),144.962758,1,19
+17854,-37.810558,5-Melbourne Central Station/Elizabeth St (Melbourne City),144.961429,1,19
+17856,-37.806561,7-Queen Victoria Market/Elizabeth St (Melbourne City),144.959574,1,19
+17871,-37.80689,7-Queen Victoria Market/Elizabeth St (Melbourne City),144.959849,1,19
+17873,-37.811105,5-Melbourne Central Station/Elizabeth St (Melbourne City),144.961778,1,19
+17875,-37.814039,3-Bourke Street Mall/Elizabeth St (Melbourne City),144.963128,1,19
+17876,-37.815929,2-Collins St/Elizabeth St (Melbourne City),144.963996,1,19
+17877,-37.817899,1-Flinders Street Railway Station/Elizabeth St (Melbourne City),144.96484,1,19
+17866,-37.801947,9-Pelham St/Elizabeth St (Melbourne City),144.957464,1,19
+17869,-37.802148,9-Pelham St/Elizabeth St (Melbourne City),144.957663,1,19
+19699,-37.797587,15-Murphy St/Flemington Rd (North Melbourne),144.952394,1,59
+20482,-37.797488,15-Murphy St/Flemington Rd (North Melbourne),144.952385,1,59
+19253,-37.799478,14-Royal Melbourne Hospital/Flemington Rd (Parkville),144.954886,1,59
+19254,-37.796419,16-Harker St/Flemington Rd (Parkville),144.951052,1,59
+19256,-37.794282,19-Royal Childrens Hospital/Flemington Rd (North Melbourne),144.948363,1,59
+19591,-37.799826,14-Royal Melbourne Hospital/Flemington Rd (North Melbourne),144.955205,1,59
+19592,-37.796758,16-Harker St/Flemington Rd (North Melbourne),144.95136,1,59
+19594,-37.794141,19-Royal Childrens Hospital/Flemington Rd (North Melbourne),144.94806,1,59
+19016,-37.872441,51-Balaclava Rd/Hawthorn Rd (Caulfield North),145.02482,1,64
+19017,-37.869514,50-Inkerman Rd/Hawthorn Rd (Caulfield North),145.02541,1,64
+19018,-37.86769,49-Arthur St/Hawthorn Rd (Caulfield North),145.025754,1,64
+18430,-37.869699,50-Inkerman Rd/Hawthorn Rd (Caulfield North),145.025189,1,64
+18431,-37.867992,49-Wanda Rd/Hawthorn Rd (Caulfield North),145.025519,1,64
+18432,-37.865899,48A-Dandenong Rd/Hawthorn Rd (Caulfield North),145.025904,1,64
+18053,-37.817819,D3-Stadium Precinct/Harbour Esp (Docklands),144.946246,1,75
+18054,-37.821466,D4-Docklands Park/Harbour Esp (Docklands),144.94761,1,75
+18055,-37.821835,D5-South Wharf/Wurundjeri Way (Docklands),144.951213,1,75
+18056,-37.821471,D6-Flinders Street West/Flinders St (Docklands),144.953608,1,75
+18087,-37.819063,3-Market St/Flinders St (Melbourne City),144.961797,1,75
+18089,-37.818238,4-Elizabeth St/Flinders St (Melbourne City),144.964626,1,75
+18090,-37.81756,5-Swanston St/Flinders St (Melbourne City),144.967132,1,75
+18091,-37.816564,6-Russell St/Flinders St (Melbourne City),144.9705,1,75
+18174,-37.816657,6-Russell St/Flinders St (Melbourne City),144.970168,1,75
+18175,-37.817756,5-Swanston St/Flinders St (Melbourne City),144.966491,1,75
+18176,-37.818412,4-Elizabeth St/Flinders St (Melbourne City),144.96428,1,75
+18178,-37.819306,3-Market St/Flinders St (Melbourne City),144.961279,1,75
+18179,-37.821726,D6-Victoria Police Centre/Flinders St (Southbank),144.953215,1,75
+18180,-37.822001,D5-South Wharf/Wurundjeri Way (Docklands),144.950913,1,75
+18181,-37.821725,D4-Docklands Park/Harbour Esp (Docklands),144.947501,1,75
+18182,-37.817463,D3-Stadium Precinct/Harbour Esp (Docklands),144.94596,1,75
+21231,-37.820834,1-Spencer St/Flinders St (Melbourne City),144.955853,1,75
+21232,-37.821051,1-Spencer St/Flinders St (Melbourne City),144.955381,1,75
+21233,-37.82031,2-Melbourne Aquarium/Flinders St (Melbourne City),144.957821,1,75
+21234,-37.820109,2-Melbourne Aquarium/Flinders St (Melbourne City),144.958213,1,75
+18053,-37.817819,D3-Stadium Precinct/Harbour Esp (Docklands),144.946246,1,35
+18054,-37.821466,D4-Docklands Park/Harbour Esp (Docklands),144.94761,1,35
+18055,-37.821835,D5-South Wharf/Wurundjeri Way (Docklands),144.951213,1,35
+18056,-37.821471,D6-Flinders Street West/Flinders St (Docklands),144.953608,1,35
+18087,-37.819063,3-Market St/Flinders St (Melbourne City),144.961797,1,35
+18089,-37.818238,4-Elizabeth St/Flinders St (Melbourne City),144.964626,1,35
+18090,-37.81756,5-Swanston St/Flinders St (Melbourne City),144.967132,1,35
+18091,-37.816564,6-Russell St/Flinders St (Melbourne City),144.9705,1,35
+18174,-37.816657,6-Russell St/Flinders St (Melbourne City),144.970168,1,35
+18175,-37.817756,5-Swanston St/Flinders St (Melbourne City),144.966491,1,35
+18176,-37.818412,4-Elizabeth St/Flinders St (Melbourne City),144.96428,1,35
+18178,-37.819306,3-Market St/Flinders St (Melbourne City),144.961279,1,35
+18179,-37.821726,D6-Victoria Police Centre/Flinders St (Southbank),144.953215,1,35
+18180,-37.822001,D5-South Wharf/Wurundjeri Way (Docklands),144.950913,1,35
+18181,-37.821725,D4-Docklands Park/Harbour Esp (Docklands),144.947501,1,35
+18182,-37.817463,D3-Stadium Precinct/Harbour Esp (Docklands),144.94596,1,35
+21231,-37.820834,1-Spencer St/Flinders St (Melbourne City),144.955853,1,35
+21232,-37.821051,1-Spencer St/Flinders St (Melbourne City),144.955381,1,35
+21233,-37.82031,2-Melbourne Aquarium/Flinders St (Melbourne City),144.957821,1,35
+21234,-37.820109,2-Melbourne Aquarium/Flinders St (Melbourne City),144.958213,1,35
+17959,-37.790394,20-Melrose St/Flemington Rd (North Melbourne),144.943485,1,59
+19595,-37.790474,20-Melrose St/Flemington Rd (North Melbourne),144.94346,1,59
+17880,-37.809676,10-Albert St/Nicholson St (Fitzroy),144.972949,1,96
+17892,-37.809423,10-Albert St/Nicholson St (East Melbourne),144.972899,1,96
+17880,-37.809676,10-Albert St/Nicholson St (Fitzroy),144.972949,1,35
+17892,-37.809423,10-Albert St/Nicholson St (East Melbourne),144.972899,1,35
+19027,-37.860825,40-Wattletree Rd/Dandenong Rd (Armadale),145.015173,1,64
+19028,-37.86027,38-Orrong Rd/Dandenong Rd (Prahran),145.011119,1,64
+19029,-37.859804,37-Lansdowne Rd/Dandenong Rd (St Kilda East),145.007528,1,64
+19030,-37.859395,36-Closeburn Ave/Dandenong Rd (St Kilda East),145.004641,1,64
+19031,-37.859063,35-Williams Rd/Dandenong Rd (Prahran),145.00207,1,64
+19032,-37.858413,34-The Avenue/Dandenong Rd (Windsor),144.997234,1,64
+19033,-37.858206,33-Hornby St/Dandenong Rd (Windsor),144.995694,1,64
+19034,-37.857494,32-Chapel St/Dandenong Rd (Windsor),144.991996,1,64
+19035,-37.856154,31-Queens Way/Queens Way (Windsor),144.987406,1,64
+18441,-37.860808,40-Wattletree Rd/Dandenong Rd (Armadale),145.014696,1,64
+18443,-37.860301,38-Orrong Rd/Dandenong Rd (Armadale),145.010834,1,64
+18444,-37.859827,37-Lansdowne Rd/Dandenong Rd (Prahran),145.007278,1,64
+18445,-37.859425,36-Alexandra St/Dandenong Rd (Prahran),145.004299,1,64
+18446,-37.859073,35-Williams Rd/Dandenong Rd (Prahran),145.001649,1,64
+18447,-37.858508,34-Westbury St/Dandenong Rd (St Kilda East),144.997538,1,64
+18448,-37.858279,33-Hornby St/Dandenong Rd (Windsor),144.995748,1,64
+18449,-37.857426,32-Chapel St/Dandenong Rd (Windsor),144.991691,1,64
+19567,-37.856246,31-Queens Way/Queens Way (St Kilda),144.987495,1,64
+18721,-37.75688,129-Moreland Rd/Holmes St (Brunswick),144.974754,1,6
+19341,-37.794138,113-Lytton St/Lygon St (Carlton),144.968127,1,6
+19343,-37.789285,115-Melbourne Cemetery/Lygon St (Carlton North),144.968952,1,6
+19346,-37.781539,118-Pigdon St/Lygon St (Carlton North),144.970232,1,6
+19347,-37.779886,119-Park St/Lygon St (Carlton North),144.970493,1,6
+19348,-37.778115,120-Brunswick Rd/Lygon St (Brunswick),144.97078,1,6
+19349,-37.775553,121-Weston St/Lygon St (Brunswick East),144.971122,1,6
+18789,-37.797113,112-Lygon St/Elgin St (Carlton),144.967159,1,6
+18790,-37.794127,113-Lytton St/Lygon St (Carlton),144.968025,1,6
+18791,-37.792689,114-Princes St/Lygon St (Carlton North),144.968269,1,6
+18792,-37.78958,115-Melbourne Cemetery/Lygon St (Carlton North),144.968797,1,6
+18793,-37.78737,116-Fenwick St/Lygon St (Carlton North),144.969186,1,6
+18794,-37.784036,117-Richardson St/Lygon St (Carlton North),144.969732,1,6
+18795,-37.781924,118-Pigdon St/Lygon St (Carlton North),144.970074,1,6
+18711,-37.779417,119-Park St/Lygon St (Carlton North),144.970471,1,6
+18712,-37.778455,120-Brunswick Rd/Lygon St (Brunswick),144.970634,1,6
+18713,-37.775667,121-Weston St/Lygon St (Brunswick East),144.970971,1,6
+18714,-37.772737,122-Glenlyon Rd/Lygon St (Brunswick East),144.971415,1,6
+18715,-37.769781,123-Albert St/Lygon St (Brunswick East),144.97195,1,6
+18716,-37.7682,124-Victoria St/Lygon St (Brunswick East),144.972231,1,6
+18717,-37.766664,125-Blyth St/Lygon St (Brunswick East),144.972512,1,6
+18718,-37.764427,126-Stewart St/Lygon St (Brunswick East),144.972902,1,6
+18719,-37.762369,127-Albion St/Lygon St (Brunswick East),144.973265,1,6
+18720,-37.759387,128-Mitchell St/Holmes St (Brunswick East),144.974334,1,6
+19340,-37.797027,112-Lygon St/Elgin St (Carlton),144.966355,1,6
+19342,-37.792125,114-Princes St/Lygon St (Carlton North),144.968466,1,6
+19344,-37.787201,116-Fenwick St/Lygon St (Carlton North),144.969305,1,6
+19345,-37.784083,117-Richardson St/Lygon St (Carlton North),144.969822,1,6
+19350,-37.772515,122-Glenlyon Rd/Lygon St (Brunswick East),144.971614,1,6
+19351,-37.769649,123-Albert St/Lygon St (Brunswick East),144.972112,1,6
+19352,-37.768077,124-Victoria St/Lygon St (Brunswick East),144.972416,1,6
+19353,-37.766442,125-Blyth St/Lygon St (Brunswick East),144.972722,1,6
+19354,-37.764295,126-Stewart St/Lygon St (Brunswick East),144.973087,1,6
+19355,-37.761887,127-Albion St/Holmes St (Brunswick East),144.974061,1,6
+19356,-37.759264,128-Mitchell St/Holmes St (Brunswick East),144.974519,1,6
+19697,-37.865113,34-Inkerman St/St Kilda Rd (St Kilda),144.985901,1,67
+19698,-37.864069,34-Inkerman St/St Kilda Rd (St Kilda),144.985452,1,67
+19700,-37.862483,33-Argyle St/St Kilda Rd (St Kilda),144.984893,1,67
+19701,-37.862086,33-Argyle St/St Kilda Rd (St Kilda),144.984892,1,67
+19702,-37.859945,32-Alma Rd/St Kilda Rd (St Kilda),144.984053,1,67
+19703,-37.86098,32-Alma Rd/St Kilda Rd (St Kilda),144.984513,1,67
+19704,-37.857968,31-Barkly St/St Kilda Rd (St Kilda),144.983356,1,67
+19705,-37.858261,31-Barkly St/St Kilda Rd (St Kilda),144.983587,1,67
+21963,-37.867325,35-Carlisle St/St Kilda Rd (St Kilda),144.986636,1,67
+18037,-37.813781,D10-New Quay Prom/Docklands Dr (Docklands),144.940508,1,86
+18038,-37.814345,D11-Waterfront City/Docklands Dr (Docklands),144.938754,1,86
+18039,-37.813312,D10-NewQuay Prom/Docklands Dr (Docklands),144.941509,1,86
+18037,-37.813781,D10-New Quay Prom/Docklands Dr (Docklands),144.940508,1,35
+18038,-37.814345,D11-Waterfront City/Docklands Dr (Docklands),144.938754,1,35
+18039,-37.813312,D10-NewQuay Prom/Docklands Dr (Docklands),144.941509,1,35
+18092,-37.815319,8-Spring St/Flinders St (Melbourne City),144.974612,1,75
+18105,-37.815537,8-Spring St/Flinders St (Melbourne City),144.974174,1,75
+19718,-37.818618,18-Church St/Bridge Rd (Richmond),144.999423,1,48
+18095,-37.816341,11-Jolimont Station-MCG/Wellington Pde (East Melbourne),144.984819,1,48
+18097,-37.81654,13-Simpson St/Wellington Pde (East Melbourne),144.986983,1,48
+18098,-37.817388,14-Punt Rd/Wellington Pde (Melbourne City),144.989675,1,48
+18099,-37.817533,14-Punt Rd/Bridge Rd (Richmond),144.990217,1,48
+18100,-37.816603,13-Simpson St/Wellington Pde (East Melbourne),144.98697,1,48
+18102,-37.816246,11-Jolimont Station-MCG/Wellington Pde (East Melbourne),144.983992,1,48
+19706,-37.817909,15-Epworth Hospital/Bridge Rd (Richmond),144.993808,1,48
+19708,-37.818361,17-Bosisto St/Bridge Rd (Richmond),144.996499,1,48
+19709,-37.818472,18-Church St/Bridge Rd (Richmond),144.998791,1,48
+19710,-37.81875,19-Richmond Town Hall/Bridge Rd (Richmond),145.001374,1,48
+19711,-37.818977,20-Coppin St/Bridge Rd (Richmond),145.003571,1,48
+19712,-37.819535,21-Burnley St/Bridge Rd (Richmond),145.008873,1,48
+19713,-37.820099,22-Yarra Bvd/Bridge Rd (Richmond),145.01397,1,48
+19714,-37.820152,22-Yarra Bvd/Bridge Rd (Richmond),145.013401,1,48
+19715,-37.81948,21-Burnley St/Bridge Rd (Richmond),145.007772,1,48
+19716,-37.819083,20-Coppin St/Bridge Rd (Richmond),145.003977,1,48
+19717,-37.818813,19-Richmond Town Hall/Bridge Rd (Richmond),145.001372,1,48
+19719,-37.818219,17-Waltham St/Bridge Rd (Richmond),144.996639,1,48
+19734,-37.818023,15-Epworth Hospital/Bridge Rd (Richmond),144.993577,1,48
+22560,-37.81995,23-Hawthorn Bridge/Bridge Rd (Hawthorn),145.016371,1,48
+22561,-37.820019,23-Hawthorn Bridge/Bridge Rd (Hawthorn),145.016221,1,48
+18093,-37.815453,9-Lansdowne St/Wellington Pde (East Melbourne),144.977164,1,48
+18094,-37.81575,10-Jolimont Rd/Wellington Pde (East Melbourne),144.979791,1,48
+18103,-37.815769,10-Jolimont Rd/Wellington Pde (East Melbourne),144.979325,1,48
+18104,-37.815471,9-Lansdowne St/Wellington Pde (Melbourne City),144.976664,1,48
+19299,-37.827393,29-Power St/Riversdale Rd (Hawthorn),145.025443,1,75
+19454,-37.827623,29-Power St/Riversdale Rd (Hawthorn),145.025709,1,75
+19300,-37.828211,30-Through St/Riversdale Rd (Hawthorn),145.029068,1,75
+19301,-37.828506,31-Fordholm Rd/Riversdale Rd (Hawthorn),145.031628,1,75
+19450,-37.828635,32-Glenferrie Rd/Riversdale Rd (Hawthorn),145.033954,1,75
+19451,-37.828351,31-Fordholm Rd/Riversdale Rd (Hawthorn),145.031507,1,75
+19452,-37.828076,30-Through St/Riversdale Rd (Hawthorn),145.029083,1,75
+19754,-37.829308,34-Kooyongkoot Rd/Riversdale Rd (Hawthorn),145.03864,1,75
+19755,-37.829662,35-Robinson Rd/Riversdale Rd (Hawthorn),145.041528,1,75
+19756,-37.829943,36-Auburn Rd/Riversdale Rd (Hawthorn East),145.043781,1,75
+19757,-37.83038,37-Tooronga Rd/Riversdale Rd (Hawthorn East),145.047849,1,75
+19758,-37.830839,38-Hastings Rd/Riversdale Rd (Hawthorn East),145.05162,1,75
+19759,-37.831216,39-Camberwell Tram Depot/Riversdale Rd (Hawthorn East),145.054792,1,75
+19302,-37.828842,32-Glenferrie Rd/Riversdale Rd (Hawthorn),145.034471,1,75
+19303,-37.829159,33-Berkeley St/Riversdale Rd (Hawthorn),145.037258,1,75
+19442,-37.83127,40-Camberwell Junction/Riversdale Rd (Hawthorn East),145.056426,1,75
+19443,-37.831028,39-Camberwell Tram Depot/Riversdale Rd (Hawthorn East),145.054308,1,75
+19444,-37.83069,38-Hastings Rd/Riversdale Rd (Hawthorn East),145.05134,1,75
+19445,-37.830259,37-Tooronga Rd/Riversdale Rd (Hawthorn East),145.047636,1,75
+19446,-37.829776,36-Auburn Rd/Riversdale Rd (Hawthorn East),145.043502,1,75
+19447,-37.829537,35-Robinson Rd/Riversdale Rd (Hawthorn),145.041554,1,75
+19448,-37.829179,34-Kooyongkoot Rd/Riversdale Rd (Hawthorn),145.038473,1,75
+19449,-37.828971,33-Berkeley St/Riversdale Rd (Hawthorn),145.036797,1,75
+18516,-37.771415,38-Ferguson St/Maribyrnong Rd (Ascot Vale),144.912757,1,82
+18517,-37.771027,39-Bowen St/Maribyrnong Rd (Moonee Ponds),144.90918,1,82
+18518,-37.770631,40-Epsom Rd/Maribyrnong Rd (Ascot Vale),144.905672,1,82
+1083,-37.769699,42-Clyde St/Raleigh Rd (Maribyrnong),144.898841,1,82
+13995,-37.768891,44-Barb St/Raleigh Rd (Maribyrnong),144.891985,1,82
+15559,-37.768629,45-Randall St/Raleigh Rd (Maribyrnong),144.888938,1,82
+17917,-37.768887,46-Rosamond Rd/Raleigh Rd (Maribyrnong),144.886729,1,82
+17935,-37.770432,40-Epsom Rd/Maribyrnong Rd (Moonee Ponds),144.905121,1,82
+17936,-37.770862,39-Bowen St/Maribyrnong Rd (Moonee Ponds),144.909003,1,82
+17937,-37.771236,38-Hotham St/Maribyrnong Rd (Moonee Ponds),144.91233,1,82
+17938,-37.771644,37-Union Rd/Maribyrnong Rd (Moonee Ponds),144.915997,1,82
+18485,-37.770297,41-Maribyrnong Park/Maribyrnong Rd (Ascot Vale),144.902571,1,82
+18486,-37.769829,42-Clyde St/Raleigh Rd (Maribyrnong),144.899087,1,82
+18487,-37.769506,43-Van Ness Ave/Raleigh Rd (Maribyrnong),144.896122,1,82
+18488,-37.769057,44-Warrs Rd/Raleigh Rd (Maribyrnong),144.892184,1,82
+18489,-37.768739,45-Maribyrnong Community Centre/Raleigh Rd (Maribyrnong),144.889548,1,82
+18490,-37.769003,46-Rosamond Rd/Raleigh Rd (Maribyrnong),144.887157,1,82
+18491,-37.769403,48-Wests Rd/Raleigh Rd (Maribyrnong),144.883319,1,82
+992,-37.77008,41-Maribyrnong Park/Maribyrnong Rd (Ascot Vale),144.902055,1,82
+4945,-37.769318,43-Van Ness Ave/Raleigh Rd (Maribyrnong),144.895673,1,82
+19269,-37.766935,32-Moonee Ponds Junction/Pascoe Vale Rd (Moonee Ponds),144.924916,1,82
+19608,-37.766653,32-Moonee Ponds Junction/Pascoe Vale Rd (Moonee Ponds),144.92481,1,82
+17591,-37.812769,7-Russell St/Bourke St (Melbourne City),144.968354,1,96
+17593,-37.813484,6-Swanston St/Bourke St (Melbourne City),144.965904,1,96
+17594,-37.814217,5-Elizabeth St/Bourke St (Melbourne City),144.96351,1,96
+17596,-37.815253,4-Queen St/Bourke St (Melbourne City),144.959835,1,96
+17597,-37.815882,3-William St/Bourke St (Melbourne City),144.957625,1,96
+17848,-37.817063,1-Spencer St/Bourke St (Melbourne City),144.953514,1,96
+17849,-37.816846,1-Spencer St/Bourke St (Melbourne City),144.953997,1,96
+17885,-37.815706,3-William St/Bourke St (Melbourne City),144.957914,1,96
+17886,-37.815122,4-Queen St/Bourke St (Melbourne City),144.960054,1,96
+17887,-37.814031,5-Elizabeth St/Bourke St (Melbourne City),144.963685,1,96
+17888,-37.813266,6-Swanston St/Bourke St (Melbourne City),144.966376,1,96
+17889,-37.812468,7-Russell St/Bourke St (Melbourne City),144.969169,1,96
+17878,-37.805758,11-Melbourne Museum/Nicholson St (Fitzroy),144.973601,1,96
+17882,-37.811544,9-Spring St/Bourke St (Melbourne City),144.972579,1,96
+17891,-37.811523,9-Spring St/Bourke St (Melbourne City),144.97241,1,96
+17894,-37.805676,11-Melbourne Museum/Nicholson St (Fitzroy),144.973546,1,96
